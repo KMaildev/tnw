@@ -1,0 +1,152 @@
+.topAppBanner__featureBannerWrap {
+    /*padding: 16px 16px 16px 8px;*/
+    background-color: #ffffff;
+    display: flex;
+    align-items: center;
+}
+
+.topAppBanner__imgWrap {
+    margin-right: 8px;
+    line-height: 0;
+    align-self: flex-start;
+    padding-top: 10px;
+}
+
+.topAppBanner__contentWrap {
+    /* max-width: 180px; */
+    padding: 4px 0;
+    padding-right: 8px;
+}
+
+.topAppBanner__downloadWrap {
+    margin-left: 8px;
+    display: flex;
+    flex-direction: column;
+    align-self: stretch;
+    margin-left: auto;
+    min-width: 110px;
+}
+
+.longBtn.topAppBanner__downloadWrap {
+    min-width: 127px;
+}
+
+.topAppBanner__downloadWrap>button {
+    /*margin-top: auto;*/
+    /* margin-top: 11px; */
+}
+
+.topAppBanner__storeWrap {
+    border: 1px solid #FFE6BC;
+    border-radius: 1px;
+    padding-left: 8px;
+    display: flex;
+    align-items: center;
+    margin-bottom: 10px;
+}
+
+.topAppBanner__storeWrap>span {
+    font-size: 8px;
+    line-height: 10px;
+    color: #091e42;
+    vertical-align: middle;
+}
+
+.topAppBanner__storeWrap>img {
+    margin-right: 4px;
+}
+
+.topAppBanner__ratingBadge {
+    padding: 4px;
+    background: #FFFBF3;
+    display: inline-flex;
+    align-items: center;
+    margin-left: auto;
+    border-left: 1px solid #FFE6BC;
+}
+
+.topAppBanner__ratingBadge span {
+    font-weight: bold;
+    font-size: 10px;
+    line-height: 12px;
+    color: #42526E;
+    margin-right: 4px;
+    vertical-align: middle;
+}
+
+.topAppBanner__ratingBadge img {
+    width: 10px;
+    vertical-align: middle;
+}
+
+.infoTextWrap {
+    display: flex;
+    align-items: center;
+}
+
+.infoTextWrap img {
+    margin-right: 8px;
+}
+
+.topAppBanner__iconFeatured {
+    width: 43px;
+}
+
+.appleIcnSprite {
+    background-image: url(https://static.99acres.com/universalapp/img/Commonsprite_v20.png);
+    background-size: 169.7px 83.2px;
+    background-position: -150px -70px;
+    width: 10px;
+    height: 10px;
+    margin-right: 4px;
+}
+
+.playStoreIcnSprite {
+    background-image: url(https://static.99acres.com/universalapp/img/Commonsprite_v20.png);
+    background-size: 169.7px 83.2px;
+    background-position: -160px -70px;
+    width: 10px;
+    height: 10px;
+    margin-right: 4px;
+}
+
+.section_header_semiBold {
+    font-size: 16px;
+    line-height: 24px;
+    font-weight: 600;
+    color: #091e42;
+    display: block;
+    text-align: left
+}
+.buttons__primarySmall {
+    box-shadow: 0 1px 4px 0 rgba(0, 106, 194, .2);
+    background: #0078db;
+    border-radius: 4px;
+    -webkit-border-radius: 4px;
+    -moz-border-radius: 4px;
+    outline: 0;
+    margin: 0;
+    vertical-align: middle;
+    cursor: pointer;
+    border: 0;
+    padding: 4px 8px;
+    font-size: 12px;
+    line-height: 16px;
+    font-weight: 600;
+    color: #fff;
+    display: inline-block;
+    text-align: center;
+    vertical-align: middle
+}
+
+.buttons__primarySmall:active {
+    background: #005ca8
+}
+
+.buttons__primarySmall:hover {
+    background: #006ac2
+}
+
+.buttons__bold {
+    font-weight: 700
+}

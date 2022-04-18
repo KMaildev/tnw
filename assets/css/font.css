@@ -1,0 +1,18 @@
+@import url('https://fonts.googleapis.com/css2?family=Padauk:wght@400;700&family=Raleway:wght@300;500;600;700&display=swap');
+*:not(i){
+    font-family: 'Raleway','Padauk', sans-serif !important;
+}
+.mm-font{
+    line-height: 1.8 !important;
+}
+
+/*@font-face {*/
+/*    font-family: "Zawgyi-One";*/
+/*    font-display: block;*/
+/*    src: local('Zawgyi-One'), url('https://www.imyanmarhouse.com/assets/fonts/zawgyi/zawgyi.woff') format('woff'), url("https://www.imyanmarhouse.com/assets/fonts/zawgyi/zawgyi.ttf") format("truetype");*/
+/*}*/
+
+/*html,body,p,div,*,table*/
+/*{*/
+/*    font-family: 'Zawgyi-One';*/
+/*}*/

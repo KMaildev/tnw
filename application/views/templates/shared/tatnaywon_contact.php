@@ -1,0 +1,3 @@
+<a title="Phone" href="tel:<?php echo $tatnaywon->phone; ?>" class="btn btn-sm"  style="height: 30px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); color: white; background-color: #ff8f09;"> <i class="fa fa-phone fa-lg" style="color: white;"></i> </a>
+
+<a title="Mail" href="mailto:<?php echo $tatnaywon->email; ?>" class="btn btn-sm"  style="height: 30px; box-shadow: 0 8px 16px 0 rgba(0,0,0,0.2), 0 6px 20px 0 rgba(0,0,0,0.19); color: white; background-color: blue;"> <i class="fa fa-envelope fa-lg" style="color: white;"></i> </a>

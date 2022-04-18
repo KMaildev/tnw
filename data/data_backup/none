@@ -1,0 +1,34 @@
+
+// public function add_company() {
+//     $data['company_name'] = $this->input->post('company_name');
+//     $data['address'] = $this->input->post('address');
+//     $data['phone'] = $this->input->post('phone');
+//     $data['email'] = $this->input->post('email');
+//     $data['status'] = 1;
+//     $this->form_validation->set_rules('company_name', 'Company Name', 'required');
+//     if ($this->form_validation->run() === FALSE){ 
+//         $this->load->view('admin/company/index');
+//     }else{
+//         $data['logo'] = $this->input->post('logo', TRUE);
+//         $config['upload_path']          = APPPATH. 'uploads/';
+//         $config['allowed_types']        = 'gif|jpg|png';
+//         $config['max_size']             = 100;
+//         $this->load->library('upload', $config);
+
+//         if (!$this->upload->do_upload('logo')){
+//             $error = array('error' => $this->upload->display_errors());
+//             $this->load->view('admin/company/index', $error);
+//         }else{
+//             //file is uploaded successfully
+//             //now get the file uploaded data 
+//             $upload_data = $this->upload->data();
+//             //get the uploaded file name
+//             $data['logo'] = $upload_data['file_name'];
+//             //store pic data to the db
+//             $this->property_type_model->insert($data);
+//             $this->session->set_flashdata('success', 'Saved');
+//             redirect('main/property_type');
+//         }
+
+//     }
+// }

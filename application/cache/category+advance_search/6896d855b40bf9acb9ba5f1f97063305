@@ -1,0 +1,861 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:20:{i:0;a:103:{s:7:"sale_id";s:4:"1485";s:9:"title_eng";s:121:"စမ်းချောင်းမြို့နယ် ၃လွှာတိုက်ခန်းအရောင်း";s:8:"title_mm";s:121:"စမ်းချောင်းမြို့နယ် ၃လွှာတိုက်ခန်းအရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:1:"8";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"3";s:4:"area";s:8:"12.5×50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"470";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:3:"Yes";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1154:"ရွှေလောင်းလမ်း စမ်းချောင်း (ကိုးနဝင်းကပ်ကျော်ဘုရား အနီး) 🙏လမ်းထိပ်မှာ CB ဘဏ်ရှိ (ဗဟိုလမ်းမပေါ်) 🏦၁၂'ခွဲ ၅၀' ၃လွှာ (မြေပိုင်ဆိုင်မှုပါ အပါ) 🏠တဖက်ရပ် (ရင်ကွဲတိုက်မဟုတ်) 👍၄ထပ်ပဲရှိ (မြေညီအပါ) ပြင်ဆင်ပြီး (မျက်နှာကျက်အလှဆင်) ကိုရီးယားပါကေးခင်း၊အခန်းပုံစံကန့်ထား 🏘ရေချိုးခန်း အိမ်သာ(ဘိုထိုင်) မီးဖိုချောင်(cabinatပါ) အကုန်ကြွေပြားခင်း 🛀LG air con တကောင်အား တလုံး ၊သံဗီဒို ၁လုံးပါ ၊သိန်း ၄၇၀ (ညှိုနှိုင်း) Banking နဲ့လဲ ရပါတယ် ၊ဖုန်း09761661637☎️ 09976837293";s:15:"description_eng";s:1154:"ရွှေလောင်းလမ်း စမ်းချောင်း (ကိုးနဝင်းကပ်ကျော်ဘုရား အနီး) 🙏လမ်းထိပ်မှာ CB ဘဏ်ရှိ (ဗဟိုလမ်းမပေါ်) 🏦၁၂'ခွဲ ၅၀' ၃လွှာ (မြေပိုင်ဆိုင်မှုပါ အပါ) 🏠တဖက်ရပ် (ရင်ကွဲတိုက်မဟုတ်) 👍၄ထပ်ပဲရှိ (မြေညီအပါ) ပြင်ဆင်ပြီး (မျက်နှာကျက်အလှဆင်) ကိုရီးယားပါကေးခင်း၊အခန်းပုံစံကန့်ထား 🏘ရေချိုးခန်း အိမ်သာ(ဘိုထိုင်) မီးဖိုချောင်(cabinatပါ) အကုန်ကြွေပြားခင်း 🛀LG air con တကောင်အား တလုံး ၊သံဗီဒို ၁လုံးပါ ၊သိန်း ၄၇၀ (ညှိုနှိုင်း) Banking နဲ့လဲ ရပါတယ် ၊ဖုန်း09761661637☎️ 09976837293";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:17:"by_owner_for_sale";s:9:"ad_number";s:9:"OS-000256";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 17:05 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09761661637,09976837293";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Owner";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:1:"8";s:10:"regions_id";s:1:"1";s:9:"townships";s:9:"Sanchaung";s:12:"townships_mm";s:33:"စမ်းချောင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9172";s:5:"photo";s:36:"13bde709e27b05c7132aec2be5bb8cb4.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1485";}i:1;a:103:{s:7:"sale_id";s:4:"1484";s:9:"title_eng";s:316:" တောငိဥက္ကလာပမြို့နယ်၊၁၄/၃ရပ်ကွက် ၊  သံသုမာလမ်းမကျယ်ပေါ် ၊ မြင်သာစျေးနီး ၊ ကျောင်းနီး ၊ ဆေးရုံနီး ၊ ကွန်ဒိုအရောင်း";s:8:"title_mm";s:316:" တောငိဥက္ကလာပမြို့နယ်၊၁၄/၃ရပ်ကွက် ၊  သံသုမာလမ်းမကျယ်ပေါ် ၊ မြင်သာစျေးနီး ၊ ကျောင်းနီး ၊ ဆေးရုံနီး ၊ ကွန်ဒိုအရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"26";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:1:"6";s:4:"area";s:5:"28*52";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"1350";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";s:4:"Lift";s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:680:" တောငိဥက္ကလာပမြို့နယ်၊၁၄/၃ရပ်ကွက် ၊  သံသုမာလမ်းမကျယ်ပေါ် ၊ မြင်သာစျေးနီး ၊ ကျောင်းနီး ၊ ဆေးရုံနီး ၊ ကွန်ဒိုအရောင်း
+၅ထပ် ၆ လွှာ ၊ ဓာတ်လှေကားပါ ၊ ကားပါကင်အဆင်ပြေ
+Master - 1, Single -2 
+ပေအကျယ် - 28*52 (1454 sqf)
+ရောင်းစျေး - ၁၃၅၀ သိန်း (ညှိနှိုင်း)
+ဆက်သွယ်စုံစမ်းရန် - 09250004306, 09455753964";s:15:"description_eng";s:680:" တောငိဥက္ကလာပမြို့နယ်၊၁၄/၃ရပ်ကွက် ၊  သံသုမာလမ်းမကျယ်ပေါ် ၊ မြင်သာစျေးနီး ၊ ကျောင်းနီး ၊ ဆေးရုံနီး ၊ ကွန်ဒိုအရောင်း
+၅ထပ် ၆ လွှာ ၊ ဓာတ်လှေကားပါ ၊ ကားပါကင်အဆင်ပြေ
+Master - 1, Single -2 
+ပေအကျယ် - 28*52 (1454 sqf)
+ရောင်းစျေး - ၁၃၅၀ သိန်း (ညှိနှိုင်း)
+ဆက်သွယ်စုံစမ်းရန် - 09250004306, 09455753964";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000964";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 16:58 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09250004306,09455753964";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"26";s:10:"regions_id";s:1:"1";s:9:"townships";s:14:"South Okkalapa";s:12:"townships_mm";s:36:"တောင်ဥက္ကလာပ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9163";s:5:"photo";s:36:"82a8d2360b8d2ee5b3a4109dd6924f03.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1484";}i:2;a:103:{s:7:"sale_id";s:4:"1483";s:9:"title_eng";s:200:"ရပ်ကွက်ကြီး (၁၇) ၊အနီးစခန်း  လျံရိပ်ငြိမ် (၃) လမ်း မေးတင်တွင် RCတိုက်အရောင်း";s:8:"title_mm";s:200:"ရပ်ကွက်ကြီး (၁၇) ၊အနီးစခန်း  လျံရိပ်ငြိမ် (၃) လမ်း မေးတင်တွင် RCတိုက်အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"60x90";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"1600";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:0:"";s:11:"living_room";s:1:"1";s:9:"bead_room";s:1:"3";s:10:"other_room";s:0:"";s:11:"shrine_room";s:1:"1";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1454:"ပေးရတဲ့ဈေးနဲ့ တန်တဲ့ RCတိုက်
+ပြင်ဦးလွင်မြို့၊ ရပ်ကွက်ကြီး (၁၇) ၊အနီးစခန်း 
+လျံရိပ်ငြိမ် (၃) လမ်း မေးတင်
+လားရှိုးလမ်းမကြီးမှ တစ်မိနစ်ခန့် အကွာ
+💁🏻‍♂️ ပေ ​၆ဝ x ၉၀ 
+✔ ရပ်ကွက်ကြီးမြေ
+တိုက်အသစ် ၊ ရေမီးစုံ
+အိပ်ခန်း ၄ ခန်း 
+Master Bedroom(1) 
+Single Bedroom( 3) 
+ဘုရားခန်း၊
+ဧည့်ခန်းကျယ်၊
+မီးဖိုထမင်းစားခန်း၊ 
+ဘုံရေချိုးခန်းအိမ်သာတစ်လုံး
+တစ်အိမ်လုံး ကြွေပြားခင်းပြီး ၊ အဝီစိတွင်း ၊ ရေပူ
+ရေအေး၊မီတာပါဝင်ပြီး
+ ရေမီးအစုံ အသင့်တက်ပြီး နေရုံပါခင်ဗျာ။
+💁🏻‍♂️  1600 သိန်း  (ညှိနှိုင်း)
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+📲 09684477120
+📲 09444279238
+📲 09968655810";s:15:"description_eng";s:1454:"ပေးရတဲ့ဈေးနဲ့ တန်တဲ့ RCတိုက်
+ပြင်ဦးလွင်မြို့၊ ရပ်ကွက်ကြီး (၁၇) ၊အနီးစခန်း 
+လျံရိပ်ငြိမ် (၃) လမ်း မေးတင်
+လားရှိုးလမ်းမကြီးမှ တစ်မိနစ်ခန့် အကွာ
+💁🏻‍♂️ ပေ ​၆ဝ x ၉၀ 
+✔ ရပ်ကွက်ကြီးမြေ
+တိုက်အသစ် ၊ ရေမီးစုံ
+အိပ်ခန်း ၄ ခန်း 
+Master Bedroom(1) 
+Single Bedroom( 3) 
+ဘုရားခန်း၊
+ဧည့်ခန်းကျယ်၊
+မီးဖိုထမင်းစားခန်း၊ 
+ဘုံရေချိုးခန်းအိမ်သာတစ်လုံး
+တစ်အိမ်လုံး ကြွေပြားခင်းပြီး ၊ အဝီစိတွင်း ၊ ရေပူ
+ရေအေး၊မီတာပါဝင်ပြီး
+ ရေမီးအစုံ အသင့်တက်ပြီး နေရုံပါခင်ဗျာ။
+💁🏻‍♂️  1600 သိန်း  (ညှိနှိုင်း)
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+📲 09684477120
+📲 09444279238
+📲 09968655810";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000963";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 16:50 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09968655810,09444279238";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9149";s:5:"photo";s:36:"1a44ffcd616f22fe9e8f30084a6e16e4.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1483";}i:3;a:103:{s:7:"sale_id";s:4:"1482";s:9:"title_eng";s:198:" မြေပိုင်တိုက်ပိုင်လေးမှာအေးအေးချမ်းချမ်း နေချင်တယ့် မိသားစုလေးအတွက်";s:8:"title_mm";s:198:" မြေပိုင်တိုက်ပိုင်လေးမှာအေးအေးချမ်းချမ်း နေချင်တယ့် မိသားစုလေးအတွက်";s:9:"region_id";N;s:16:"sale_township_id";s:2:"15";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"20*60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"930";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:2010:" မြေပိုင်တိုက်ပိုင်လေးမှာအေးအေးချမ်းချမ်း နေချင်တယ့် မိသားစုလေးအတွက်
+အရှုပ်အရှင်းကင်း 2RC တိုက်သစ်လေးကို 
+စျေးနှုန်း- ၉၃၀သိန်း  (ညှိနှိုင်း)ဖြင့်ရောင်းမည်
+နေရာ 
+ဗိုလ်ဗစိုး၄လမ်း၊၂ရပ်ကွက်၊ အရှေ့ဒဂုံမြို့နယ်၊ ရာဇသကြ်န်လမ်းမတည့်ပေါက်နှင့် ကျန်စစ်သားလမ်းမကြီးတို့အနီး၊
+ပေ ၂၀ပေ ၆၀ 
+ဂရန်မြေ (မိတ္တူခြမ်း)* အရှေဖက်လှည့်*
+ပတ်ဝန်းကျင် လူနေသန့်ပြီး၊အေးချမ်းမှုရှိ
+ လမ်းထိပ်ကားမှတ်တိုင်ရှိ ၊စျေးနီး
+ ပိုင်ဆိုင်ခိုင်မာမှု
+သတင်းစာကြော်ငြာပြီး၊ ရှေ့နေဖြင့်စာချုပ်စာတမ်းပြုလုပ်ထားသောမြေ အရှုပ်အရှင်းကင်း တွင်ဆောက်လုပ်ထားပါသည်။
+ RC တိုက်အရည်သွေး
+နာမည်ရဆောက်လုပ်ရေး Company မှ အင်ဂျင်နီယာကန်ထရိုက်တာနှင့်အပ်နှံပြီး သတ်မှတ်စံနှုန်းအတိုင်းခိုင်ခန့်စွာ ဆောက်လုပ်ထားပါသည်
+09-976671 555 သို့တိုက်ရိုက်ဆက်သွယ်နိုင်ပါသည်။
+အကျိုးဆောင်လက်ခံပါသည်";s:15:"description_eng";s:2008:" မြေပိုင်တိုက်ပိုင်လေးမှာအေးအေးချမ်းချမ်း နေချင်တယ့် မိသားစုလေးအတွက်
+အရှုပ်အရှင်းကင်း 2RC တိုက်သစ်လေးကို 
+စျေးနှုန်း- ၉၃၀သိန်း  (ညှိနှိုင်း)ဖြင့်ရောင်းမည်
+နေရာ 
+ဗိုလ်ဗစိုး၄လမ်း၊၂ရပ်ကွက်၊ အရှေ့ဒဂုံမြို့နယ်၊ ရာဇသကြ်န်လမ်းမတည့်ပေါက်နှင့် ကျန်စစ်သားလမ်းမကြီးတို့အနီး၊
+ပေ ၂၀ပေ ၆၀ 
+ဂရန်မြေ (မိတ္တူခြမ်း)* အရှေဖက်လှည့်*
+ပတ်ဝန်းကျင် လူနေသန့်ပြီး၊အေးချမ်းမှုရှိ
+ လမ်းထိပ်ကားမှတ်တိုင်ရှိ ၊စျေးနီး
+ ပိုင်ဆိုင်ခိုင်မာမှု
+သတင်းစာကြော်ငြာပြီး၊ ရှေ့နေဖြင့်စာချုပ်စာတမ်းပြုလုပ်ထားသောမြေ အရှုပ်အရှင်းကင်း တွင်ဆောက်လုပ်ထားပါသည်။
+ RC တိုက်အရည်သွေး
+နာမည်ရဆောက်လုပ်ရေး Company မှ အင်ဂျင်နီယာကန်ထရိုက်တာနှင့်အပ်နှံပြီး သတ်မှတ်စံနှုန်းအတိုင်းခိုင်ခန့်စွာ ဆောက်လုပ်ထားပါသည်
+09976671555 သို့တိုက်ရိုက်ဆက်သွယ်နိုင်ပါသည်။
+အကျိုးဆောင်လက်ခံပါသည်";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000962";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 16:40 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09976671555";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"15";s:10:"regions_id";s:1:"1";s:9:"townships";s:10:"East Dagon";s:12:"townships_mm";s:70:"ဒဂုံမြို့သစ် အရှေ့ပိုင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9139";s:5:"photo";s:36:"23cd6a3b07f09556e71006d8d7ca8765.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1482";}i:4;a:103:{s:7:"sale_id";s:4:"1481";s:9:"title_eng";s:121:"တစ်ထပ် အိမ်အပါ မြေကွက်ကျယ် ပြင်ဦးလွင်မြို့ ";s:8:"title_mm";s:121:"တစ်ထပ် အိမ်အပါ မြေကွက်ကျယ် ပြင်ဦးလွင်မြို့ ";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:6:"80x100";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"2200";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:1:"1";s:11:"living_room";s:1:"1";s:9:"bead_room";s:1:"1";s:10:"other_room";s:0:"";s:11:"shrine_room";s:1:"1";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:2237:"မဂ်လာပါမိတ်ဆွေ
+တစ်ထပ် အိမ်အပါ မြေကွက်ကျယ်
+ပြင်ဦးလွင်မြို့ 
+ရပ်ကွက်ကြီး(၁၁)၊ရေငယ်
+မဟာအံ့ထူးကံသာဘုရားကြီးသို့သွားသော
+နိုင်လွန်ကတ္တရာလမ်းနှင့် ပေ(၂၀၀)ခန့်အကွာ
+မန္တလေး-လားရှိုးလမ်းမကြီးနှင့် ပေ(၅၀၀)ခန့်
+အကွာ အေးချမ်းဆိတ်ငြိမ်ရပ်ကွက် 
+ရန်ကုန်မြို့ကြီးရဲ့အဆင့်မြင့်ဝင်ဒါမီယာပုံစံ  
+တကယ့်နေချင်စဖွယ် 
+ခြံကျယ်ကျယ်အိမ်ကြီးဖြစ်ပါတယ်ခင်ဗျာ
+#အရပ်မျက်နှာအလှည့်- အရှေ့အရပ်
+            (၂၂၀၀)သိန်း ညှိနှိုင်း
+( ညှိနှိုင်းဈေးမရိုင်းတဲ့အနေအထားပါခင်ဗျာ။)
+မြေအမျိုးအစား- ရပ်ကွက်ကြီးမြေ၊ 
+ အိမ်နံပါတ်ကျပြီး။
+ခြံအကျယ်- (၈၀*၁၀၀)ပေ၊                 
+အိမ်ဖွဲ့စည်းပုံ
+အိမ်အကျယ်(၄၅*၃၀)ပေ  RCတစ်ထပ်တိုက်
+Master Bedroom (၁)ခန်း၊
+ရိုးရိုး(၁)ခန်း၊ဘုရားခန်း
+ဧည့်ခန်းအကျယ်၊မီးဖိုခန်း၊
+ဝန်ထမ်းနေရန်အတွက် 
+အခန်းတစ်ခန်းအပါ
+ကားဂိုထောင်သီးသန့်ထပ်ခိုးအပါ။
+ရေပူရေအေး( Solar System)၊ရေသန့်စက်အပါ။ 
+အဝီစိတွင်း မီတာ၊
+ရေမီးအစုံအသင့်တက်နေရုံပါခင်ဗျ
+📲09684477120
+📲09444279238
+📲09968655810
+📲09684477120";s:15:"description_eng";s:2237:"မဂ်လာပါမိတ်ဆွေ
+တစ်ထပ် အိမ်အပါ မြေကွက်ကျယ်
+ပြင်ဦးလွင်မြို့ 
+ရပ်ကွက်ကြီး(၁၁)၊ရေငယ်
+မဟာအံ့ထူးကံသာဘုရားကြီးသို့သွားသော
+နိုင်လွန်ကတ္တရာလမ်းနှင့် ပေ(၂၀၀)ခန့်အကွာ
+မန္တလေး-လားရှိုးလမ်းမကြီးနှင့် ပေ(၅၀၀)ခန့်
+အကွာ အေးချမ်းဆိတ်ငြိမ်ရပ်ကွက် 
+ရန်ကုန်မြို့ကြီးရဲ့အဆင့်မြင့်ဝင်ဒါမီယာပုံစံ  
+တကယ့်နေချင်စဖွယ် 
+ခြံကျယ်ကျယ်အိမ်ကြီးဖြစ်ပါတယ်ခင်ဗျာ
+#အရပ်မျက်နှာအလှည့်- အရှေ့အရပ်
+            (၂၂၀၀)သိန်း ညှိနှိုင်း
+( ညှိနှိုင်းဈေးမရိုင်းတဲ့အနေအထားပါခင်ဗျာ။)
+မြေအမျိုးအစား- ရပ်ကွက်ကြီးမြေ၊ 
+ အိမ်နံပါတ်ကျပြီး။
+ခြံအကျယ်- (၈၀*၁၀၀)ပေ၊                 
+အိမ်ဖွဲ့စည်းပုံ
+အိမ်အကျယ်(၄၅*၃၀)ပေ  RCတစ်ထပ်တိုက်
+Master Bedroom (၁)ခန်း၊
+ရိုးရိုး(၁)ခန်း၊ဘုရားခန်း
+ဧည့်ခန်းအကျယ်၊မီးဖိုခန်း၊
+ဝန်ထမ်းနေရန်အတွက် 
+အခန်းတစ်ခန်းအပါ
+ကားဂိုထောင်သီးသန့်ထပ်ခိုးအပါ။
+ရေပူရေအေး( Solar System)၊ရေသန့်စက်အပါ။ 
+အဝီစိတွင်း မီတာ၊
+ရေမီးအစုံအသင့်တက်နေရုံပါခင်ဗျ
+📲09684477120
+📲09444279238
+📲09968655810
+📲09684477120";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000961";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 16:34 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:35:"09684477120,09444279238,09968655810";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9118";s:5:"photo";s:36:"e19289539129e05f5e2abab6e99569e4.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1481";}i:5;a:103:{s:7:"sale_id";s:4:"1480";s:9:"title_eng";s:133:"သင်္ဃန်းကျွန်းမြို့နယ် ပထမထပ်တိုက်ခန်းအရောင်း";s:8:"title_mm";s:133:"သင်္ဃန်းကျွန်းမြို့နယ် ပထမထပ်တိုက်ခန်းအရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"27";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"1";s:4:"area";s:5:"20*50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"850";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:619:"မိသားစုနေဖို့ တိုက်ခန်းလေးရှာနေပါသလား???အထပ်မမြင့်ဘဲ ကျယ်ကျယ်၀န်း၀န်းလေးနေလို့ရမယ့် အခန်းကျယ် ပထမထပ်လေးရှိပါတယ်။ 👉တည်နေရာ - သင်္ဃာန်းကျွန်း 16/4 👉ပထမထပ် 20*50 အခန်း2ခန်းပါ👉ပြင်ဆင်ပြီးတိုက်သန့် 💵 ရောင်း  850သိန်း ညှိနှိုင်း၊ 09782229078";s:15:"description_eng";s:619:"မိသားစုနေဖို့ တိုက်ခန်းလေးရှာနေပါသလား???အထပ်မမြင့်ဘဲ ကျယ်ကျယ်၀န်း၀န်းလေးနေလို့ရမယ့် အခန်းကျယ် ပထမထပ်လေးရှိပါတယ်။ 👉တည်နေရာ - သင်္ဃာန်းကျွန်း 16/4 👉ပထမထပ် 20*50 အခန်း2ခန်းပါ👉ပြင်ဆင်ပြီးတိုက်သန့် 💵 ရောင်း  850သိန်း ညှိနှိုင်း၊ 09782229078";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000960";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 16:33 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09782229078";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"27";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"Thingangyun";s:12:"townships_mm";s:42:"သင်္ဃန်းကျွန်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9108";s:5:"photo";s:36:"92464ab6d83adb448cebfb32d49f4864.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1480";}i:6;a:103:{s:7:"sale_id";s:4:"1479";s:9:"title_eng";s:133:"တောင်ဥက္ကလာပမြို့နယ် ဒုတိယထပ်တိုက်ခန်းအရောင်း";s:8:"title_mm";s:133:"တောင်ဥက္ကလာပမြို့နယ် ဒုတိယထပ်တိုက်ခန်းအရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"26";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"3";s:4:"area";s:5:"19*55";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"585";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:1:"2";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:2771:"လမ်းသန့် ကားပါကင်ရ စျေးနီး ကျောင်းနီး၊ အသင့်နေရုံ ဒုတိယထပ် အခန်းကျယ်၊ အကျယ်           ၁၉ပေ ၅၅ပေ၊ အထပ်              ဒုတိယထပ်၊စျေးနှုန်း            ၅၈၅ သိန်း (ညှိနှိုင်း)၊တည်နေရာ        ￼မေတာလမ်းမပေါ်က တောင်ဥကလာအမျိုးသမီးဆေးရုံရှေ့ မင်ဂလာလမ်းမကြီးကျောကပ်၊ရတနာလမ်းမနှင့် ၃မိနစ်စာအဝေး ၊လိပ်စာ။            No246,သီရိနန်ဒါ၂၈လမ်း ၁၃ရပ်ကွက် တောင်ဥကလာ၊￼ ပါဝင်မှု။             ကျွန်းပါကေးခင်းပြီး ၊ကျွန်းလျှာထိုး အခန်း၂ခန်း ဖွဲ့ပြီး၊အဲကွန်းတစ်လုံး ၊ဆန်းရှိတ် သံဗန်းများတပ်ပြီး ၊အရှေ့နောက်ဘာဂျာတံခါးတပ်ပြီး၊ ❤️ကျွန်းပါကေးတေလက်လက်ထအောင်ခင်းပေးထားပြီး ကျွန်းလျှာထိုးနဲ့အခန်း၂ခန်းဖွဲ့ပေးထားလို့ အခန်းကတော့ အသင့်တတ်နေချင်တဲ့ မိသားစုတွေအတွက် သင့်တော်ပါတယ်
+❤️ရေချိုးခန်းအိမ်သာ မီးဖိုချောင်ဝရန်တာကြွေပြားအပြည့်ခင်းထားပေးပြီး အိမ်ရှေ့ဝရန်တာနဲ့ပြတင်းပေါက်တိုင်းကိုသံဗန်းတေတပ်ထားပေးပြီးသားဆိုတော့လုံခြုံစိတ်ချမှုကအပြည့်ပေးစေနိုင်မှာပါလို့ air con တစ်လုံးလည်းပါပါတယ်၊🌹အိမ်ရှေ့လမ်းမကလည်းအခြားလမ်းသွယ်တေနဲ့မတူပဲ အတွင်းလမ်းကျယ်နီးပါးကျယ်တော့ကားပါကင်စိုးရိမ်သူတေအတွက်တိုက်ရှေ့မှာတင်အိုကေစိုပြေ👌🏼ဆက်သွယ်ရန် ဖုန်း/Viber (အကျိုးဆောင်) 09250497985
+";s:15:"description_eng";s:2771:"လမ်းသန့် ကားပါကင်ရ စျေးနီး ကျောင်းနီး၊ အသင့်နေရုံ ဒုတိယထပ် အခန်းကျယ်၊ အကျယ်           ၁၉ပေ ၅၅ပေ၊ အထပ်              ဒုတိယထပ်၊စျေးနှုန်း            ၅၈၅ သိန်း (ညှိနှိုင်း)၊တည်နေရာ        ￼မေတာလမ်းမပေါ်က တောင်ဥကလာအမျိုးသမီးဆေးရုံရှေ့ မင်ဂလာလမ်းမကြီးကျောကပ်၊ရတနာလမ်းမနှင့် ၃မိနစ်စာအဝေး ၊လိပ်စာ။            No246,သီရိနန်ဒါ၂၈လမ်း ၁၃ရပ်ကွက် တောင်ဥကလာ၊￼ ပါဝင်မှု။             ကျွန်းပါကေးခင်းပြီး ၊ကျွန်းလျှာထိုး အခန်း၂ခန်း ဖွဲ့ပြီး၊အဲကွန်းတစ်လုံး ၊ဆန်းရှိတ် သံဗန်းများတပ်ပြီး ၊အရှေ့နောက်ဘာဂျာတံခါးတပ်ပြီး၊ ❤️ကျွန်းပါကေးတေလက်လက်ထအောင်ခင်းပေးထားပြီး ကျွန်းလျှာထိုးနဲ့အခန်း၂ခန်းဖွဲ့ပေးထားလို့ အခန်းကတော့ အသင့်တတ်နေချင်တဲ့ မိသားစုတွေအတွက် သင့်တော်ပါတယ်
+❤️ရေချိုးခန်းအိမ်သာ မီးဖိုချောင်ဝရန်တာကြွေပြားအပြည့်ခင်းထားပေးပြီး အိမ်ရှေ့ဝရန်တာနဲ့ပြတင်းပေါက်တိုင်းကိုသံဗန်းတေတပ်ထားပေးပြီးသားဆိုတော့လုံခြုံစိတ်ချမှုကအပြည့်ပေးစေနိုင်မှာပါလို့ air con တစ်လုံးလည်းပါပါတယ်၊🌹အိမ်ရှေ့လမ်းမကလည်းအခြားလမ်းသွယ်တေနဲ့မတူပဲ အတွင်းလမ်းကျယ်နီးပါးကျယ်တော့ကားပါကင်စိုးရိမ်သူတေအတွက်တိုက်ရှေ့မှာတင်အိုကေစိုပြေ👌🏼ဆက်သွယ်ရန် ဖုန်း/Viber (အကျိုးဆောင်) 09250497985
+";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000959";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 15:37 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09250497985";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"26";s:10:"regions_id";s:1:"1";s:9:"townships";s:14:"South Okkalapa";s:12:"townships_mm";s:36:"တောင်ဥက္ကလာပ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9098";s:5:"photo";s:36:"04a8cec5b745beaa0cd0edef6109825c.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1479";}i:7;a:103:{s:7:"sale_id";s:4:"1478";s:9:"title_eng";s:167:"ပြင်ဦးလွင်မြို့  ရပ်ကွက်ကြီး(၁၁)ရေငယ်တွင် တိုက်အသန့်အရောင်း";s:8:"title_mm";s:167:"ပြင်ဦးလွင်မြို့  ရပ်ကွက်ကြီး(၁၁)ရေငယ်တွင် တိုက်အသန့်အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"40x60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"900";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:2380:"ပြင်ဦးလွင်မြို့ 
+ရပ်ကွက်ကြီး(၁၁)ရေငယ် 
+မန္တလေး-လားရှိုးမကြီးမှ ပေ(၃၀၀)ခန့်အကွာ
+ချိုနှင်းဆီဧည့်ရိပ်မွန်အနီး၊ အေးချမ်းဆိတ်ငြိမ်
+နေရာကောင်းလေးမှ RC တစ်ထပ်အိမ်လေး၊
+ဘေးဘယ်ညာ အိမ်ကြီးအိမ်ကောင်းများနှင့်
+ဝန်းရံထားတဲ့ ပတ်ဝန်းကျင်သန့်တဲ့နေရာ
+အိမ်နံပါတ်ကျပြီး တိုက်အသန့်လေးတစ်လုံး
+နှစ်လမ်းမေးတင်ထောင့်ကွက်လေး 
+#အရပ်မျက်နှာအလှည့်- တောင်အရပ်
+            💰(၉၀၀)သိန်းညှိနှိုင်း💰
+#ရန်ကုန်မှကွန်ဒိုတိုက်ခန်းများနှင့်
+အလဲအထပ်လုပ်ချင်ပါကလည်း ပြုလုပ်နိုင်ပါသည်။
+🌳မြေအမျိုးအစား- ဘိုးဘွားပိုင်ရွာမြေစစ်စစ်
+                                   အိမ်နံပါတ်ကျပြီးဖြစ်ပါတယ်။
+🌳ခြံအကျယ်- (၄၀*၆၀)ပေ
+             🏠အိမ်ဖွဲ့စည်းပုံ🏠
+✔ အိမ်အကျယ်(၃၄*၄၄)ပေ၊  RCတစ်ထပ်တိုက်
+✔ Master Bedroom(၁)ခန်း၊ ရိုးရိုး(၂)ခန်း၊
+✔ ဘုရားခန်း၊၊ဧည့်ခန်းအကျယ်၊မီးဖိုခန်း
+✔ ထမင်းစားခန်းသီးသန့််၊အဝီစိတွင်း၊ မီတာ၊
+✔ ရေပူရေအေးအပါ၊ရေမီးအစုံ
+အသင့်တက်နေရုံပါခင်ဗျ🙏
+ငွေပေးချေမှု၊စျေးနှုန်း ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+📲09444279238
+📲09684477120
+📲09968655810";s:15:"description_eng";s:2380:"ပြင်ဦးလွင်မြို့ 
+ရပ်ကွက်ကြီး(၁၁)ရေငယ် 
+မန္တလေး-လားရှိုးမကြီးမှ ပေ(၃၀၀)ခန့်အကွာ
+ချိုနှင်းဆီဧည့်ရိပ်မွန်အနီး၊ အေးချမ်းဆိတ်ငြိမ်
+နေရာကောင်းလေးမှ RC တစ်ထပ်အိမ်လေး၊
+ဘေးဘယ်ညာ အိမ်ကြီးအိမ်ကောင်းများနှင့်
+ဝန်းရံထားတဲ့ ပတ်ဝန်းကျင်သန့်တဲ့နေရာ
+အိမ်နံပါတ်ကျပြီး တိုက်အသန့်လေးတစ်လုံး
+နှစ်လမ်းမေးတင်ထောင့်ကွက်လေး 
+#အရပ်မျက်နှာအလှည့်- တောင်အရပ်
+            💰(၉၀၀)သိန်းညှိနှိုင်း💰
+#ရန်ကုန်မှကွန်ဒိုတိုက်ခန်းများနှင့်
+အလဲအထပ်လုပ်ချင်ပါကလည်း ပြုလုပ်နိုင်ပါသည်။
+🌳မြေအမျိုးအစား- ဘိုးဘွားပိုင်ရွာမြေစစ်စစ်
+                                   အိမ်နံပါတ်ကျပြီးဖြစ်ပါတယ်။
+🌳ခြံအကျယ်- (၄၀*၆၀)ပေ
+             🏠အိမ်ဖွဲ့စည်းပုံ🏠
+✔ အိမ်အကျယ်(၃၄*၄၄)ပေ၊  RCတစ်ထပ်တိုက်
+✔ Master Bedroom(၁)ခန်း၊ ရိုးရိုး(၂)ခန်း၊
+✔ ဘုရားခန်း၊၊ဧည့်ခန်းအကျယ်၊မီးဖိုခန်း
+✔ ထမင်းစားခန်းသီးသန့််၊အဝီစိတွင်း၊ မီတာ၊
+✔ ရေပူရေအေးအပါ၊ရေမီးအစုံ
+အသင့်တက်နေရုံပါခင်ဗျ🙏
+ငွေပေးချေမှု၊စျေးနှုန်း ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+📲09444279238
+📲09684477120
+📲09968655810";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000958";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 15:29 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:35:"09444279238,09684477120,09968655810";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9076";s:5:"photo";s:36:"416fe5888ae9f6a14e6451fcf7395ad0.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1478";}i:8;a:103:{s:7:"sale_id";s:4:"1477";s:9:"title_eng";s:167:"ပြင်ဆင်ပီး အထပ်နိမ့် ကားပါကင်ပါ လုံခြုံစိတ်ချရတဲ့ အခန်းလေး ";s:8:"title_mm";s:167:"ပြင်ဆင်ပီး အထပ်နိမ့် ကားပါကင်ပါ လုံခြုံစိတ်ချရတဲ့ အခန်းလေး ";s:9:"region_id";N;s:16:"sale_township_id";s:2:"26";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"2";s:4:"area";s:7:"12.5*55";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"630";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"1";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";s:14:"24 hrs Securit";s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";s:4:"CCTV";s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:937:"ပြင်ဆင်ပီး အထပ်နိမ့် ကားပါကင်ပါ လုံခြုံစိတ်ချရတဲ့ အခန်းလေး 
+B-5 ပထမထပ် ရတနာမွန်အိမ်ယာ
+တောင်ဥက္ကလာ 
+12.5' X 55' ပါ အခန်း၁ ခန်း
+ပါကေးခင်းဆန်းရှိတ် ရှေ့နောက်ဗာဂျာတံခါး
+ရေပူရေအေးAir con 2 လုံး
+မီးဖိုခန်း ရေချိုးခန်း အိမ်သာ ကြွေပြား 
+အပြည့်ကပ်ထား
+အားလုံးပြင်ဆင်ပြီး အသင့်နေထိုင်ရုံ အိမ်ယာဝင်းဖြစ်သည့်အတွက် CCTV Security နှင့် ကားပါကင် ပါပါတယ်
+စျေး-၆၃၀သိန်း
+09785120903";s:15:"description_eng";s:937:"ပြင်ဆင်ပီး အထပ်နိမ့် ကားပါကင်ပါ လုံခြုံစိတ်ချရတဲ့ အခန်းလေး 
+B-5 ပထမထပ် ရတနာမွန်အိမ်ယာ
+တောင်ဥက္ကလာ 
+12.5' X 55' ပါ အခန်း၁ ခန်း
+ပါကေးခင်းဆန်းရှိတ် ရှေ့နောက်ဗာဂျာတံခါး
+ရေပူရေအေးAir con 2 လုံး
+မီးဖိုခန်း ရေချိုးခန်း အိမ်သာ ကြွေပြား 
+အပြည့်ကပ်ထား
+အားလုံးပြင်ဆင်ပြီး အသင့်နေထိုင်ရုံ အိမ်ယာဝင်းဖြစ်သည့်အတွက် CCTV Security နှင့် ကားပါကင် ပါပါတယ်
+စျေး-၆၃၀သိန်း
+09785120903";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000957";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 15:19 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09785120903";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"26";s:10:"regions_id";s:1:"1";s:9:"townships";s:14:"South Okkalapa";s:12:"townships_mm";s:36:"တောင်ဥက္ကလာပ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9066";s:5:"photo";s:36:"c2988c440c1116660800d561e37336bb.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1477";}i:9;a:103:{s:7:"sale_id";s:4:"1476";s:9:"title_eng";s:192:"ပြင်ဦးလွင်မြို့  ရပ်ကွက်ကြီး(၂၁)၊သဇင်လမ်းမေးတင် RC တစ်ထပ်တိုက် အရောင်း";s:8:"title_mm";s:192:"ပြင်ဦးလွင်မြို့  ရပ်ကွက်ကြီး(၂၁)၊သဇင်လမ်းမေးတင် RC တစ်ထပ်တိုက် အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"40x60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"700";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1573:"ပြင်ဦးလွင်မြို့ 
+ရပ်ကွက်ကြီး(၂၁)၊သဇင်လမ်းမေးတင်
+RC တစ်ထပ်အိမ်အသစ်ကလေး၊
+လသာဆောင် ဝရန်တာ မှ ရှုခင်းကောင်းကောင်းခံစားလို့ရမည့်
+RC တစ်ထပ်အိမ်အသစ်စက်စက်
+#အရပ်မျက်နှာအလှည့်- အရှေ့အရပ်
+            💰(၇၀၀)သိန်းညှိနှိုင်း💰
+🌳မြေအမျိုးအစား- ရပ်ကွက်ကြီးမြေ
+🌳ခြံအကျယ်- (၄၀*၆၀)ပေ
+             🏠အိမ်ဖွဲ့စည်းပုံ🏠
+✔ အိမ်အကျယ်(၂၅*၃၀)ပေ၊  RCတစ်ထပ်တိုက်
+✔ Master Bedroom(၁)ခန်း၊ 
+✔ ရိုးရိုး(၂)ခန်း၊ဘုံ (ရေချိုးခန်း -(၁)ခန်းအိမ်သာ(၁)ခန်း)
+✔ ဘုရားခန်း၊ဧည့်ခန်း၊မီးဖိုခန်း၊အဝီစိတွင်း၊ မီတာ၊
+✔ ရေပူရေအေးအပါ၊ရေမီးအစုံ
+အသင့်တက်နေရုံပါခင်ဗျာ။
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+09444279238
+09684477120
+09968655810";s:15:"description_eng";s:1573:"ပြင်ဦးလွင်မြို့ 
+ရပ်ကွက်ကြီး(၂၁)၊သဇင်လမ်းမေးတင်
+RC တစ်ထပ်အိမ်အသစ်ကလေး၊
+လသာဆောင် ဝရန်တာ မှ ရှုခင်းကောင်းကောင်းခံစားလို့ရမည့်
+RC တစ်ထပ်အိမ်အသစ်စက်စက်
+#အရပ်မျက်နှာအလှည့်- အရှေ့အရပ်
+            💰(၇၀၀)သိန်းညှိနှိုင်း💰
+🌳မြေအမျိုးအစား- ရပ်ကွက်ကြီးမြေ
+🌳ခြံအကျယ်- (၄၀*၆၀)ပေ
+             🏠အိမ်ဖွဲ့စည်းပုံ🏠
+✔ အိမ်အကျယ်(၂၅*၃၀)ပေ၊  RCတစ်ထပ်တိုက်
+✔ Master Bedroom(၁)ခန်း၊ 
+✔ ရိုးရိုး(၂)ခန်း၊ဘုံ (ရေချိုးခန်း -(၁)ခန်းအိမ်သာ(၁)ခန်း)
+✔ ဘုရားခန်း၊ဧည့်ခန်း၊မီးဖိုခန်း၊အဝီစိတွင်း၊ မီတာ၊
+✔ ရေပူရေအေးအပါ၊ရေမီးအစုံ
+အသင့်တက်နေရုံပါခင်ဗျာ။
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+09444279238
+09684477120
+09968655810";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000956";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 15:09 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:35:"09444279238,09684477120,09968655810";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9048";s:5:"photo";s:36:"99b4e829f953c54e6388fd1ce5ea5fa1.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1476";}i:10;a:103:{s:7:"sale_id";s:4:"1475";s:9:"title_eng";s:85:"မြောက်ဥက္ကလာ လုံးချင်းအရောင်း";s:8:"title_mm";s:85:"မြောက်ဥက္ကလာ လုံးချင်းအရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"25";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"20*60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"550";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:580:"ဂရံကြီး ပေ ၂၀ ပေ၆၀ အကျယ် အသင့်နေယုံ အိမ်ကောင်းတိုက်ခံအိမ် အောက်ကြွေပြားခင်း နောက်ဖေးသံမံတလင်း ဘေးအုပ်တက် ခေမာလေးလမ်း အမှတ်၁၁၇ ကျောင်းလမ်းမှတ်တိုင် မြောက်ဥက္ကလာပမြို့နယ် ၊ သိန်း၅၅၀ အလျှော့အတင်းရှိပါမယ် 09429788321";s:15:"description_eng";s:580:"ဂရံကြီး ပေ ၂၀ ပေ၆၀ အကျယ် အသင့်နေယုံ အိမ်ကောင်းတိုက်ခံအိမ် အောက်ကြွေပြားခင်း နောက်ဖေးသံမံတလင်း ဘေးအုပ်တက် ခေမာလေးလမ်း အမှတ်၁၁၇ ကျောင်းလမ်းမှတ်တိုင် မြောက်ဥက္ကလာပမြို့နယ် ၊ သိန်း၅၅၀ အလျှော့အတင်းရှိပါမယ် 09429788321";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000955";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 14:43 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09429788321";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"25";s:10:"regions_id";s:1:"1";s:9:"townships";s:14:"North Okkalapa";s:12:"townships_mm";s:39:"မြောက်ဥက္ကလာပ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9047";s:5:"photo";s:36:"716111d7440079033b01d9245cf24896.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1475";}i:11;a:103:{s:7:"sale_id";s:4:"1469";s:9:"title_eng";s:148:"ပြင်ဦးလွင်မြို့  ပြင်စာရွာ၊ RC တစ်ထပ်တိုက် အိမ်အရောင်း";s:8:"title_mm";s:148:"ပြင်ဦးလွင်မြို့  ပြင်စာရွာ၊ RC တစ်ထပ်တိုက် အိမ်အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"40x50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"550";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"3";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1919:"ပြင်ဦးလွင်မြို့ 
+ပြင်စာရွာ၊မန္တလေး-လားရှိုးမကြီးမှ
+(၁)မိနစ်ခန့်အကွာအဝေး၊
+ပူပြင်းလှတဲ့နွေရာသီမှာ
+မိသားစု အေးအေးချမ်းချမ်း အပူရှောင်ဖို့၊အပန်းဖြေအနားယူဖို့
+စဉ်းစားနေတယ်ဆိုရင်တော့ ဈေးတန်းလေး
+မဆိုးတဲ့ RC တစ်ထပ်တိုက် အိမ်ကောင်းလေး တစ်လုံး နဲ့ မိတ်ဆက်ပေးပါရစေ ခင်ဗျာ။
+#အရပ်မျက်နှာအလှည့်- အ‌နောက်အရပ်
+     💁🏻‍♂️(၅၅၀)သိန်းညှိနှိုင်း
+✔ မြေအမျိုးအစား- ဘိုးဘွားပိုင်ရွာမြေစစ်စစ်
+                                   အိမ်အမှတ်-(၄၁၈)
+✔  မြေကွက်အကျယ်- (၄၀*၅၀)ပေ
+             🏠အိမ်ဖွဲ့စည်းပုံ🏠
+✔  အိမ်အကျယ်(၃၇*၂၈)ပေ၊  RC တစ်ထပ်တိုက်
+✔  Bedroom (၃)ခန်း၊
+✔  ဘုရားခန်း၊၊ဧည့်ခန်းအကျယ်၊
+✔  မီးဖိုခန်းသီးသန့််၊အဝီစိတွင်း မီတာလှပသေသပ် 
+ ရေမီးအစုံအသင့်တက်နေရုံပါခင်ဗျာ။
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+📲09444279238
+📲09684477120
+📲09968655810";s:15:"description_eng";s:1919:"ပြင်ဦးလွင်မြို့ 
+ပြင်စာရွာ၊မန္တလေး-လားရှိုးမကြီးမှ
+(၁)မိနစ်ခန့်အကွာအဝေး၊
+ပူပြင်းလှတဲ့နွေရာသီမှာ
+မိသားစု အေးအေးချမ်းချမ်း အပူရှောင်ဖို့၊အပန်းဖြေအနားယူဖို့
+စဉ်းစားနေတယ်ဆိုရင်တော့ ဈေးတန်းလေး
+မဆိုးတဲ့ RC တစ်ထပ်တိုက် အိမ်ကောင်းလေး တစ်လုံး နဲ့ မိတ်ဆက်ပေးပါရစေ ခင်ဗျာ။
+#အရပ်မျက်နှာအလှည့်- အ‌နောက်အရပ်
+     💁🏻‍♂️(၅၅၀)သိန်းညှိနှိုင်း
+✔ မြေအမျိုးအစား- ဘိုးဘွားပိုင်ရွာမြေစစ်စစ်
+                                   အိမ်အမှတ်-(၄၁၈)
+✔  မြေကွက်အကျယ်- (၄၀*၅၀)ပေ
+             🏠အိမ်ဖွဲ့စည်းပုံ🏠
+✔  အိမ်အကျယ်(၃၇*၂၈)ပေ၊  RC တစ်ထပ်တိုက်
+✔  Bedroom (၃)ခန်း၊
+✔  ဘုရားခန်း၊၊ဧည့်ခန်းအကျယ်၊
+✔  မီးဖိုခန်းသီးသန့််၊အဝီစိတွင်း မီတာလှပသေသပ် 
+ ရေမီးအစုံအသင့်တက်နေရုံပါခင်ဗျာ။
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+📲09444279238
+📲09684477120
+📲09968655810";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000953";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 12:42 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09444279238,09684477120";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9030";s:5:"photo";s:36:"81bbc50e45f92de0be450be291496153.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1469";}i:12;a:103:{s:7:"sale_id";s:4:"1468";s:9:"title_eng";s:73:"ထောင့်ကွက် မြေကွက်ငှားမည်";s:8:"title_mm";s:73:"ထောင့်ကွက် မြေကွက်ငှားမည်";s:9:"region_id";s:0:"";s:16:"sale_township_id";s:2:"16";s:18:"sale_property_type";s:1:"4";s:5:"floor";s:0:"";s:4:"area";s:5:"20x60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"15";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:1:"0";s:8:"bathroom";s:1:"0";s:14:"masterbathroom";N;s:11:"dining_room";s:1:"0";s:11:"living_room";s:1:"0";s:9:"bead_room";s:1:"0";s:10:"other_room";s:1:"0";s:11:"shrine_room";s:1:"0";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:64:"မြေကွက် သီးသန့်ငှားမည်";s:15:"description_eng";s:64:"မြေကွက် သီးသန့်ငှားမည်";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000186";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:2:"44";s:11:"carete_date";s:10:"2022-03-15";s:16:"post_upload_date";s:23:"18 March, 2022 12:35 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:3:"Yes";s:12:"top_featured";s:3:"Yes";s:14:"contact_number";s:12:"09-989048170";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:10:"refresh_ad";N;s:11:"township_id";s:2:"16";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"North Dagon";s:12:"townships_mm";s:73:"ဒဂုံမြို့သစ် မြောက်ပိုင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"4";s:13:"property_type";s:4:"Land";s:16:"property_type_mm";s:9:"မြေ";s:7:"user_id";s:2:"44";s:10:"company_id";s:9:"U-0000034";s:12:"company_name";s:4:"linn";s:4:"name";s:4:"linn";s:5:"email";s:11:"09751848390";s:12:"confirm_mail";s:0:"";s:5:"phone";s:11:"09751848390";s:8:"password";s:32:"48ba441c8cd803d4f3c5705b3cc7cadc";s:12:"company_type";s:0:"";s:7:"address";s:3:"ygn";s:11:"description";s:0:"";s:4:"logo";s:36:"383b622542759649c5feda58dee74f04.jpg";s:9:"user_role";s:0:"";s:16:"user_permissions";s:5:"agent";s:10:"package_id";s:1:"1";s:16:"suspended_status";s:1:"1";s:12:"propertie_id";s:4:"9029";s:5:"photo";s:36:"f4802ce92828541d817ce1244a3ba81f.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1468";}i:13;a:103:{s:7:"sale_id";s:4:"1467";s:9:"title_eng";s:33:"အိမ်ငှားမည်";s:8:"title_mm";s:33:"အိမ်ငှားမည်";s:9:"region_id";s:0:"";s:16:"sale_township_id";s:1:"6";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:0:"";s:4:"area";s:5:"15x50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:1:"2";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:0:"";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";s:0:"";s:7:"securit";s:0:"";s:16:"air_conditioning";s:0:"";s:4:"wifi";s:0:"";s:7:"balcony";s:0:"";s:4:"cctv";s:0:"";s:11:"car_parking";s:0:"";s:10:"dishwasher";s:0:"";s:9:"generator";s:0:"";s:11:"near_church";s:0:"";s:6:"garden";s:0:"";s:3:"gym";s:0:"";s:4:"lift";s:0:"";s:11:"play_ground";s:0:"";s:12:"water_heater";s:0:"";s:13:"mountain_view";s:0:"";s:11:"pagoda_view";s:0:"";s:8:"sea_view";s:0:"";s:9:"lake_view";s:0:"";s:9:"city_view";s:0:"";s:11:"garden_view";s:0:"";s:10:"river_view";s:0:"";s:8:"showroom";s:0:"";s:10:"restaurant";s:0:"";s:6:"office";s:0:"";s:9:"warehouse";s:0:"";s:14:"description_mm";s:79:"အလုံမြို့နယ် တိုက်ခန်းအငှား";s:15:"description_eng";s:79:"အလုံမြို့နယ် တိုက်ခန်းအငှား";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000952";s:9:"education";s:0:"";s:6:"health";s:0:"";s:14:"transportation";s:0:"";s:12:"user_info_id";s:2:"44";s:11:"carete_date";s:10:"2022-03-15";s:16:"post_upload_date";s:23:"18 March, 2022 12:24 pm";s:12:"viewer_count";s:1:"1";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:0:"";s:12:"top_featured";s:0:"";s:14:"contact_number";s:11:"09989048170";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:10:"refresh_ad";N;s:11:"township_id";s:1:"6";s:10:"regions_id";s:1:"1";s:9:"townships";s:6:"Ahlone";s:12:"townships_mm";s:12:"အလုံ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";s:2:"44";s:10:"company_id";s:9:"U-0000034";s:12:"company_name";s:4:"linn";s:4:"name";s:4:"linn";s:5:"email";s:11:"09751848390";s:12:"confirm_mail";s:0:"";s:5:"phone";s:11:"09751848390";s:8:"password";s:32:"48ba441c8cd803d4f3c5705b3cc7cadc";s:12:"company_type";s:0:"";s:7:"address";s:3:"ygn";s:11:"description";s:0:"";s:4:"logo";s:36:"383b622542759649c5feda58dee74f04.jpg";s:9:"user_role";s:0:"";s:16:"user_permissions";s:5:"agent";s:10:"package_id";s:1:"1";s:16:"suspended_status";s:1:"1";s:12:"propertie_id";s:4:"9026";s:5:"photo";s:36:"e54142b93d5b959b2cdb639ca3e38ffe.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1467";}i:14;a:103:{s:7:"sale_id";s:4:"1466";s:9:"title_eng";s:75:"အိမ်လှလှလေးတလုံးရောင်းမည်";s:8:"title_mm";s:75:"အိမ်လှလှလေးတလုံးရောင်းမည်";s:9:"region_id";s:0:"";s:16:"sale_township_id";s:2:"15";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"40x60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"600";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:0:"";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";s:0:"";s:7:"securit";s:0:"";s:16:"air_conditioning";s:0:"";s:4:"wifi";s:0:"";s:7:"balcony";s:0:"";s:4:"cctv";s:0:"";s:11:"car_parking";s:0:"";s:10:"dishwasher";s:0:"";s:9:"generator";s:0:"";s:11:"near_church";s:0:"";s:6:"garden";s:0:"";s:3:"gym";s:0:"";s:4:"lift";s:0:"";s:11:"play_ground";s:0:"";s:12:"water_heater";s:0:"";s:13:"mountain_view";s:0:"";s:11:"pagoda_view";s:0:"";s:8:"sea_view";s:0:"";s:9:"lake_view";s:0:"";s:9:"city_view";s:0:"";s:11:"garden_view";s:0:"";s:10:"river_view";s:0:"";s:8:"showroom";s:0:"";s:10:"restaurant";s:0:"";s:6:"office";s:0:"";s:9:"warehouse";s:0:"";s:14:"description_mm";s:261:"အရှေ့ဒဂုံမြို့နယ်တွင် ပေ၄၀ ၆၀
+ခြံနှင့်အိမ်အပါ စျေးနှုန်း ၆၀၀ ပိုင်ရှင်ကိုယ်တိုင်ရောင်းပါမည်";s:15:"description_eng";s:261:"အရှေ့ဒဂုံမြို့နယ်တွင် ပေ၄၀ ၆၀
+ခြံနှင့်အိမ်အပါ စျေးနှုန်း ၆၀၀ ပိုင်ရှင်ကိုယ်တိုင်ရောင်းပါမည်";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000951";s:9:"education";s:0:"";s:6:"health";s:0:"";s:14:"transportation";s:0:"";s:12:"user_info_id";s:2:"44";s:11:"carete_date";s:10:"2022-03-15";s:16:"post_upload_date";s:23:"18 March, 2022 12:10 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:0:"";s:12:"top_featured";s:0:"";s:14:"contact_number";s:11:"09989048170";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:10:"refresh_ad";N;s:11:"township_id";s:2:"15";s:10:"regions_id";s:1:"1";s:9:"townships";s:10:"East Dagon";s:12:"townships_mm";s:70:"ဒဂုံမြို့သစ် အရှေ့ပိုင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";s:2:"44";s:10:"company_id";s:9:"U-0000034";s:12:"company_name";s:4:"linn";s:4:"name";s:4:"linn";s:5:"email";s:11:"09751848390";s:12:"confirm_mail";s:0:"";s:5:"phone";s:11:"09751848390";s:8:"password";s:32:"48ba441c8cd803d4f3c5705b3cc7cadc";s:12:"company_type";s:0:"";s:7:"address";s:3:"ygn";s:11:"description";s:0:"";s:4:"logo";s:36:"383b622542759649c5feda58dee74f04.jpg";s:9:"user_role";s:0:"";s:16:"user_permissions";s:5:"agent";s:10:"package_id";s:1:"1";s:16:"suspended_status";s:1:"1";s:12:"propertie_id";s:4:"9018";s:5:"photo";s:36:"055e64fdf8ac073342dd7326784a461e.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1466";}i:15;a:103:{s:7:"sale_id";s:4:"1465";s:9:"title_eng";s:90:"မြောက်ဒဂုံ မြို့နယ် အိမ်အရောင်း ";s:8:"title_mm";s:90:"မြောက်ဒဂုံ မြို့နယ် အိမ်အရောင်း ";s:9:"region_id";s:0:"";s:16:"sale_township_id";s:2:"16";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"40*60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"5000";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:1:"4";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"4";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:1:"2";s:13:"swimming_pool";s:0:"";s:7:"securit";s:0:"";s:16:"air_conditioning";s:0:"";s:4:"wifi";s:0:"";s:7:"balcony";s:0:"";s:4:"cctv";s:0:"";s:11:"car_parking";s:0:"";s:10:"dishwasher";s:0:"";s:9:"generator";s:0:"";s:11:"near_church";s:0:"";s:6:"garden";s:0:"";s:3:"gym";s:0:"";s:4:"lift";s:0:"";s:11:"play_ground";s:0:"";s:12:"water_heater";s:0:"";s:13:"mountain_view";s:0:"";s:11:"pagoda_view";s:0:"";s:8:"sea_view";s:0:"";s:9:"lake_view";s:0:"";s:9:"city_view";s:0:"";s:11:"garden_view";s:0:"";s:10:"river_view";s:0:"";s:8:"showroom";s:0:"";s:10:"restaurant";s:0:"";s:6:"office";s:0:"";s:9:"warehouse";s:0:"";s:14:"description_mm";s:359:"​မြောက်ဒဂုံ မြို့နယ် အိမ်အရောင်း 
+အကျယ်အဝန်း 40*60
+ဈေးနှုန်း (5000)သိန်း
+လုံးချင်းအိမ်
+အခန်း ၄ခန်းပါ
+ဈေးနီးကျောင်းနီး။
+လမ်းမကြီးကျောကပ်";s:15:"description_eng";s:356:"မြောက်ဒဂုံ မြို့နယ် အိမ်အရောင်း 
+အကျယ်အဝန်း 40*60
+ဈေးနှုန်း (5000)သိန်း
+လုံးချင်းအိမ်
+အခန်း ၄ခန်းပါ
+ဈေးနီးကျောင်းနီး။
+လမ်းမကြီးကျောကပ်";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000950";s:9:"education";s:0:"";s:6:"health";s:0:"";s:14:"transportation";s:0:"";s:12:"user_info_id";s:2:"42";s:11:"carete_date";s:10:"2022-03-14";s:16:"post_upload_date";s:23:"18 March, 2022 11:13 am";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:0:"";s:12:"top_featured";s:0:"";s:14:"contact_number";s:12:"096479041134";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:10:"refresh_ad";N;s:11:"township_id";s:2:"16";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"North Dagon";s:12:"townships_mm";s:73:"ဒဂုံမြို့သစ် မြောက်ပိုင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";s:2:"42";s:10:"company_id";s:9:"U-0000032";s:12:"company_name";s:3:"TL ";s:4:"name";s:3:"TL ";s:5:"email";s:11:"09266656113";s:12:"confirm_mail";s:11:"09266656113";s:5:"phone";s:11:"09266656113";s:8:"password";s:32:"d54d1702ad0f8326224b817c796763c9";s:12:"company_type";s:7:"ByOwner";s:7:"address";s:30:"No.2, Yanshin Street , Yankin ";s:11:"description";s:0:"";s:4:"logo";s:0:"";s:9:"user_role";s:0:"";s:16:"user_permissions";s:8:"by_owner";s:10:"package_id";s:1:"1";s:16:"suspended_status";s:1:"1";s:12:"propertie_id";s:4:"9015";s:5:"photo";s:36:"ba4ee989da30c14544f8c843f3660ca0.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1465";}i:16;a:103:{s:7:"sale_id";s:4:"1464";s:9:"title_eng";s:160:"ပြင်ဦးလွင်မြို့ သစ္စာလမ်းမေးတင်တွင် Rcတစ်ထပ်တိုက်အရောင်း";s:8:"title_mm";s:160:"ပြင်ဦးလွင်မြို့ သစ္စာလမ်းမေးတင်တွင် Rcတစ်ထပ်တိုက်အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"50x70";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"2600";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1487:"မဂ်လာပါမိတ်ဆွေ!
+RC တစ်ထပ်တိုက်
+ခမ်းခမ်းနားနား Luxury ဆန်ဆန် နဲ့ အပန်းဖြေ အနားယူ နိုင်မယ့် အိမ်အလှလေး
+အရမ်း အရမ်း ကို လှလွန်းတဲ့ 
+ကျွန်းတိုင်လုံးတွေနဲ့ဆောက် ထားတဲ့ အိမ်လေး
+✴️ နေရာ 
+      မန္တလေး - လားရှိုးလမ်းမကြီး မှ 
+      တကွက်ငုတ် ၊သစ္စာမွန်လမ်း မေးတင်
+      ပြင်ဦးလွင်မြို့။
+🌲 ခြံအကျယ် ။ ( ၅၀ × ၇၀ ) ပေ
+စျေးနှုန်း။ ၂၆၀၀ သိန်း ( ညှိနှိုင်း ) 
+🍀 အိမ်အကျယ် 
+      ( ၄၀ × ၃၅ ) ပေ ။
+🏠 အိမ်ဖွဲ့စည်းပုံ 
+Master BedRoom ( ၃ ) ခန်း ၊  
+ဘုရားခန်းကျယ်၊ထမင်းစားခန်း ၊
+ မီးဖို မြေတိုက်ခန်းပါ ကားဂိုဒေါင်ကျယ် ။
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+09684477120(viber)
+09444279238
+09968655810";s:15:"description_eng";s:1487:"မဂ်လာပါမိတ်ဆွေ!
+RC တစ်ထပ်တိုက်
+ခမ်းခမ်းနားနား Luxury ဆန်ဆန် နဲ့ အပန်းဖြေ အနားယူ နိုင်မယ့် အိမ်အလှလေး
+အရမ်း အရမ်း ကို လှလွန်းတဲ့ 
+ကျွန်းတိုင်လုံးတွေနဲ့ဆောက် ထားတဲ့ အိမ်လေး
+✴️ နေရာ 
+      မန္တလေး - လားရှိုးလမ်းမကြီး မှ 
+      တကွက်ငုတ် ၊သစ္စာမွန်လမ်း မေးတင်
+      ပြင်ဦးလွင်မြို့။
+🌲 ခြံအကျယ် ။ ( ၅၀ × ၇၀ ) ပေ
+စျေးနှုန်း။ ၂၆၀၀ သိန်း ( ညှိနှိုင်း ) 
+🍀 အိမ်အကျယ် 
+      ( ၄၀ × ၃၅ ) ပေ ။
+🏠 အိမ်ဖွဲ့စည်းပုံ 
+Master BedRoom ( ၃ ) ခန်း ၊  
+ဘုရားခန်းကျယ်၊ထမင်းစားခန်း ၊
+ မီးဖို မြေတိုက်ခန်းပါ ကားဂိုဒေါင်ကျယ် ။
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+09684477120(viber)
+09444279238
+09968655810";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000949";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"17 March, 2022 17:11 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:35:"09968655810,09444279238,09684477120";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"8904";s:5:"photo";s:36:"01d3c87f8f0e32935c9dfb59cfeef66b.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1464";}i:17;a:103:{s:7:"sale_id";s:4:"1463";s:9:"title_eng";s:38:"ခြံ ရောင်း မည်";s:8:"title_mm";s:38:"ခြံ ရောင်း မည်";s:9:"region_id";N;s:16:"sale_township_id";s:2:"24";s:18:"sale_property_type";s:1:"4";s:5:"floor";s:0:"";s:4:"area";s:6:"30*100";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"900";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:836:"ခြံ ရောင်း မည်။ဘိုး ဘွား ပိုင်။
+📍 မျက် နှာ စာ ပေ - ၃၀ ၊  အ နောက် ပေ - ၁၀၀။
+📍 အုတ် တံ တိုင်း ၃ ဘက် ခတ် ပြီး။
+📍ကုန်း တ လ ဘောင် ရပ် ကွက် ။
+အ မှတ် (၃) လမ်း မ ကြီး ဘေး မာ မား ခေါက် ဆွဲ စက် ရုံ အ နီး။
+📌 အ ဆောင် လိုင်း ခန်း ဆောက် - ငှား  လို သူ များ အ တွက် နေ ရာ ကောင်း။
+💵 သိန်း ၉၀၀။ အ လျော့ အ တင်း ရှိ။
+👩🏻 ပိုင် ရှင် တိုက် ရိုက်။
+📳  09265000889";s:15:"description_eng";s:836:"ခြံ ရောင်း မည်။ဘိုး ဘွား ပိုင်။
+📍 မျက် နှာ စာ ပေ - ၃၀ ၊  အ နောက် ပေ - ၁၀၀။
+📍 အုတ် တံ တိုင်း ၃ ဘက် ခတ် ပြီး။
+📍ကုန်း တ လ ဘောင် ရပ် ကွက် ။
+အ မှတ် (၃) လမ်း မ ကြီး ဘေး မာ မား ခေါက် ဆွဲ စက် ရုံ အ နီး။
+📌 အ ဆောင် လိုင်း ခန်း ဆောက် - ငှား  လို သူ များ အ တွက် နေ ရာ ကောင်း။
+💵 သိန်း ၉၀၀။ အ လျော့ အ တင်း ရှိ။
+👩🏻 ပိုင် ရှင် တိုက် ရိုက်။
+📳  09265000889";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000948";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"17 March, 2022 17:01 pm";s:12:"viewer_count";s:1:"4";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09265000889";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"24";s:10:"regions_id";s:1:"1";s:9:"townships";s:10:"Mingaladon";s:12:"townships_mm";s:30:"မင်္ဂလာဒုံ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"4";s:13:"property_type";s:4:"Land";s:16:"property_type_mm";s:9:"မြေ";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"8903";s:5:"photo";s:36:"b2c298547a249b5a093caae0c18c9277.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1463";}i:18;a:103:{s:7:"sale_id";s:4:"1462";s:9:"title_eng";s:156:"ပြင်ဦးလွင်မြို့ ရပ်ကွက်ကြီး၁၁ ရေငယ်တွင် မြေကွက်အရောင်း";s:8:"title_mm";s:156:"ပြင်ဦးလွင်မြို့ ရပ်ကွက်ကြီး၁၁ ရေငယ်တွင် မြေကွက်အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"4";s:5:"floor";s:0:"";s:4:"area";s:5:"50x70";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"490";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:882:"စျေးတန်တဲ့ မြေကွက်
+
+ရပ်ကွက်ကြီး ၁၁၊ရေငယ်၊ပြင်ဦးလွင်မြို့။
+
+#ပန်းချယ်ရီဝေ ပျိုးဥယျာဥ် ဘေး ကပ်လျက် 
+မဉ္ဇူ လမ်းမေးတင် မိုးကုတ်လမ်းခွဲ လမ်းမကြီး မှ ပေ ၁၀၀အကွာ ၂ ကွက်ငုပ်
+
+နေရာကောင်း၊လမ်းထောင့်ကွက်
+
+💁🏻‍♂️ 50*70 ပေ
+
+💁🏻‍♂️ ၄၉၀ သိန်း ပါးပါးညှိ
+
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+
+MayMyoCityLand@ PyinOoLwin
+09684477120(viber)
+09444279238
+09968655810";s:15:"description_eng";s:882:"စျေးတန်တဲ့ မြေကွက်
+
+ရပ်ကွက်ကြီး ၁၁၊ရေငယ်၊ပြင်ဦးလွင်မြို့။
+
+#ပန်းချယ်ရီဝေ ပျိုးဥယျာဥ် ဘေး ကပ်လျက် 
+မဉ္ဇူ လမ်းမေးတင် မိုးကုတ်လမ်းခွဲ လမ်းမကြီး မှ ပေ ၁၀၀အကွာ ၂ ကွက်ငုပ်
+
+နေရာကောင်း၊လမ်းထောင့်ကွက်
+
+💁🏻‍♂️ 50*70 ပေ
+
+💁🏻‍♂️ ၄၉၀ သိန်း ပါးပါးညှိ
+
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+
+MayMyoCityLand@ PyinOoLwin
+09684477120(viber)
+09444279238
+09968655810";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000947";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"17 March, 2022 16:58 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09684477120,09444279238";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"4";s:13:"property_type";s:4:"Land";s:16:"property_type_mm";s:9:"မြေ";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"8895";s:5:"photo";s:36:"b0cd8d43dd83156a6ad6f42624d362fa.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1462";}i:19;a:103:{s:7:"sale_id";s:4:"1461";s:9:"title_eng";s:203:"ပြင်ဦးလွင်မြို့ ၊ ရပ်ကွက်ကြီး(၁၉)၊ ငါးရံ့ချောင်း ပေ ၆၀ x ၅၀ မြေကွက်အရောင်း";s:8:"title_mm";s:203:"ပြင်ဦးလွင်မြို့ ၊ ရပ်ကွက်ကြီး(၁၉)၊ ငါးရံ့ချောင်း ပေ ၆၀ x ၅၀ မြေကွက်အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"4";s:5:"floor";s:0:"";s:4:"area";s:5:"60x50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"430";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1701:"ပြင်ဦးလွင်မြို့ ၊ ရပ်ကွက်ကြီး(၁၉)၊ ငါးရံ့ချောင်း
+ပေ ၆၀ x ၅၀ စျေး ၄၃၀ သိန်း ( ပါးပါးညှိနှိုင်း)
+တောင်ဘက်အလှည့်ပါ (လမ်းနှစ်ဖက်ပွင့်ပါ)
+ကိုယ်ပိုင်စျေးဆိုင် ဖွင့်ချင်သူများအတွက် အခွင့်အလမ်းကောင်းတစ်ခုပါ။ ပတ်ဝန်းကျင် အိမ်ကြီး အိမ်ကောင်းများ ရှိပါတယ် 
+ရွာလယ်မှာ တည်ရှိခြင်း၊ ရွာလယ်လမ်းမဘေးမြေကွက်ဖြစ်ခြင်း၊ မြို့ထဲမှ အကွက်အထိ ကတ္တရာလမ်း ခင်းထားခြင်း။
+မြို့ထဲနဲ့ နီးပြီး ကား/ဆိုင်ကယ်ဖြင့် ၅ မိနစ်မျှသာသွားရခြင်း၊ လူသွားလူလာမပြတ်ခြင်း၊ တိတ်ဆိတ်သော ရပ်ကွက်ဖြစ်ခြင်း၊ မြို့ထဲနဲ့ အနီးဆုံး ရပ်ကွက်ဖြစ်ခြင်း၊ ငါးရံ့ချောင်းစျေးနှင့် နီးခြင်း စသည့် အားသာချက်များ ရှိပါတယ်။ 
+မီးကတော့ မီတာလျှောက်ရုံပါပဲ ခင်ဗျ။ 
+09429669891
+09795221186";s:15:"description_eng";s:1701:"ပြင်ဦးလွင်မြို့ ၊ ရပ်ကွက်ကြီး(၁၉)၊ ငါးရံ့ချောင်း
+ပေ ၆၀ x ၅၀ စျေး ၄၃၀ သိန်း ( ပါးပါးညှိနှိုင်း)
+တောင်ဘက်အလှည့်ပါ (လမ်းနှစ်ဖက်ပွင့်ပါ)
+ကိုယ်ပိုင်စျေးဆိုင် ဖွင့်ချင်သူများအတွက် အခွင့်အလမ်းကောင်းတစ်ခုပါ။ ပတ်ဝန်းကျင် အိမ်ကြီး အိမ်ကောင်းများ ရှိပါတယ် 
+ရွာလယ်မှာ တည်ရှိခြင်း၊ ရွာလယ်လမ်းမဘေးမြေကွက်ဖြစ်ခြင်း၊ မြို့ထဲမှ အကွက်အထိ ကတ္တရာလမ်း ခင်းထားခြင်း။
+မြို့ထဲနဲ့ နီးပြီး ကား/ဆိုင်ကယ်ဖြင့် ၅ မိနစ်မျှသာသွားရခြင်း၊ လူသွားလူလာမပြတ်ခြင်း၊ တိတ်ဆိတ်သော ရပ်ကွက်ဖြစ်ခြင်း၊ မြို့ထဲနဲ့ အနီးဆုံး ရပ်ကွက်ဖြစ်ခြင်း၊ ငါးရံ့ချောင်းစျေးနှင့် နီးခြင်း စသည့် အားသာချက်များ ရှိပါတယ်။ 
+မီးကတော့ မီတာလျှောက်ရုံပါပဲ ခင်ဗျ။ 
+09429669891
+09795221186";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000946";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"17 March, 2022 16:37 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09429669891,09795221186";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"4";s:13:"property_type";s:4:"Land";s:16:"property_type_mm";s:9:"မြေ";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"8889";s:5:"photo";s:36:"d06bb1b0e5a24b9e539f9413fa5921fc.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1461";}}s:13:"result_object";a:20:{i:0;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1485";s:9:"title_eng";s:121:"စမ်းချောင်းမြို့နယ် ၃လွှာတိုက်ခန်းအရောင်း";s:8:"title_mm";s:121:"စမ်းချောင်းမြို့နယ် ၃လွှာတိုက်ခန်းအရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:1:"8";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"3";s:4:"area";s:8:"12.5×50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"470";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:3:"Yes";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1154:"ရွှေလောင်းလမ်း စမ်းချောင်း (ကိုးနဝင်းကပ်ကျော်ဘုရား အနီး) 🙏လမ်းထိပ်မှာ CB ဘဏ်ရှိ (ဗဟိုလမ်းမပေါ်) 🏦၁၂'ခွဲ ၅၀' ၃လွှာ (မြေပိုင်ဆိုင်မှုပါ အပါ) 🏠တဖက်ရပ် (ရင်ကွဲတိုက်မဟုတ်) 👍၄ထပ်ပဲရှိ (မြေညီအပါ) ပြင်ဆင်ပြီး (မျက်နှာကျက်အလှဆင်) ကိုရီးယားပါကေးခင်း၊အခန်းပုံစံကန့်ထား 🏘ရေချိုးခန်း အိမ်သာ(ဘိုထိုင်) မီးဖိုချောင်(cabinatပါ) အကုန်ကြွေပြားခင်း 🛀LG air con တကောင်အား တလုံး ၊သံဗီဒို ၁လုံးပါ ၊သိန်း ၄၇၀ (ညှိုနှိုင်း) Banking နဲ့လဲ ရပါတယ် ၊ဖုန်း09761661637☎️ 09976837293";s:15:"description_eng";s:1154:"ရွှေလောင်းလမ်း စမ်းချောင်း (ကိုးနဝင်းကပ်ကျော်ဘုရား အနီး) 🙏လမ်းထိပ်မှာ CB ဘဏ်ရှိ (ဗဟိုလမ်းမပေါ်) 🏦၁၂'ခွဲ ၅၀' ၃လွှာ (မြေပိုင်ဆိုင်မှုပါ အပါ) 🏠တဖက်ရပ် (ရင်ကွဲတိုက်မဟုတ်) 👍၄ထပ်ပဲရှိ (မြေညီအပါ) ပြင်ဆင်ပြီး (မျက်နှာကျက်အလှဆင်) ကိုရီးယားပါကေးခင်း၊အခန်းပုံစံကန့်ထား 🏘ရေချိုးခန်း အိမ်သာ(ဘိုထိုင်) မီးဖိုချောင်(cabinatပါ) အကုန်ကြွေပြားခင်း 🛀LG air con တကောင်အား တလုံး ၊သံဗီဒို ၁လုံးပါ ၊သိန်း ၄၇၀ (ညှိုနှိုင်း) Banking နဲ့လဲ ရပါတယ် ၊ဖုန်း09761661637☎️ 09976837293";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:17:"by_owner_for_sale";s:9:"ad_number";s:9:"OS-000256";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 17:05 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09761661637,09976837293";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Owner";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:1:"8";s:10:"regions_id";s:1:"1";s:9:"townships";s:9:"Sanchaung";s:12:"townships_mm";s:33:"စမ်းချောင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9172";s:5:"photo";s:36:"13bde709e27b05c7132aec2be5bb8cb4.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1485";}i:1;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1484";s:9:"title_eng";s:316:" တောငိဥက္ကလာပမြို့နယ်၊၁၄/၃ရပ်ကွက် ၊  သံသုမာလမ်းမကျယ်ပေါ် ၊ မြင်သာစျေးနီး ၊ ကျောင်းနီး ၊ ဆေးရုံနီး ၊ ကွန်ဒိုအရောင်း";s:8:"title_mm";s:316:" တောငိဥက္ကလာပမြို့နယ်၊၁၄/၃ရပ်ကွက် ၊  သံသုမာလမ်းမကျယ်ပေါ် ၊ မြင်သာစျေးနီး ၊ ကျောင်းနီး ၊ ဆေးရုံနီး ၊ ကွန်ဒိုအရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"26";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:1:"6";s:4:"area";s:5:"28*52";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"1350";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";s:4:"Lift";s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:680:" တောငိဥက္ကလာပမြို့နယ်၊၁၄/၃ရပ်ကွက် ၊  သံသုမာလမ်းမကျယ်ပေါ် ၊ မြင်သာစျေးနီး ၊ ကျောင်းနီး ၊ ဆေးရုံနီး ၊ ကွန်ဒိုအရောင်း
+၅ထပ် ၆ လွှာ ၊ ဓာတ်လှေကားပါ ၊ ကားပါကင်အဆင်ပြေ
+Master - 1, Single -2 
+ပေအကျယ် - 28*52 (1454 sqf)
+ရောင်းစျေး - ၁၃၅၀ သိန်း (ညှိနှိုင်း)
+ဆက်သွယ်စုံစမ်းရန် - 09250004306, 09455753964";s:15:"description_eng";s:680:" တောငိဥက္ကလာပမြို့နယ်၊၁၄/၃ရပ်ကွက် ၊  သံသုမာလမ်းမကျယ်ပေါ် ၊ မြင်သာစျေးနီး ၊ ကျောင်းနီး ၊ ဆေးရုံနီး ၊ ကွန်ဒိုအရောင်း
+၅ထပ် ၆ လွှာ ၊ ဓာတ်လှေကားပါ ၊ ကားပါကင်အဆင်ပြေ
+Master - 1, Single -2 
+ပေအကျယ် - 28*52 (1454 sqf)
+ရောင်းစျေး - ၁၃၅၀ သိန်း (ညှိနှိုင်း)
+ဆက်သွယ်စုံစမ်းရန် - 09250004306, 09455753964";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000964";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 16:58 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09250004306,09455753964";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"26";s:10:"regions_id";s:1:"1";s:9:"townships";s:14:"South Okkalapa";s:12:"townships_mm";s:36:"တောင်ဥက္ကလာပ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9163";s:5:"photo";s:36:"82a8d2360b8d2ee5b3a4109dd6924f03.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1484";}i:2;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1483";s:9:"title_eng";s:200:"ရပ်ကွက်ကြီး (၁၇) ၊အနီးစခန်း  လျံရိပ်ငြိမ် (၃) လမ်း မေးတင်တွင် RCတိုက်အရောင်း";s:8:"title_mm";s:200:"ရပ်ကွက်ကြီး (၁၇) ၊အနီးစခန်း  လျံရိပ်ငြိမ် (၃) လမ်း မေးတင်တွင် RCတိုက်အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"60x90";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"1600";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:0:"";s:11:"living_room";s:1:"1";s:9:"bead_room";s:1:"3";s:10:"other_room";s:0:"";s:11:"shrine_room";s:1:"1";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1454:"ပေးရတဲ့ဈေးနဲ့ တန်တဲ့ RCတိုက်
+ပြင်ဦးလွင်မြို့၊ ရပ်ကွက်ကြီး (၁၇) ၊အနီးစခန်း 
+လျံရိပ်ငြိမ် (၃) လမ်း မေးတင်
+လားရှိုးလမ်းမကြီးမှ တစ်မိနစ်ခန့် အကွာ
+💁🏻‍♂️ ပေ ​၆ဝ x ၉၀ 
+✔ ရပ်ကွက်ကြီးမြေ
+တိုက်အသစ် ၊ ရေမီးစုံ
+အိပ်ခန်း ၄ ခန်း 
+Master Bedroom(1) 
+Single Bedroom( 3) 
+ဘုရားခန်း၊
+ဧည့်ခန်းကျယ်၊
+မီးဖိုထမင်းစားခန်း၊ 
+ဘုံရေချိုးခန်းအိမ်သာတစ်လုံး
+တစ်အိမ်လုံး ကြွေပြားခင်းပြီး ၊ အဝီစိတွင်း ၊ ရေပူ
+ရေအေး၊မီတာပါဝင်ပြီး
+ ရေမီးအစုံ အသင့်တက်ပြီး နေရုံပါခင်ဗျာ။
+💁🏻‍♂️  1600 သိန်း  (ညှိနှိုင်း)
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+📲 09684477120
+📲 09444279238
+📲 09968655810";s:15:"description_eng";s:1454:"ပေးရတဲ့ဈေးနဲ့ တန်တဲ့ RCတိုက်
+ပြင်ဦးလွင်မြို့၊ ရပ်ကွက်ကြီး (၁၇) ၊အနီးစခန်း 
+လျံရိပ်ငြိမ် (၃) လမ်း မေးတင်
+လားရှိုးလမ်းမကြီးမှ တစ်မိနစ်ခန့် အကွာ
+💁🏻‍♂️ ပေ ​၆ဝ x ၉၀ 
+✔ ရပ်ကွက်ကြီးမြေ
+တိုက်အသစ် ၊ ရေမီးစုံ
+အိပ်ခန်း ၄ ခန်း 
+Master Bedroom(1) 
+Single Bedroom( 3) 
+ဘုရားခန်း၊
+ဧည့်ခန်းကျယ်၊
+မီးဖိုထမင်းစားခန်း၊ 
+ဘုံရေချိုးခန်းအိမ်သာတစ်လုံး
+တစ်အိမ်လုံး ကြွေပြားခင်းပြီး ၊ အဝီစိတွင်း ၊ ရေပူ
+ရေအေး၊မီတာပါဝင်ပြီး
+ ရေမီးအစုံ အသင့်တက်ပြီး နေရုံပါခင်ဗျာ။
+💁🏻‍♂️  1600 သိန်း  (ညှိနှိုင်း)
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+📲 09684477120
+📲 09444279238
+📲 09968655810";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000963";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 16:50 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09968655810,09444279238";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9149";s:5:"photo";s:36:"1a44ffcd616f22fe9e8f30084a6e16e4.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1483";}i:3;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1482";s:9:"title_eng";s:198:" မြေပိုင်တိုက်ပိုင်လေးမှာအေးအေးချမ်းချမ်း နေချင်တယ့် မိသားစုလေးအတွက်";s:8:"title_mm";s:198:" မြေပိုင်တိုက်ပိုင်လေးမှာအေးအေးချမ်းချမ်း နေချင်တယ့် မိသားစုလေးအတွက်";s:9:"region_id";N;s:16:"sale_township_id";s:2:"15";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"20*60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"930";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:2010:" မြေပိုင်တိုက်ပိုင်လေးမှာအေးအေးချမ်းချမ်း နေချင်တယ့် မိသားစုလေးအတွက်
+အရှုပ်အရှင်းကင်း 2RC တိုက်သစ်လေးကို 
+စျေးနှုန်း- ၉၃၀သိန်း  (ညှိနှိုင်း)ဖြင့်ရောင်းမည်
+နေရာ 
+ဗိုလ်ဗစိုး၄လမ်း၊၂ရပ်ကွက်၊ အရှေ့ဒဂုံမြို့နယ်၊ ရာဇသကြ်န်လမ်းမတည့်ပေါက်နှင့် ကျန်စစ်သားလမ်းမကြီးတို့အနီး၊
+ပေ ၂၀ပေ ၆၀ 
+ဂရန်မြေ (မိတ္တူခြမ်း)* အရှေဖက်လှည့်*
+ပတ်ဝန်းကျင် လူနေသန့်ပြီး၊အေးချမ်းမှုရှိ
+ လမ်းထိပ်ကားမှတ်တိုင်ရှိ ၊စျေးနီး
+ ပိုင်ဆိုင်ခိုင်မာမှု
+သတင်းစာကြော်ငြာပြီး၊ ရှေ့နေဖြင့်စာချုပ်စာတမ်းပြုလုပ်ထားသောမြေ အရှုပ်အရှင်းကင်း တွင်ဆောက်လုပ်ထားပါသည်။
+ RC တိုက်အရည်သွေး
+နာမည်ရဆောက်လုပ်ရေး Company မှ အင်ဂျင်နီယာကန်ထရိုက်တာနှင့်အပ်နှံပြီး သတ်မှတ်စံနှုန်းအတိုင်းခိုင်ခန့်စွာ ဆောက်လုပ်ထားပါသည်
+09-976671 555 သို့တိုက်ရိုက်ဆက်သွယ်နိုင်ပါသည်။
+အကျိုးဆောင်လက်ခံပါသည်";s:15:"description_eng";s:2008:" မြေပိုင်တိုက်ပိုင်လေးမှာအေးအေးချမ်းချမ်း နေချင်တယ့် မိသားစုလေးအတွက်
+အရှုပ်အရှင်းကင်း 2RC တိုက်သစ်လေးကို 
+စျေးနှုန်း- ၉၃၀သိန်း  (ညှိနှိုင်း)ဖြင့်ရောင်းမည်
+နေရာ 
+ဗိုလ်ဗစိုး၄လမ်း၊၂ရပ်ကွက်၊ အရှေ့ဒဂုံမြို့နယ်၊ ရာဇသကြ်န်လမ်းမတည့်ပေါက်နှင့် ကျန်စစ်သားလမ်းမကြီးတို့အနီး၊
+ပေ ၂၀ပေ ၆၀ 
+ဂရန်မြေ (မိတ္တူခြမ်း)* အရှေဖက်လှည့်*
+ပတ်ဝန်းကျင် လူနေသန့်ပြီး၊အေးချမ်းမှုရှိ
+ လမ်းထိပ်ကားမှတ်တိုင်ရှိ ၊စျေးနီး
+ ပိုင်ဆိုင်ခိုင်မာမှု
+သတင်းစာကြော်ငြာပြီး၊ ရှေ့နေဖြင့်စာချုပ်စာတမ်းပြုလုပ်ထားသောမြေ အရှုပ်အရှင်းကင်း တွင်ဆောက်လုပ်ထားပါသည်။
+ RC တိုက်အရည်သွေး
+နာမည်ရဆောက်လုပ်ရေး Company မှ အင်ဂျင်နီယာကန်ထရိုက်တာနှင့်အပ်နှံပြီး သတ်မှတ်စံနှုန်းအတိုင်းခိုင်ခန့်စွာ ဆောက်လုပ်ထားပါသည်
+09976671555 သို့တိုက်ရိုက်ဆက်သွယ်နိုင်ပါသည်။
+အကျိုးဆောင်လက်ခံပါသည်";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000962";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 16:40 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09976671555";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"15";s:10:"regions_id";s:1:"1";s:9:"townships";s:10:"East Dagon";s:12:"townships_mm";s:70:"ဒဂုံမြို့သစ် အရှေ့ပိုင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9139";s:5:"photo";s:36:"23cd6a3b07f09556e71006d8d7ca8765.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1482";}i:4;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1481";s:9:"title_eng";s:121:"တစ်ထပ် အိမ်အပါ မြေကွက်ကျယ် ပြင်ဦးလွင်မြို့ ";s:8:"title_mm";s:121:"တစ်ထပ် အိမ်အပါ မြေကွက်ကျယ် ပြင်ဦးလွင်မြို့ ";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:6:"80x100";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"2200";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:1:"1";s:11:"living_room";s:1:"1";s:9:"bead_room";s:1:"1";s:10:"other_room";s:0:"";s:11:"shrine_room";s:1:"1";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:2237:"မဂ်လာပါမိတ်ဆွေ
+တစ်ထပ် အိမ်အပါ မြေကွက်ကျယ်
+ပြင်ဦးလွင်မြို့ 
+ရပ်ကွက်ကြီး(၁၁)၊ရေငယ်
+မဟာအံ့ထူးကံသာဘုရားကြီးသို့သွားသော
+နိုင်လွန်ကတ္တရာလမ်းနှင့် ပေ(၂၀၀)ခန့်အကွာ
+မန္တလေး-လားရှိုးလမ်းမကြီးနှင့် ပေ(၅၀၀)ခန့်
+အကွာ အေးချမ်းဆိတ်ငြိမ်ရပ်ကွက် 
+ရန်ကုန်မြို့ကြီးရဲ့အဆင့်မြင့်ဝင်ဒါမီယာပုံစံ  
+တကယ့်နေချင်စဖွယ် 
+ခြံကျယ်ကျယ်အိမ်ကြီးဖြစ်ပါတယ်ခင်ဗျာ
+#အရပ်မျက်နှာအလှည့်- အရှေ့အရပ်
+            (၂၂၀၀)သိန်း ညှိနှိုင်း
+( ညှိနှိုင်းဈေးမရိုင်းတဲ့အနေအထားပါခင်ဗျာ။)
+မြေအမျိုးအစား- ရပ်ကွက်ကြီးမြေ၊ 
+ အိမ်နံပါတ်ကျပြီး။
+ခြံအကျယ်- (၈၀*၁၀၀)ပေ၊                 
+အိမ်ဖွဲ့စည်းပုံ
+အိမ်အကျယ်(၄၅*၃၀)ပေ  RCတစ်ထပ်တိုက်
+Master Bedroom (၁)ခန်း၊
+ရိုးရိုး(၁)ခန်း၊ဘုရားခန်း
+ဧည့်ခန်းအကျယ်၊မီးဖိုခန်း၊
+ဝန်ထမ်းနေရန်အတွက် 
+အခန်းတစ်ခန်းအပါ
+ကားဂိုထောင်သီးသန့်ထပ်ခိုးအပါ။
+ရေပူရေအေး( Solar System)၊ရေသန့်စက်အပါ။ 
+အဝီစိတွင်း မီတာ၊
+ရေမီးအစုံအသင့်တက်နေရုံပါခင်ဗျ
+📲09684477120
+📲09444279238
+📲09968655810
+📲09684477120";s:15:"description_eng";s:2237:"မဂ်လာပါမိတ်ဆွေ
+တစ်ထပ် အိမ်အပါ မြေကွက်ကျယ်
+ပြင်ဦးလွင်မြို့ 
+ရပ်ကွက်ကြီး(၁၁)၊ရေငယ်
+မဟာအံ့ထူးကံသာဘုရားကြီးသို့သွားသော
+နိုင်လွန်ကတ္တရာလမ်းနှင့် ပေ(၂၀၀)ခန့်အကွာ
+မန္တလေး-လားရှိုးလမ်းမကြီးနှင့် ပေ(၅၀၀)ခန့်
+အကွာ အေးချမ်းဆိတ်ငြိမ်ရပ်ကွက် 
+ရန်ကုန်မြို့ကြီးရဲ့အဆင့်မြင့်ဝင်ဒါမီယာပုံစံ  
+တကယ့်နေချင်စဖွယ် 
+ခြံကျယ်ကျယ်အိမ်ကြီးဖြစ်ပါတယ်ခင်ဗျာ
+#အရပ်မျက်နှာအလှည့်- အရှေ့အရပ်
+            (၂၂၀၀)သိန်း ညှိနှိုင်း
+( ညှိနှိုင်းဈေးမရိုင်းတဲ့အနေအထားပါခင်ဗျာ။)
+မြေအမျိုးအစား- ရပ်ကွက်ကြီးမြေ၊ 
+ အိမ်နံပါတ်ကျပြီး။
+ခြံအကျယ်- (၈၀*၁၀၀)ပေ၊                 
+အိမ်ဖွဲ့စည်းပုံ
+အိမ်အကျယ်(၄၅*၃၀)ပေ  RCတစ်ထပ်တိုက်
+Master Bedroom (၁)ခန်း၊
+ရိုးရိုး(၁)ခန်း၊ဘုရားခန်း
+ဧည့်ခန်းအကျယ်၊မီးဖိုခန်း၊
+ဝန်ထမ်းနေရန်အတွက် 
+အခန်းတစ်ခန်းအပါ
+ကားဂိုထောင်သီးသန့်ထပ်ခိုးအပါ။
+ရေပူရေအေး( Solar System)၊ရေသန့်စက်အပါ။ 
+အဝီစိတွင်း မီတာ၊
+ရေမီးအစုံအသင့်တက်နေရုံပါခင်ဗျ
+📲09684477120
+📲09444279238
+📲09968655810
+📲09684477120";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000961";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 16:34 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:35:"09684477120,09444279238,09968655810";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9118";s:5:"photo";s:36:"e19289539129e05f5e2abab6e99569e4.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1481";}i:5;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1480";s:9:"title_eng";s:133:"သင်္ဃန်းကျွန်းမြို့နယ် ပထမထပ်တိုက်ခန်းအရောင်း";s:8:"title_mm";s:133:"သင်္ဃန်းကျွန်းမြို့နယ် ပထမထပ်တိုက်ခန်းအရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"27";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"1";s:4:"area";s:5:"20*50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"850";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:619:"မိသားစုနေဖို့ တိုက်ခန်းလေးရှာနေပါသလား???အထပ်မမြင့်ဘဲ ကျယ်ကျယ်၀န်း၀န်းလေးနေလို့ရမယ့် အခန်းကျယ် ပထမထပ်လေးရှိပါတယ်။ 👉တည်နေရာ - သင်္ဃာန်းကျွန်း 16/4 👉ပထမထပ် 20*50 အခန်း2ခန်းပါ👉ပြင်ဆင်ပြီးတိုက်သန့် 💵 ရောင်း  850သိန်း ညှိနှိုင်း၊ 09782229078";s:15:"description_eng";s:619:"မိသားစုနေဖို့ တိုက်ခန်းလေးရှာနေပါသလား???အထပ်မမြင့်ဘဲ ကျယ်ကျယ်၀န်း၀န်းလေးနေလို့ရမယ့် အခန်းကျယ် ပထမထပ်လေးရှိပါတယ်။ 👉တည်နေရာ - သင်္ဃာန်းကျွန်း 16/4 👉ပထမထပ် 20*50 အခန်း2ခန်းပါ👉ပြင်ဆင်ပြီးတိုက်သန့် 💵 ရောင်း  850သိန်း ညှိနှိုင်း၊ 09782229078";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000960";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 16:33 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09782229078";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"27";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"Thingangyun";s:12:"townships_mm";s:42:"သင်္ဃန်းကျွန်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9108";s:5:"photo";s:36:"92464ab6d83adb448cebfb32d49f4864.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1480";}i:6;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1479";s:9:"title_eng";s:133:"တောင်ဥက္ကလာပမြို့နယ် ဒုတိယထပ်တိုက်ခန်းအရောင်း";s:8:"title_mm";s:133:"တောင်ဥက္ကလာပမြို့နယ် ဒုတိယထပ်တိုက်ခန်းအရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"26";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"3";s:4:"area";s:5:"19*55";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"585";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:1:"2";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:2771:"လမ်းသန့် ကားပါကင်ရ စျေးနီး ကျောင်းနီး၊ အသင့်နေရုံ ဒုတိယထပ် အခန်းကျယ်၊ အကျယ်           ၁၉ပေ ၅၅ပေ၊ အထပ်              ဒုတိယထပ်၊စျေးနှုန်း            ၅၈၅ သိန်း (ညှိနှိုင်း)၊တည်နေရာ        ￼မေတာလမ်းမပေါ်က တောင်ဥကလာအမျိုးသမီးဆေးရုံရှေ့ မင်ဂလာလမ်းမကြီးကျောကပ်၊ရတနာလမ်းမနှင့် ၃မိနစ်စာအဝေး ၊လိပ်စာ။            No246,သီရိနန်ဒါ၂၈လမ်း ၁၃ရပ်ကွက် တောင်ဥကလာ၊￼ ပါဝင်မှု။             ကျွန်းပါကေးခင်းပြီး ၊ကျွန်းလျှာထိုး အခန်း၂ခန်း ဖွဲ့ပြီး၊အဲကွန်းတစ်လုံး ၊ဆန်းရှိတ် သံဗန်းများတပ်ပြီး ၊အရှေ့နောက်ဘာဂျာတံခါးတပ်ပြီး၊ ❤️ကျွန်းပါကေးတေလက်လက်ထအောင်ခင်းပေးထားပြီး ကျွန်းလျှာထိုးနဲ့အခန်း၂ခန်းဖွဲ့ပေးထားလို့ အခန်းကတော့ အသင့်တတ်နေချင်တဲ့ မိသားစုတွေအတွက် သင့်တော်ပါတယ်
+❤️ရေချိုးခန်းအိမ်သာ မီးဖိုချောင်ဝရန်တာကြွေပြားအပြည့်ခင်းထားပေးပြီး အိမ်ရှေ့ဝရန်တာနဲ့ပြတင်းပေါက်တိုင်းကိုသံဗန်းတေတပ်ထားပေးပြီးသားဆိုတော့လုံခြုံစိတ်ချမှုကအပြည့်ပေးစေနိုင်မှာပါလို့ air con တစ်လုံးလည်းပါပါတယ်၊🌹အိမ်ရှေ့လမ်းမကလည်းအခြားလမ်းသွယ်တေနဲ့မတူပဲ အတွင်းလမ်းကျယ်နီးပါးကျယ်တော့ကားပါကင်စိုးရိမ်သူတေအတွက်တိုက်ရှေ့မှာတင်အိုကေစိုပြေ👌🏼ဆက်သွယ်ရန် ဖုန်း/Viber (အကျိုးဆောင်) 09250497985
+";s:15:"description_eng";s:2771:"လမ်းသန့် ကားပါကင်ရ စျေးနီး ကျောင်းနီး၊ အသင့်နေရုံ ဒုတိယထပ် အခန်းကျယ်၊ အကျယ်           ၁၉ပေ ၅၅ပေ၊ အထပ်              ဒုတိယထပ်၊စျေးနှုန်း            ၅၈၅ သိန်း (ညှိနှိုင်း)၊တည်နေရာ        ￼မေတာလမ်းမပေါ်က တောင်ဥကလာအမျိုးသမီးဆေးရုံရှေ့ မင်ဂလာလမ်းမကြီးကျောကပ်၊ရတနာလမ်းမနှင့် ၃မိနစ်စာအဝေး ၊လိပ်စာ။            No246,သီရိနန်ဒါ၂၈လမ်း ၁၃ရပ်ကွက် တောင်ဥကလာ၊￼ ပါဝင်မှု။             ကျွန်းပါကေးခင်းပြီး ၊ကျွန်းလျှာထိုး အခန်း၂ခန်း ဖွဲ့ပြီး၊အဲကွန်းတစ်လုံး ၊ဆန်းရှိတ် သံဗန်းများတပ်ပြီး ၊အရှေ့နောက်ဘာဂျာတံခါးတပ်ပြီး၊ ❤️ကျွန်းပါကေးတေလက်လက်ထအောင်ခင်းပေးထားပြီး ကျွန်းလျှာထိုးနဲ့အခန်း၂ခန်းဖွဲ့ပေးထားလို့ အခန်းကတော့ အသင့်တတ်နေချင်တဲ့ မိသားစုတွေအတွက် သင့်တော်ပါတယ်
+❤️ရေချိုးခန်းအိမ်သာ မီးဖိုချောင်ဝရန်တာကြွေပြားအပြည့်ခင်းထားပေးပြီး အိမ်ရှေ့ဝရန်တာနဲ့ပြတင်းပေါက်တိုင်းကိုသံဗန်းတေတပ်ထားပေးပြီးသားဆိုတော့လုံခြုံစိတ်ချမှုကအပြည့်ပေးစေနိုင်မှာပါလို့ air con တစ်လုံးလည်းပါပါတယ်၊🌹အိမ်ရှေ့လမ်းမကလည်းအခြားလမ်းသွယ်တေနဲ့မတူပဲ အတွင်းလမ်းကျယ်နီးပါးကျယ်တော့ကားပါကင်စိုးရိမ်သူတေအတွက်တိုက်ရှေ့မှာတင်အိုကေစိုပြေ👌🏼ဆက်သွယ်ရန် ဖုန်း/Viber (အကျိုးဆောင်) 09250497985
+";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000959";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 15:37 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09250497985";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"26";s:10:"regions_id";s:1:"1";s:9:"townships";s:14:"South Okkalapa";s:12:"townships_mm";s:36:"တောင်ဥက္ကလာပ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9098";s:5:"photo";s:36:"04a8cec5b745beaa0cd0edef6109825c.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1479";}i:7;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1478";s:9:"title_eng";s:167:"ပြင်ဦးလွင်မြို့  ရပ်ကွက်ကြီး(၁၁)ရေငယ်တွင် တိုက်အသန့်အရောင်း";s:8:"title_mm";s:167:"ပြင်ဦးလွင်မြို့  ရပ်ကွက်ကြီး(၁၁)ရေငယ်တွင် တိုက်အသန့်အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"40x60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"900";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:2380:"ပြင်ဦးလွင်မြို့ 
+ရပ်ကွက်ကြီး(၁၁)ရေငယ် 
+မန္တလေး-လားရှိုးမကြီးမှ ပေ(၃၀၀)ခန့်အကွာ
+ချိုနှင်းဆီဧည့်ရိပ်မွန်အနီး၊ အေးချမ်းဆိတ်ငြိမ်
+နေရာကောင်းလေးမှ RC တစ်ထပ်အိမ်လေး၊
+ဘေးဘယ်ညာ အိမ်ကြီးအိမ်ကောင်းများနှင့်
+ဝန်းရံထားတဲ့ ပတ်ဝန်းကျင်သန့်တဲ့နေရာ
+အိမ်နံပါတ်ကျပြီး တိုက်အသန့်လေးတစ်လုံး
+နှစ်လမ်းမေးတင်ထောင့်ကွက်လေး 
+#အရပ်မျက်နှာအလှည့်- တောင်အရပ်
+            💰(၉၀၀)သိန်းညှိနှိုင်း💰
+#ရန်ကုန်မှကွန်ဒိုတိုက်ခန်းများနှင့်
+အလဲအထပ်လုပ်ချင်ပါကလည်း ပြုလုပ်နိုင်ပါသည်။
+🌳မြေအမျိုးအစား- ဘိုးဘွားပိုင်ရွာမြေစစ်စစ်
+                                   အိမ်နံပါတ်ကျပြီးဖြစ်ပါတယ်။
+🌳ခြံအကျယ်- (၄၀*၆၀)ပေ
+             🏠အိမ်ဖွဲ့စည်းပုံ🏠
+✔ အိမ်အကျယ်(၃၄*၄၄)ပေ၊  RCတစ်ထပ်တိုက်
+✔ Master Bedroom(၁)ခန်း၊ ရိုးရိုး(၂)ခန်း၊
+✔ ဘုရားခန်း၊၊ဧည့်ခန်းအကျယ်၊မီးဖိုခန်း
+✔ ထမင်းစားခန်းသီးသန့််၊အဝီစိတွင်း၊ မီတာ၊
+✔ ရေပူရေအေးအပါ၊ရေမီးအစုံ
+အသင့်တက်နေရုံပါခင်ဗျ🙏
+ငွေပေးချေမှု၊စျေးနှုန်း ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+📲09444279238
+📲09684477120
+📲09968655810";s:15:"description_eng";s:2380:"ပြင်ဦးလွင်မြို့ 
+ရပ်ကွက်ကြီး(၁၁)ရေငယ် 
+မန္တလေး-လားရှိုးမကြီးမှ ပေ(၃၀၀)ခန့်အကွာ
+ချိုနှင်းဆီဧည့်ရိပ်မွန်အနီး၊ အေးချမ်းဆိတ်ငြိမ်
+နေရာကောင်းလေးမှ RC တစ်ထပ်အိမ်လေး၊
+ဘေးဘယ်ညာ အိမ်ကြီးအိမ်ကောင်းများနှင့်
+ဝန်းရံထားတဲ့ ပတ်ဝန်းကျင်သန့်တဲ့နေရာ
+အိမ်နံပါတ်ကျပြီး တိုက်အသန့်လေးတစ်လုံး
+နှစ်လမ်းမေးတင်ထောင့်ကွက်လေး 
+#အရပ်မျက်နှာအလှည့်- တောင်အရပ်
+            💰(၉၀၀)သိန်းညှိနှိုင်း💰
+#ရန်ကုန်မှကွန်ဒိုတိုက်ခန်းများနှင့်
+အလဲအထပ်လုပ်ချင်ပါကလည်း ပြုလုပ်နိုင်ပါသည်။
+🌳မြေအမျိုးအစား- ဘိုးဘွားပိုင်ရွာမြေစစ်စစ်
+                                   အိမ်နံပါတ်ကျပြီးဖြစ်ပါတယ်။
+🌳ခြံအကျယ်- (၄၀*၆၀)ပေ
+             🏠အိမ်ဖွဲ့စည်းပုံ🏠
+✔ အိမ်အကျယ်(၃၄*၄၄)ပေ၊  RCတစ်ထပ်တိုက်
+✔ Master Bedroom(၁)ခန်း၊ ရိုးရိုး(၂)ခန်း၊
+✔ ဘုရားခန်း၊၊ဧည့်ခန်းအကျယ်၊မီးဖိုခန်း
+✔ ထမင်းစားခန်းသီးသန့််၊အဝီစိတွင်း၊ မီတာ၊
+✔ ရေပူရေအေးအပါ၊ရေမီးအစုံ
+အသင့်တက်နေရုံပါခင်ဗျ🙏
+ငွေပေးချေမှု၊စျေးနှုန်း ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+📲09444279238
+📲09684477120
+📲09968655810";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000958";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 15:29 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:35:"09444279238,09684477120,09968655810";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9076";s:5:"photo";s:36:"416fe5888ae9f6a14e6451fcf7395ad0.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1478";}i:8;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1477";s:9:"title_eng";s:167:"ပြင်ဆင်ပီး အထပ်နိမ့် ကားပါကင်ပါ လုံခြုံစိတ်ချရတဲ့ အခန်းလေး ";s:8:"title_mm";s:167:"ပြင်ဆင်ပီး အထပ်နိမ့် ကားပါကင်ပါ လုံခြုံစိတ်ချရတဲ့ အခန်းလေး ";s:9:"region_id";N;s:16:"sale_township_id";s:2:"26";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"2";s:4:"area";s:7:"12.5*55";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"630";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"1";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";s:14:"24 hrs Securit";s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";s:4:"CCTV";s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:937:"ပြင်ဆင်ပီး အထပ်နိမ့် ကားပါကင်ပါ လုံခြုံစိတ်ချရတဲ့ အခန်းလေး 
+B-5 ပထမထပ် ရတနာမွန်အိမ်ယာ
+တောင်ဥက္ကလာ 
+12.5' X 55' ပါ အခန်း၁ ခန်း
+ပါကေးခင်းဆန်းရှိတ် ရှေ့နောက်ဗာဂျာတံခါး
+ရေပူရေအေးAir con 2 လုံး
+မီးဖိုခန်း ရေချိုးခန်း အိမ်သာ ကြွေပြား 
+အပြည့်ကပ်ထား
+အားလုံးပြင်ဆင်ပြီး အသင့်နေထိုင်ရုံ အိမ်ယာဝင်းဖြစ်သည့်အတွက် CCTV Security နှင့် ကားပါကင် ပါပါတယ်
+စျေး-၆၃၀သိန်း
+09785120903";s:15:"description_eng";s:937:"ပြင်ဆင်ပီး အထပ်နိမ့် ကားပါကင်ပါ လုံခြုံစိတ်ချရတဲ့ အခန်းလေး 
+B-5 ပထမထပ် ရတနာမွန်အိမ်ယာ
+တောင်ဥက္ကလာ 
+12.5' X 55' ပါ အခန်း၁ ခန်း
+ပါကေးခင်းဆန်းရှိတ် ရှေ့နောက်ဗာဂျာတံခါး
+ရေပူရေအေးAir con 2 လုံး
+မီးဖိုခန်း ရေချိုးခန်း အိမ်သာ ကြွေပြား 
+အပြည့်ကပ်ထား
+အားလုံးပြင်ဆင်ပြီး အသင့်နေထိုင်ရုံ အိမ်ယာဝင်းဖြစ်သည့်အတွက် CCTV Security နှင့် ကားပါကင် ပါပါတယ်
+စျေး-၆၃၀သိန်း
+09785120903";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000957";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 15:19 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09785120903";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"26";s:10:"regions_id";s:1:"1";s:9:"townships";s:14:"South Okkalapa";s:12:"townships_mm";s:36:"တောင်ဥက္ကလာပ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9066";s:5:"photo";s:36:"c2988c440c1116660800d561e37336bb.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1477";}i:9;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1476";s:9:"title_eng";s:192:"ပြင်ဦးလွင်မြို့  ရပ်ကွက်ကြီး(၂၁)၊သဇင်လမ်းမေးတင် RC တစ်ထပ်တိုက် အရောင်း";s:8:"title_mm";s:192:"ပြင်ဦးလွင်မြို့  ရပ်ကွက်ကြီး(၂၁)၊သဇင်လမ်းမေးတင် RC တစ်ထပ်တိုက် အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"40x60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"700";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1573:"ပြင်ဦးလွင်မြို့ 
+ရပ်ကွက်ကြီး(၂၁)၊သဇင်လမ်းမေးတင်
+RC တစ်ထပ်အိမ်အသစ်ကလေး၊
+လသာဆောင် ဝရန်တာ မှ ရှုခင်းကောင်းကောင်းခံစားလို့ရမည့်
+RC တစ်ထပ်အိမ်အသစ်စက်စက်
+#အရပ်မျက်နှာအလှည့်- အရှေ့အရပ်
+            💰(၇၀၀)သိန်းညှိနှိုင်း💰
+🌳မြေအမျိုးအစား- ရပ်ကွက်ကြီးမြေ
+🌳ခြံအကျယ်- (၄၀*၆၀)ပေ
+             🏠အိမ်ဖွဲ့စည်းပုံ🏠
+✔ အိမ်အကျယ်(၂၅*၃၀)ပေ၊  RCတစ်ထပ်တိုက်
+✔ Master Bedroom(၁)ခန်း၊ 
+✔ ရိုးရိုး(၂)ခန်း၊ဘုံ (ရေချိုးခန်း -(၁)ခန်းအိမ်သာ(၁)ခန်း)
+✔ ဘုရားခန်း၊ဧည့်ခန်း၊မီးဖိုခန်း၊အဝီစိတွင်း၊ မီတာ၊
+✔ ရေပူရေအေးအပါ၊ရေမီးအစုံ
+အသင့်တက်နေရုံပါခင်ဗျာ။
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+09444279238
+09684477120
+09968655810";s:15:"description_eng";s:1573:"ပြင်ဦးလွင်မြို့ 
+ရပ်ကွက်ကြီး(၂၁)၊သဇင်လမ်းမေးတင်
+RC တစ်ထပ်အိမ်အသစ်ကလေး၊
+လသာဆောင် ဝရန်တာ မှ ရှုခင်းကောင်းကောင်းခံစားလို့ရမည့်
+RC တစ်ထပ်အိမ်အသစ်စက်စက်
+#အရပ်မျက်နှာအလှည့်- အရှေ့အရပ်
+            💰(၇၀၀)သိန်းညှိနှိုင်း💰
+🌳မြေအမျိုးအစား- ရပ်ကွက်ကြီးမြေ
+🌳ခြံအကျယ်- (၄၀*၆၀)ပေ
+             🏠အိမ်ဖွဲ့စည်းပုံ🏠
+✔ အိမ်အကျယ်(၂၅*၃၀)ပေ၊  RCတစ်ထပ်တိုက်
+✔ Master Bedroom(၁)ခန်း၊ 
+✔ ရိုးရိုး(၂)ခန်း၊ဘုံ (ရေချိုးခန်း -(၁)ခန်းအိမ်သာ(၁)ခန်း)
+✔ ဘုရားခန်း၊ဧည့်ခန်း၊မီးဖိုခန်း၊အဝီစိတွင်း၊ မီတာ၊
+✔ ရေပူရေအေးအပါ၊ရေမီးအစုံ
+အသင့်တက်နေရုံပါခင်ဗျာ။
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+09444279238
+09684477120
+09968655810";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000956";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 15:09 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:35:"09444279238,09684477120,09968655810";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9048";s:5:"photo";s:36:"99b4e829f953c54e6388fd1ce5ea5fa1.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1476";}i:10;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1475";s:9:"title_eng";s:85:"မြောက်ဥက္ကလာ လုံးချင်းအရောင်း";s:8:"title_mm";s:85:"မြောက်ဥက္ကလာ လုံးချင်းအရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"25";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"20*60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"550";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:580:"ဂရံကြီး ပေ ၂၀ ပေ၆၀ အကျယ် အသင့်နေယုံ အိမ်ကောင်းတိုက်ခံအိမ် အောက်ကြွေပြားခင်း နောက်ဖေးသံမံတလင်း ဘေးအုပ်တက် ခေမာလေးလမ်း အမှတ်၁၁၇ ကျောင်းလမ်းမှတ်တိုင် မြောက်ဥက္ကလာပမြို့နယ် ၊ သိန်း၅၅၀ အလျှော့အတင်းရှိပါမယ် 09429788321";s:15:"description_eng";s:580:"ဂရံကြီး ပေ ၂၀ ပေ၆၀ အကျယ် အသင့်နေယုံ အိမ်ကောင်းတိုက်ခံအိမ် အောက်ကြွေပြားခင်း နောက်ဖေးသံမံတလင်း ဘေးအုပ်တက် ခေမာလေးလမ်း အမှတ်၁၁၇ ကျောင်းလမ်းမှတ်တိုင် မြောက်ဥက္ကလာပမြို့နယ် ၊ သိန်း၅၅၀ အလျှော့အတင်းရှိပါမယ် 09429788321";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000955";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 14:43 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09429788321";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"25";s:10:"regions_id";s:1:"1";s:9:"townships";s:14:"North Okkalapa";s:12:"townships_mm";s:39:"မြောက်ဥက္ကလာပ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9047";s:5:"photo";s:36:"716111d7440079033b01d9245cf24896.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1475";}i:11;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1469";s:9:"title_eng";s:148:"ပြင်ဦးလွင်မြို့  ပြင်စာရွာ၊ RC တစ်ထပ်တိုက် အိမ်အရောင်း";s:8:"title_mm";s:148:"ပြင်ဦးလွင်မြို့  ပြင်စာရွာ၊ RC တစ်ထပ်တိုက် အိမ်အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"40x50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"550";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"3";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1919:"ပြင်ဦးလွင်မြို့ 
+ပြင်စာရွာ၊မန္တလေး-လားရှိုးမကြီးမှ
+(၁)မိနစ်ခန့်အကွာအဝေး၊
+ပူပြင်းလှတဲ့နွေရာသီမှာ
+မိသားစု အေးအေးချမ်းချမ်း အပူရှောင်ဖို့၊အပန်းဖြေအနားယူဖို့
+စဉ်းစားနေတယ်ဆိုရင်တော့ ဈေးတန်းလေး
+မဆိုးတဲ့ RC တစ်ထပ်တိုက် အိမ်ကောင်းလေး တစ်လုံး နဲ့ မိတ်ဆက်ပေးပါရစေ ခင်ဗျာ။
+#အရပ်မျက်နှာအလှည့်- အ‌နောက်အရပ်
+     💁🏻‍♂️(၅၅၀)သိန်းညှိနှိုင်း
+✔ မြေအမျိုးအစား- ဘိုးဘွားပိုင်ရွာမြေစစ်စစ်
+                                   အိမ်အမှတ်-(၄၁၈)
+✔  မြေကွက်အကျယ်- (၄၀*၅၀)ပေ
+             🏠အိမ်ဖွဲ့စည်းပုံ🏠
+✔  အိမ်အကျယ်(၃၇*၂၈)ပေ၊  RC တစ်ထပ်တိုက်
+✔  Bedroom (၃)ခန်း၊
+✔  ဘုရားခန်း၊၊ဧည့်ခန်းအကျယ်၊
+✔  မီးဖိုခန်းသီးသန့််၊အဝီစိတွင်း မီတာလှပသေသပ် 
+ ရေမီးအစုံအသင့်တက်နေရုံပါခင်ဗျာ။
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+📲09444279238
+📲09684477120
+📲09968655810";s:15:"description_eng";s:1919:"ပြင်ဦးလွင်မြို့ 
+ပြင်စာရွာ၊မန္တလေး-လားရှိုးမကြီးမှ
+(၁)မိနစ်ခန့်အကွာအဝေး၊
+ပူပြင်းလှတဲ့နွေရာသီမှာ
+မိသားစု အေးအေးချမ်းချမ်း အပူရှောင်ဖို့၊အပန်းဖြေအနားယူဖို့
+စဉ်းစားနေတယ်ဆိုရင်တော့ ဈေးတန်းလေး
+မဆိုးတဲ့ RC တစ်ထပ်တိုက် အိမ်ကောင်းလေး တစ်လုံး နဲ့ မိတ်ဆက်ပေးပါရစေ ခင်ဗျာ။
+#အရပ်မျက်နှာအလှည့်- အ‌နောက်အရပ်
+     💁🏻‍♂️(၅၅၀)သိန်းညှိနှိုင်း
+✔ မြေအမျိုးအစား- ဘိုးဘွားပိုင်ရွာမြေစစ်စစ်
+                                   အိမ်အမှတ်-(၄၁၈)
+✔  မြေကွက်အကျယ်- (၄၀*၅၀)ပေ
+             🏠အိမ်ဖွဲ့စည်းပုံ🏠
+✔  အိမ်အကျယ်(၃၇*၂၈)ပေ၊  RC တစ်ထပ်တိုက်
+✔  Bedroom (၃)ခန်း၊
+✔  ဘုရားခန်း၊၊ဧည့်ခန်းအကျယ်၊
+✔  မီးဖိုခန်းသီးသန့််၊အဝီစိတွင်း မီတာလှပသေသပ် 
+ ရေမီးအစုံအသင့်တက်နေရုံပါခင်ဗျာ။
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+📲09444279238
+📲09684477120
+📲09968655810";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000953";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"18 March, 2022 12:42 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09444279238,09684477120";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"9030";s:5:"photo";s:36:"81bbc50e45f92de0be450be291496153.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1469";}i:12;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1468";s:9:"title_eng";s:73:"ထောင့်ကွက် မြေကွက်ငှားမည်";s:8:"title_mm";s:73:"ထောင့်ကွက် မြေကွက်ငှားမည်";s:9:"region_id";s:0:"";s:16:"sale_township_id";s:2:"16";s:18:"sale_property_type";s:1:"4";s:5:"floor";s:0:"";s:4:"area";s:5:"20x60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"15";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:1:"0";s:8:"bathroom";s:1:"0";s:14:"masterbathroom";N;s:11:"dining_room";s:1:"0";s:11:"living_room";s:1:"0";s:9:"bead_room";s:1:"0";s:10:"other_room";s:1:"0";s:11:"shrine_room";s:1:"0";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:64:"မြေကွက် သီးသန့်ငှားမည်";s:15:"description_eng";s:64:"မြေကွက် သီးသန့်ငှားမည်";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000186";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:2:"44";s:11:"carete_date";s:10:"2022-03-15";s:16:"post_upload_date";s:23:"18 March, 2022 12:35 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:3:"Yes";s:12:"top_featured";s:3:"Yes";s:14:"contact_number";s:12:"09-989048170";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:10:"refresh_ad";N;s:11:"township_id";s:2:"16";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"North Dagon";s:12:"townships_mm";s:73:"ဒဂုံမြို့သစ် မြောက်ပိုင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"4";s:13:"property_type";s:4:"Land";s:16:"property_type_mm";s:9:"မြေ";s:7:"user_id";s:2:"44";s:10:"company_id";s:9:"U-0000034";s:12:"company_name";s:4:"linn";s:4:"name";s:4:"linn";s:5:"email";s:11:"09751848390";s:12:"confirm_mail";s:0:"";s:5:"phone";s:11:"09751848390";s:8:"password";s:32:"48ba441c8cd803d4f3c5705b3cc7cadc";s:12:"company_type";s:0:"";s:7:"address";s:3:"ygn";s:11:"description";s:0:"";s:4:"logo";s:36:"383b622542759649c5feda58dee74f04.jpg";s:9:"user_role";s:0:"";s:16:"user_permissions";s:5:"agent";s:10:"package_id";s:1:"1";s:16:"suspended_status";s:1:"1";s:12:"propertie_id";s:4:"9029";s:5:"photo";s:36:"f4802ce92828541d817ce1244a3ba81f.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1468";}i:13;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1467";s:9:"title_eng";s:33:"အိမ်ငှားမည်";s:8:"title_mm";s:33:"အိမ်ငှားမည်";s:9:"region_id";s:0:"";s:16:"sale_township_id";s:1:"6";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:0:"";s:4:"area";s:5:"15x50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:1:"2";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:0:"";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";s:0:"";s:7:"securit";s:0:"";s:16:"air_conditioning";s:0:"";s:4:"wifi";s:0:"";s:7:"balcony";s:0:"";s:4:"cctv";s:0:"";s:11:"car_parking";s:0:"";s:10:"dishwasher";s:0:"";s:9:"generator";s:0:"";s:11:"near_church";s:0:"";s:6:"garden";s:0:"";s:3:"gym";s:0:"";s:4:"lift";s:0:"";s:11:"play_ground";s:0:"";s:12:"water_heater";s:0:"";s:13:"mountain_view";s:0:"";s:11:"pagoda_view";s:0:"";s:8:"sea_view";s:0:"";s:9:"lake_view";s:0:"";s:9:"city_view";s:0:"";s:11:"garden_view";s:0:"";s:10:"river_view";s:0:"";s:8:"showroom";s:0:"";s:10:"restaurant";s:0:"";s:6:"office";s:0:"";s:9:"warehouse";s:0:"";s:14:"description_mm";s:79:"အလုံမြို့နယ် တိုက်ခန်းအငှား";s:15:"description_eng";s:79:"အလုံမြို့နယ် တိုက်ခန်းအငှား";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000952";s:9:"education";s:0:"";s:6:"health";s:0:"";s:14:"transportation";s:0:"";s:12:"user_info_id";s:2:"44";s:11:"carete_date";s:10:"2022-03-15";s:16:"post_upload_date";s:23:"18 March, 2022 12:24 pm";s:12:"viewer_count";s:1:"1";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:0:"";s:12:"top_featured";s:0:"";s:14:"contact_number";s:11:"09989048170";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:10:"refresh_ad";N;s:11:"township_id";s:1:"6";s:10:"regions_id";s:1:"1";s:9:"townships";s:6:"Ahlone";s:12:"townships_mm";s:12:"အလုံ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";s:2:"44";s:10:"company_id";s:9:"U-0000034";s:12:"company_name";s:4:"linn";s:4:"name";s:4:"linn";s:5:"email";s:11:"09751848390";s:12:"confirm_mail";s:0:"";s:5:"phone";s:11:"09751848390";s:8:"password";s:32:"48ba441c8cd803d4f3c5705b3cc7cadc";s:12:"company_type";s:0:"";s:7:"address";s:3:"ygn";s:11:"description";s:0:"";s:4:"logo";s:36:"383b622542759649c5feda58dee74f04.jpg";s:9:"user_role";s:0:"";s:16:"user_permissions";s:5:"agent";s:10:"package_id";s:1:"1";s:16:"suspended_status";s:1:"1";s:12:"propertie_id";s:4:"9026";s:5:"photo";s:36:"e54142b93d5b959b2cdb639ca3e38ffe.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1467";}i:14;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1466";s:9:"title_eng";s:75:"အိမ်လှလှလေးတလုံးရောင်းမည်";s:8:"title_mm";s:75:"အိမ်လှလှလေးတလုံးရောင်းမည်";s:9:"region_id";s:0:"";s:16:"sale_township_id";s:2:"15";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"40x60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"600";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:0:"";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";s:0:"";s:7:"securit";s:0:"";s:16:"air_conditioning";s:0:"";s:4:"wifi";s:0:"";s:7:"balcony";s:0:"";s:4:"cctv";s:0:"";s:11:"car_parking";s:0:"";s:10:"dishwasher";s:0:"";s:9:"generator";s:0:"";s:11:"near_church";s:0:"";s:6:"garden";s:0:"";s:3:"gym";s:0:"";s:4:"lift";s:0:"";s:11:"play_ground";s:0:"";s:12:"water_heater";s:0:"";s:13:"mountain_view";s:0:"";s:11:"pagoda_view";s:0:"";s:8:"sea_view";s:0:"";s:9:"lake_view";s:0:"";s:9:"city_view";s:0:"";s:11:"garden_view";s:0:"";s:10:"river_view";s:0:"";s:8:"showroom";s:0:"";s:10:"restaurant";s:0:"";s:6:"office";s:0:"";s:9:"warehouse";s:0:"";s:14:"description_mm";s:261:"အရှေ့ဒဂုံမြို့နယ်တွင် ပေ၄၀ ၆၀
+ခြံနှင့်အိမ်အပါ စျေးနှုန်း ၆၀၀ ပိုင်ရှင်ကိုယ်တိုင်ရောင်းပါမည်";s:15:"description_eng";s:261:"အရှေ့ဒဂုံမြို့နယ်တွင် ပေ၄၀ ၆၀
+ခြံနှင့်အိမ်အပါ စျေးနှုန်း ၆၀၀ ပိုင်ရှင်ကိုယ်တိုင်ရောင်းပါမည်";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000951";s:9:"education";s:0:"";s:6:"health";s:0:"";s:14:"transportation";s:0:"";s:12:"user_info_id";s:2:"44";s:11:"carete_date";s:10:"2022-03-15";s:16:"post_upload_date";s:23:"18 March, 2022 12:10 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:0:"";s:12:"top_featured";s:0:"";s:14:"contact_number";s:11:"09989048170";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:10:"refresh_ad";N;s:11:"township_id";s:2:"15";s:10:"regions_id";s:1:"1";s:9:"townships";s:10:"East Dagon";s:12:"townships_mm";s:70:"ဒဂုံမြို့သစ် အရှေ့ပိုင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";s:2:"44";s:10:"company_id";s:9:"U-0000034";s:12:"company_name";s:4:"linn";s:4:"name";s:4:"linn";s:5:"email";s:11:"09751848390";s:12:"confirm_mail";s:0:"";s:5:"phone";s:11:"09751848390";s:8:"password";s:32:"48ba441c8cd803d4f3c5705b3cc7cadc";s:12:"company_type";s:0:"";s:7:"address";s:3:"ygn";s:11:"description";s:0:"";s:4:"logo";s:36:"383b622542759649c5feda58dee74f04.jpg";s:9:"user_role";s:0:"";s:16:"user_permissions";s:5:"agent";s:10:"package_id";s:1:"1";s:16:"suspended_status";s:1:"1";s:12:"propertie_id";s:4:"9018";s:5:"photo";s:36:"055e64fdf8ac073342dd7326784a461e.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1466";}i:15;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1465";s:9:"title_eng";s:90:"မြောက်ဒဂုံ မြို့နယ် အိမ်အရောင်း ";s:8:"title_mm";s:90:"မြောက်ဒဂုံ မြို့နယ် အိမ်အရောင်း ";s:9:"region_id";s:0:"";s:16:"sale_township_id";s:2:"16";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"40*60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"5000";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:1:"4";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"4";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:1:"2";s:13:"swimming_pool";s:0:"";s:7:"securit";s:0:"";s:16:"air_conditioning";s:0:"";s:4:"wifi";s:0:"";s:7:"balcony";s:0:"";s:4:"cctv";s:0:"";s:11:"car_parking";s:0:"";s:10:"dishwasher";s:0:"";s:9:"generator";s:0:"";s:11:"near_church";s:0:"";s:6:"garden";s:0:"";s:3:"gym";s:0:"";s:4:"lift";s:0:"";s:11:"play_ground";s:0:"";s:12:"water_heater";s:0:"";s:13:"mountain_view";s:0:"";s:11:"pagoda_view";s:0:"";s:8:"sea_view";s:0:"";s:9:"lake_view";s:0:"";s:9:"city_view";s:0:"";s:11:"garden_view";s:0:"";s:10:"river_view";s:0:"";s:8:"showroom";s:0:"";s:10:"restaurant";s:0:"";s:6:"office";s:0:"";s:9:"warehouse";s:0:"";s:14:"description_mm";s:359:"​မြောက်ဒဂုံ မြို့နယ် အိမ်အရောင်း 
+အကျယ်အဝန်း 40*60
+ဈေးနှုန်း (5000)သိန်း
+လုံးချင်းအိမ်
+အခန်း ၄ခန်းပါ
+ဈေးနီးကျောင်းနီး။
+လမ်းမကြီးကျောကပ်";s:15:"description_eng";s:356:"မြောက်ဒဂုံ မြို့နယ် အိမ်အရောင်း 
+အကျယ်အဝန်း 40*60
+ဈေးနှုန်း (5000)သိန်း
+လုံးချင်းအိမ်
+အခန်း ၄ခန်းပါ
+ဈေးနီးကျောင်းနီး။
+လမ်းမကြီးကျောကပ်";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000950";s:9:"education";s:0:"";s:6:"health";s:0:"";s:14:"transportation";s:0:"";s:12:"user_info_id";s:2:"42";s:11:"carete_date";s:10:"2022-03-14";s:16:"post_upload_date";s:23:"18 March, 2022 11:13 am";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:0:"";s:12:"top_featured";s:0:"";s:14:"contact_number";s:12:"096479041134";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:10:"refresh_ad";N;s:11:"township_id";s:2:"16";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"North Dagon";s:12:"townships_mm";s:73:"ဒဂုံမြို့သစ် မြောက်ပိုင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";s:2:"42";s:10:"company_id";s:9:"U-0000032";s:12:"company_name";s:3:"TL ";s:4:"name";s:3:"TL ";s:5:"email";s:11:"09266656113";s:12:"confirm_mail";s:11:"09266656113";s:5:"phone";s:11:"09266656113";s:8:"password";s:32:"d54d1702ad0f8326224b817c796763c9";s:12:"company_type";s:7:"ByOwner";s:7:"address";s:30:"No.2, Yanshin Street , Yankin ";s:11:"description";s:0:"";s:4:"logo";s:0:"";s:9:"user_role";s:0:"";s:16:"user_permissions";s:8:"by_owner";s:10:"package_id";s:1:"1";s:16:"suspended_status";s:1:"1";s:12:"propertie_id";s:4:"9015";s:5:"photo";s:36:"ba4ee989da30c14544f8c843f3660ca0.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1465";}i:16;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1464";s:9:"title_eng";s:160:"ပြင်ဦးလွင်မြို့ သစ္စာလမ်းမေးတင်တွင် Rcတစ်ထပ်တိုက်အရောင်း";s:8:"title_mm";s:160:"ပြင်ဦးလွင်မြို့ သစ္စာလမ်းမေးတင်တွင် Rcတစ်ထပ်တိုက်အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"50x70";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"2600";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1487:"မဂ်လာပါမိတ်ဆွေ!
+RC တစ်ထပ်တိုက်
+ခမ်းခမ်းနားနား Luxury ဆန်ဆန် နဲ့ အပန်းဖြေ အနားယူ နိုင်မယ့် အိမ်အလှလေး
+အရမ်း အရမ်း ကို လှလွန်းတဲ့ 
+ကျွန်းတိုင်လုံးတွေနဲ့ဆောက် ထားတဲ့ အိမ်လေး
+✴️ နေရာ 
+      မန္တလေး - လားရှိုးလမ်းမကြီး မှ 
+      တကွက်ငုတ် ၊သစ္စာမွန်လမ်း မေးတင်
+      ပြင်ဦးလွင်မြို့။
+🌲 ခြံအကျယ် ။ ( ၅၀ × ၇၀ ) ပေ
+စျေးနှုန်း။ ၂၆၀၀ သိန်း ( ညှိနှိုင်း ) 
+🍀 အိမ်အကျယ် 
+      ( ၄၀ × ၃၅ ) ပေ ။
+🏠 အိမ်ဖွဲ့စည်းပုံ 
+Master BedRoom ( ၃ ) ခန်း ၊  
+ဘုရားခန်းကျယ်၊ထမင်းစားခန်း ၊
+ မီးဖို မြေတိုက်ခန်းပါ ကားဂိုဒေါင်ကျယ် ။
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+09684477120(viber)
+09444279238
+09968655810";s:15:"description_eng";s:1487:"မဂ်လာပါမိတ်ဆွေ!
+RC တစ်ထပ်တိုက်
+ခမ်းခမ်းနားနား Luxury ဆန်ဆန် နဲ့ အပန်းဖြေ အနားယူ နိုင်မယ့် အိမ်အလှလေး
+အရမ်း အရမ်း ကို လှလွန်းတဲ့ 
+ကျွန်းတိုင်လုံးတွေနဲ့ဆောက် ထားတဲ့ အိမ်လေး
+✴️ နေရာ 
+      မန္တလေး - လားရှိုးလမ်းမကြီး မှ 
+      တကွက်ငုတ် ၊သစ္စာမွန်လမ်း မေးတင်
+      ပြင်ဦးလွင်မြို့။
+🌲 ခြံအကျယ် ။ ( ၅၀ × ၇၀ ) ပေ
+စျေးနှုန်း။ ၂၆၀၀ သိန်း ( ညှိနှိုင်း ) 
+🍀 အိမ်အကျယ် 
+      ( ၄၀ × ၃၅ ) ပေ ။
+🏠 အိမ်ဖွဲ့စည်းပုံ 
+Master BedRoom ( ၃ ) ခန်း ၊  
+ဘုရားခန်းကျယ်၊ထမင်းစားခန်း ၊
+ မီးဖို မြေတိုက်ခန်းပါ ကားဂိုဒေါင်ကျယ် ။
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+MayMyoCityLand@ PyinOoLwin
+09684477120(viber)
+09444279238
+09968655810";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000949";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"17 March, 2022 17:11 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:35:"09968655810,09444279238,09684477120";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"8904";s:5:"photo";s:36:"01d3c87f8f0e32935c9dfb59cfeef66b.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1464";}i:17;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1463";s:9:"title_eng";s:38:"ခြံ ရောင်း မည်";s:8:"title_mm";s:38:"ခြံ ရောင်း မည်";s:9:"region_id";N;s:16:"sale_township_id";s:2:"24";s:18:"sale_property_type";s:1:"4";s:5:"floor";s:0:"";s:4:"area";s:6:"30*100";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"900";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:836:"ခြံ ရောင်း မည်။ဘိုး ဘွား ပိုင်။
+📍 မျက် နှာ စာ ပေ - ၃၀ ၊  အ နောက် ပေ - ၁၀၀။
+📍 အုတ် တံ တိုင်း ၃ ဘက် ခတ် ပြီး။
+📍ကုန်း တ လ ဘောင် ရပ် ကွက် ။
+အ မှတ် (၃) လမ်း မ ကြီး ဘေး မာ မား ခေါက် ဆွဲ စက် ရုံ အ နီး။
+📌 အ ဆောင် လိုင်း ခန်း ဆောက် - ငှား  လို သူ များ အ တွက် နေ ရာ ကောင်း။
+💵 သိန်း ၉၀၀။ အ လျော့ အ တင်း ရှိ။
+👩🏻 ပိုင် ရှင် တိုက် ရိုက်။
+📳  09265000889";s:15:"description_eng";s:836:"ခြံ ရောင်း မည်။ဘိုး ဘွား ပိုင်။
+📍 မျက် နှာ စာ ပေ - ၃၀ ၊  အ နောက် ပေ - ၁၀၀။
+📍 အုတ် တံ တိုင်း ၃ ဘက် ခတ် ပြီး။
+📍ကုန်း တ လ ဘောင် ရပ် ကွက် ။
+အ မှတ် (၃) လမ်း မ ကြီး ဘေး မာ မား ခေါက် ဆွဲ စက် ရုံ အ နီး။
+📌 အ ဆောင် လိုင်း ခန်း ဆောက် - ငှား  လို သူ များ အ တွက် နေ ရာ ကောင်း။
+💵 သိန်း ၉၀၀။ အ လျော့ အ တင်း ရှိ။
+👩🏻 ပိုင် ရှင် တိုက် ရိုက်။
+📳  09265000889";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000948";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"17 March, 2022 17:01 pm";s:12:"viewer_count";s:1:"4";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09265000889";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"24";s:10:"regions_id";s:1:"1";s:9:"townships";s:10:"Mingaladon";s:12:"townships_mm";s:30:"မင်္ဂလာဒုံ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"4";s:13:"property_type";s:4:"Land";s:16:"property_type_mm";s:9:"မြေ";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"8903";s:5:"photo";s:36:"b2c298547a249b5a093caae0c18c9277.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1463";}i:18;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1462";s:9:"title_eng";s:156:"ပြင်ဦးလွင်မြို့ ရပ်ကွက်ကြီး၁၁ ရေငယ်တွင် မြေကွက်အရောင်း";s:8:"title_mm";s:156:"ပြင်ဦးလွင်မြို့ ရပ်ကွက်ကြီး၁၁ ရေငယ်တွင် မြေကွက်အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"4";s:5:"floor";s:0:"";s:4:"area";s:5:"50x70";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"490";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:882:"စျေးတန်တဲ့ မြေကွက်
+
+ရပ်ကွက်ကြီး ၁၁၊ရေငယ်၊ပြင်ဦးလွင်မြို့။
+
+#ပန်းချယ်ရီဝေ ပျိုးဥယျာဥ် ဘေး ကပ်လျက် 
+မဉ္ဇူ လမ်းမေးတင် မိုးကုတ်လမ်းခွဲ လမ်းမကြီး မှ ပေ ၁၀၀အကွာ ၂ ကွက်ငုပ်
+
+နေရာကောင်း၊လမ်းထောင့်ကွက်
+
+💁🏻‍♂️ 50*70 ပေ
+
+💁🏻‍♂️ ၄၉၀ သိန်း ပါးပါးညှိ
+
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+
+MayMyoCityLand@ PyinOoLwin
+09684477120(viber)
+09444279238
+09968655810";s:15:"description_eng";s:882:"စျေးတန်တဲ့ မြေကွက်
+
+ရပ်ကွက်ကြီး ၁၁၊ရေငယ်၊ပြင်ဦးလွင်မြို့။
+
+#ပန်းချယ်ရီဝေ ပျိုးဥယျာဥ် ဘေး ကပ်လျက် 
+မဉ္ဇူ လမ်းမေးတင် မိုးကုတ်လမ်းခွဲ လမ်းမကြီး မှ ပေ ၁၀၀အကွာ ၂ ကွက်ငုပ်
+
+နေရာကောင်း၊လမ်းထောင့်ကွက်
+
+💁🏻‍♂️ 50*70 ပေ
+
+💁🏻‍♂️ ၄၉၀ သိန်း ပါးပါးညှိ
+
+စျေးနှုန်း၊ငွေပေးချေမှု ညှိနှိုင်းနိုင်ပါတယ်ခင်ဗျာ။
+
+MayMyoCityLand@ PyinOoLwin
+09684477120(viber)
+09444279238
+09968655810";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000947";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"17 March, 2022 16:58 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09684477120,09444279238";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"4";s:13:"property_type";s:4:"Land";s:16:"property_type_mm";s:9:"မြေ";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"8895";s:5:"photo";s:36:"b0cd8d43dd83156a6ad6f42624d362fa.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1462";}i:19;O:8:"stdClass":103:{s:7:"sale_id";s:4:"1461";s:9:"title_eng";s:203:"ပြင်ဦးလွင်မြို့ ၊ ရပ်ကွက်ကြီး(၁၉)၊ ငါးရံ့ချောင်း ပေ ၆၀ x ၅၀ မြေကွက်အရောင်း";s:8:"title_mm";s:203:"ပြင်ဦးလွင်မြို့ ၊ ရပ်ကွက်ကြီး(၁၉)၊ ငါးရံ့ချောင်း ပေ ၆၀ x ၅၀ မြေကွက်အရောင်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"52";s:18:"sale_property_type";s:1:"4";s:5:"floor";s:0:"";s:4:"area";s:5:"60x50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:3:"430";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1701:"ပြင်ဦးလွင်မြို့ ၊ ရပ်ကွက်ကြီး(၁၉)၊ ငါးရံ့ချောင်း
+ပေ ၆၀ x ၅၀ စျေး ၄၃၀ သိန်း ( ပါးပါးညှိနှိုင်း)
+တောင်ဘက်အလှည့်ပါ (လမ်းနှစ်ဖက်ပွင့်ပါ)
+ကိုယ်ပိုင်စျေးဆိုင် ဖွင့်ချင်သူများအတွက် အခွင့်အလမ်းကောင်းတစ်ခုပါ။ ပတ်ဝန်းကျင် အိမ်ကြီး အိမ်ကောင်းများ ရှိပါတယ် 
+ရွာလယ်မှာ တည်ရှိခြင်း၊ ရွာလယ်လမ်းမဘေးမြေကွက်ဖြစ်ခြင်း၊ မြို့ထဲမှ အကွက်အထိ ကတ္တရာလမ်း ခင်းထားခြင်း။
+မြို့ထဲနဲ့ နီးပြီး ကား/ဆိုင်ကယ်ဖြင့် ၅ မိနစ်မျှသာသွားရခြင်း၊ လူသွားလူလာမပြတ်ခြင်း၊ တိတ်ဆိတ်သော ရပ်ကွက်ဖြစ်ခြင်း၊ မြို့ထဲနဲ့ အနီးဆုံး ရပ်ကွက်ဖြစ်ခြင်း၊ ငါးရံ့ချောင်းစျေးနှင့် နီးခြင်း စသည့် အားသာချက်များ ရှိပါတယ်။ 
+မီးကတော့ မီတာလျှောက်ရုံပါပဲ ခင်ဗျ။ 
+09429669891
+09795221186";s:15:"description_eng";s:1701:"ပြင်ဦးလွင်မြို့ ၊ ရပ်ကွက်ကြီး(၁၉)၊ ငါးရံ့ချောင်း
+ပေ ၆၀ x ၅၀ စျေး ၄၃၀ သိန်း ( ပါးပါးညှိနှိုင်း)
+တောင်ဘက်အလှည့်ပါ (လမ်းနှစ်ဖက်ပွင့်ပါ)
+ကိုယ်ပိုင်စျေးဆိုင် ဖွင့်ချင်သူများအတွက် အခွင့်အလမ်းကောင်းတစ်ခုပါ။ ပတ်ဝန်းကျင် အိမ်ကြီး အိမ်ကောင်းများ ရှိပါတယ် 
+ရွာလယ်မှာ တည်ရှိခြင်း၊ ရွာလယ်လမ်းမဘေးမြေကွက်ဖြစ်ခြင်း၊ မြို့ထဲမှ အကွက်အထိ ကတ္တရာလမ်း ခင်းထားခြင်း။
+မြို့ထဲနဲ့ နီးပြီး ကား/ဆိုင်ကယ်ဖြင့် ၅ မိနစ်မျှသာသွားရခြင်း၊ လူသွားလူလာမပြတ်ခြင်း၊ တိတ်ဆိတ်သော ရပ်ကွက်ဖြစ်ခြင်း၊ မြို့ထဲနဲ့ အနီးဆုံး ရပ်ကွက်ဖြစ်ခြင်း၊ ငါးရံ့ချောင်းစျေးနှင့် နီးခြင်း စသည့် အားသာချက်များ ရှိပါတယ်။ 
+မီးကတော့ မီတာလျှောက်ရုံပါပဲ ခင်ဗျ။ 
+09429669891
+09795221186";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_sale";s:9:"ad_number";s:8:"S-000946";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:23:"17 March, 2022 16:37 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09429669891,09795221186";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:10:"refresh_ad";N;s:11:"township_id";s:2:"52";s:10:"regions_id";s:1:"2";s:9:"townships";s:12:"Pyin Oo Lwin";s:12:"townships_mm";s:30:"ပြင်ဦးလွင်";s:6:"status";s:1:"1";s:6:"region";s:15:"Mandalay Region";s:9:"region_mm";s:60:"မန္တလေးတိုင်းဒေသကြီး";s:16:"property_type_id";s:1:"4";s:13:"property_type";s:4:"Land";s:16:"property_type_mm";s:9:"မြေ";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"8889";s:5:"photo";s:36:"d06bb1b0e5a24b9e539f9413fa5921fc.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1461";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:20;s:8:"row_data";N;}

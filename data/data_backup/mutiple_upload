@@ -1,0 +1,15 @@
+    public function mutiple_file_upload(){
+
+        $config['upload_path'] = './uploads/';    
+        $config['allowed_types'] = 'jpg|jpeg|png|gif';
+        $config['max_size']    = '102400'; //100 MB
+        
+        $this->load->library('upload',$config);   
+        if (!$this->upload->do_upload('file')){
+            $error = array('error' => $this->upload->display_errors());
+        }else{
+            $images = array('upload_data' => $this->upload->data('file'));
+            $name = $this->upload->data('file_name');
+            return $name;
+        }
+    }

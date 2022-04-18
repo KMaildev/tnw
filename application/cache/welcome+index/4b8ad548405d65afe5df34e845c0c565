@@ -1,0 +1,905 @@
+O:12:"CI_DB_result":8:{s:7:"conn_id";N;s:9:"result_id";N;s:12:"result_array";a:20:{i:0;a:102:{s:7:"sale_id";s:3:"364";s:9:"title_eng";s:101:"စမ်းချောင်း မင်းလမ်း တိုက်ခန်းအငှား";s:8:"title_mm";s:101:"စမ်းချောင်း မင်းလမ်း တိုက်ခန်းအငှား";s:9:"region_id";N;s:16:"sale_township_id";s:1:"8";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"1";s:4:"area";s:5:"12x50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:1:"4";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:1:"2";s:8:"bathroom";s:0:"";s:14:"masterbathroom";N;s:11:"dining_room";s:1:"1";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";s:12:"Water Heater";s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1479:"-စမ်းချောင်း မင်းလမ်း-ပထမထပ် -ပရိဘောဂအစုံပါ ပြင်ဆင်ပြီး-၁၂ပေခွဲ ၅၀-closetပါတဲ့အိပ်ခန်းတခန်း  -cabinetအစုံ -မျက်နှာကျက်အလှဆင်ပြီး -mini liquor bar-အသစ်ပြုပြင်ထားတဲ့ ရေချိုးခန်း အိမ်သာ-Chigo 1.5 hp (အသစ်တလုံး)
+-Panasonic ရေပူရေအေး(အသစ်တလုံး)-32"Samsung TV (အသစ် တလုံး) -ရေခဲသေတ္တာ Pressure pump-ကြွေပြားခင်း၊ ကြွေပြားကပ် -Citymart,Spirit,KFC,Lotteria,KBZ,UAB, Dagon centre1,2, Sanchaung Garden Residence,အာရှတော်ဝင်ဆေးရုံတို့နဲ့ နီးကပ်စွာရှိ - တလ ၄သိန်း- ၃လချုပ် အဆင်ပြေ မှန်ခန်း/ထပ်ခိုးခန်း မဟုတ်ပါ(9ပေ အမြင့်ရှိတဲ့ ပထမထပ်သီးသန့်) 
+ဖုန်းနဲ့ အသေးစိပ်မေးမြန်းစုံစမ်းနိုင်ပြီး နီးစပ်တယ်ဆိုမှ ဆုံးဖြတ်ချက်ချနိုင်သူကိုယ်တိုင် အခန်းလာကြည့်ပါရန်... ";s:15:"description_eng";s:1479:"-စမ်းချောင်း မင်းလမ်း-ပထမထပ် -ပရိဘောဂအစုံပါ ပြင်ဆင်ပြီး-၁၂ပေခွဲ ၅၀-closetပါတဲ့အိပ်ခန်းတခန်း  -cabinetအစုံ -မျက်နှာကျက်အလှဆင်ပြီး -mini liquor bar-အသစ်ပြုပြင်ထားတဲ့ ရေချိုးခန်း အိမ်သာ-Chigo 1.5 hp (အသစ်တလုံး)
+-Panasonic ရေပူရေအေး(အသစ်တလုံး)-32"Samsung TV (အသစ် တလုံး) -ရေခဲသေတ္တာ Pressure pump-ကြွေပြားခင်း၊ ကြွေပြားကပ် -Citymart,Spirit,KFC,Lotteria,KBZ,UAB, Dagon centre1,2, Sanchaung Garden Residence,အာရှတော်ဝင်ဆေးရုံတို့နဲ့ နီးကပ်စွာရှိ - တလ ၄သိန်း- ၃လချုပ် အဆင်ပြေ မှန်ခန်း/ထပ်ခိုးခန်း မဟုတ်ပါ(9ပေ အမြင့်ရှိတဲ့ ပထမထပ်သီးသန့်) 
+ဖုန်းနဲ့ အသေးစိပ်မေးမြန်းစုံစမ်းနိုင်ပြီး နီးစပ်တယ်ဆိုမှ ဆုံးဖြတ်ချက်ချနိုင်သူကိုယ်တိုင် အခန်းလာကြည့်ပါရန်... ";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000029";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:24:"9 January, 2022 12:18 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:23:"09421039566,09769363154";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:1:"8";s:10:"regions_id";s:1:"1";s:9:"townships";s:9:"Sanchaung";s:12:"townships_mm";s:33:"စမ်းချောင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"1441";s:5:"photo";s:36:"133b63314e7e5d59b7cee868f10e82d5.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"364";}i:1;a:102:{s:7:"sale_id";s:3:"579";s:9:"title_eng";s:118:"ပေ၁၀၀ပတ်လည်ထောင့်ခြံ + RC ၂ထပ်တိုက် ငှားမည်။";s:8:"title_mm";s:118:"ပေ၁၀၀ပတ်လည်ထောင့်ခြံ + RC ၂ထပ်တိုက် ငှားမည်။";s:9:"region_id";N;s:16:"sale_township_id";s:2:"16";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:7:"100*100";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"30";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:826:"မြောက်ဒဂုံ၊ တော်ဝင်လုံးချင်းအိမ်ယာရှိ ထောင့်ခြံ ပေ၁၀၀ပတ်လည်ခြံ + RC 2ထပ်တိုက် ငှားမည်။ ရုပ်ရှင်ရုံ ၊ Capital၊ စျေး ၊ ကျောင်း၊ ဆေးရုံ တို့နှင့်နီး ဘေလီတံတားနှင့်လည်းနီး၍ လူနေ+စီးပွားရေးလုပ်ရန် အလွန်အဆင်ပြေသောနေရာဖြစ်ပါသည်။
+
+အကျယ်အဝန်း
+100 ေပ x 100 ေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:15:"description_eng";s:826:"မြောက်ဒဂုံ၊ တော်ဝင်လုံးချင်းအိမ်ယာရှိ ထောင့်ခြံ ပေ၁၀၀ပတ်လည်ခြံ + RC 2ထပ်တိုက် ငှားမည်။ ရုပ်ရှင်ရုံ ၊ Capital၊ စျေး ၊ ကျောင်း၊ ဆေးရုံ တို့နှင့်နီး ဘေလီတံတားနှင့်လည်းနီး၍ လူနေ+စီးပွားရေးလုပ်ရန် အလွန်အဆင်ပြေသောနေရာဖြစ်ပါသည်။
+
+အကျယ်အဝန်း
+100 ေပ x 100 ေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000072";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"14 January, 2022 16:30 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:19:"095032087-095107515";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"16";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"North Dagon";s:12:"townships_mm";s:73:"ဒဂုံမြို့သစ် မြောက်ပိုင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2678";s:5:"photo";s:36:"e315c9106a7acdbded0e25ba5aeb05e2.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"579";}i:2;a:102:{s:7:"sale_id";s:4:"1112";s:9:"title_eng";s:170:"ကြည်မြင်တိုင်မြို့နယ် ကမ်းနားလမ်းမပေါ်၅လွှာ တိုက်ခန်းအငှား";s:8:"title_mm";s:170:"ကြည်မြင်တိုင်မြို့နယ် ကမ်းနားလမ်းမပေါ်၅လွှာ တိုက်ခန်းအငှား";s:9:"region_id";s:1:"1";s:16:"sale_township_id";s:1:"7";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"5";s:4:"area";s:5:"13x50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:6:"180000";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:409:"3လချုပ်၊6လချုပ်
+ကြည်မြင်တိုင်မြို့နယ် ကမ်းနားလမ်းမပေါ်နတ်စင်လမ်းမှတ်တိုင်အနီး
+13ပေ၊50
+Hall Type
+5လွှာ
+ဘိုထိုင်
+👉1သိန်း8သောင်း
+👸🏻မေလိ Ml-Real-Estate
+☎️09-254366377
+☎️09-784722505";s:15:"description_eng";s:412:"3လချုပ်၊6လချုပ်
+ကြည်မြင်တိုင်မြို့နယ်
+ကမ်းနားလမ်းမပေါ်
+နတ်စင်လမ်းမှတ်တိုင်အနီး
+13ပေ၊50
+Hall Type
+5လွှာ
+ဘိုထိုင်
+👉1သိန်း8သောင်း
+👸🏻မေလိ Ml-Real-Estate
+☎️09-254366377
+☎️09-784722505";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000146";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:2:"27";s:11:"carete_date";s:10:"2022-02-17";s:16:"post_upload_date";s:26:"17 February, 2022 13:49 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:25:"09-254366377,09-784722505";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:1:"7";s:10:"regions_id";s:1:"1";s:9:"townships";s:13:"Kyeemyindaing";s:12:"townships_mm";s:42:"ကြည့်မြင်တိုင်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";s:2:"27";s:10:"company_id";s:9:"U-0000022";s:12:"company_name";s:27:"မေလိ ML Real Estate";s:4:"name";s:0:"";s:5:"email";s:11:"09254366377";s:12:"confirm_mail";N;s:5:"phone";s:11:"09254366377";s:8:"password";s:32:"d54d1702ad0f8326224b817c796763c9";s:12:"company_type";s:14:"PropertyAgency";s:7:"address";s:3:"Ygn";s:11:"description";s:0:"";s:4:"logo";s:36:"dc0f38fcb8948574bf46af0094bcab45.jpg";s:9:"user_role";s:0:"";s:16:"user_permissions";s:5:"agent";s:10:"package_id";s:1:"1";s:16:"suspended_status";s:1:"1";s:12:"propertie_id";s:4:"6066";s:5:"photo";s:36:"8bf2ec8e75bf7588bb15ac829faae42d.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1112";}i:3;a:102:{s:7:"sale_id";s:4:"1289";s:9:"title_eng";s:76:"သဃ်န်းကျွန်း ဂိုထောင်အငှား";s:8:"title_mm";s:76:"သဃ်န်းကျွန်း ဂိုထောင်အငှား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"27";s:18:"sale_property_type";s:1:"4";s:5:"floor";s:0:"";s:4:"area";s:5:"35*50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:1:"7";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:221:"ဂိုထောင်အငှား
+သဃ်န်းကျွန်း ကမာကြည် အတွင်းလမ်း
+35 ပေ 50 
+7 သိန်း ညှိနှိုင်း
+09254448086
+09794826877";s:15:"description_eng";s:221:"ဂိုထောင်အငှား
+သဃ်န်းကျွန်း ကမာကြည် အတွင်းလမ်း
+35 ပေ 50 
+7 သိန်း ညှိနှိုင်း
+09254448086
+09794826877";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000174";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:22:"5 March, 2022 12:01 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09254448086,09794826877";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:11:"township_id";s:2:"27";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"Thingangyun";s:12:"townships_mm";s:42:"သင်္ဃန်းကျွန်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"4";s:13:"property_type";s:4:"Land";s:16:"property_type_mm";s:9:"မြေ";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"7598";s:5:"photo";s:36:"554b72cfa9f637a901a7e8bd4b83b292.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1289";}i:4;a:102:{s:7:"sale_id";s:3:"591";s:9:"title_eng";s:40:"Crystal Residences Condo For Rent 1500 $";s:8:"title_mm";s:40:"Crystal Residences Condo For Rent 1500 $";s:9:"region_id";N;s:16:"sale_township_id";s:2:"19";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:2:"11";s:4:"area";s:3:"937";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"1500";s:10:"price_type";s:3:"USD";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:1:"1";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";s:13:"Swimming pool";s:7:"securit";s:14:"24 hrs Securit";s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";s:4:"Wifi";s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";s:3:"Gym";s:4:"lift";s:4:"Lift";s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:382:"1 Master bedroom
+1 single bedroom
+1 bathroom
+car parking
+air conditioners
+Fully furnished
+Wifi
+Swimming pool, GYM room, Sauna
+24 hours security
+
+အကျယ်အဝန်း
+937 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:15:"description_eng";s:382:"1 Master bedroom
+1 single bedroom
+1 bathroom
+car parking
+air conditioners
+Fully furnished
+Wifi
+Swimming pool, GYM room, Sauna
+24 hours security
+
+အကျယ်အဝန်း
+937 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000083";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"15 January, 2022 12:10 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09752741986";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"19";s:10:"regions_id";s:1:"1";s:9:"townships";s:8:"Kamaryut";s:12:"townships_mm";s:21:"ကမာရွတ်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2745";s:5:"photo";s:36:"6fad5b7312c5f8f7d2510059ad7061cb.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"591";}i:5;a:102:{s:7:"sale_id";s:3:"962";s:9:"title_eng";s:51:"Kantharyar Residence 23လွှာ အငှား";s:8:"title_mm";s:51:"Kantharyar Residence 23လွှာ အငှား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"11";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:2:"23";s:4:"area";s:4:"1485";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"1800";s:10:"price_type";s:3:"USD";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"1";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";s:13:"Swimming pool";s:7:"securit";s:14:"24 hrs Securit";s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";s:9:"Generator";s:11:"near_church";N;s:6:"garden";N;s:3:"gym";s:3:"Gym";s:4:"lift";s:4:"Lift";s:11:"play_ground";N;s:12:"water_heater";s:12:"Water Heater";s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:659:"Unit No: 23-04 1MBR & 1 Single Maid Room Kitchen
+Living and Dinning Room
+High floor - Level 23
+1485 sqft
+Leasing Price - $1800 Negotiable 
+Furnishings will provide for Renting. 
+For selling as per photo condition. 
+Amenities: 
+Excellent View. 
+Internet & Skynet
+Gym and Recreation places
+Kid pool & Leisure pool
+24 Hours Security by 5 Stars Wydham Hotel
+2 basement car parking, 
+3 Lifts & 2 Emergency Staircases
+Standby Generator 
+Water Treatment & Sewage Treatment System
+Centralised refuse disposal system
+Next Door: 
+Shopping Mall, 
+Market Place
+Restaurants, 
+Cinema, 
+High Class Amenities And Facilities. 
+In The Heart Of The City.";s:15:"description_eng";s:659:"Unit No: 23-04 1MBR & 1 Single Maid Room Kitchen
+Living and Dinning Room
+High floor - Level 23
+1485 sqft
+Leasing Price - $1800 Negotiable 
+Furnishings will provide for Renting. 
+For selling as per photo condition. 
+Amenities: 
+Excellent View. 
+Internet & Skynet
+Gym and Recreation places
+Kid pool & Leisure pool
+24 Hours Security by 5 Stars Wydham Hotel
+2 basement car parking, 
+3 Lifts & 2 Emergency Staircases
+Standby Generator 
+Water Treatment & Sewage Treatment System
+Centralised refuse disposal system
+Next Door: 
+Shopping Mall, 
+Market Place
+Restaurants, 
+Cinema, 
+High Class Amenities And Facilities. 
+In The Heart Of The City.";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000140";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:26:"10 February, 2022 11:11 am";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:12:"09-951446016";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"11";s:10:"regions_id";s:1:"1";s:9:"townships";s:18:"Mingalartaungnyunt";s:12:"townships_mm";s:51:"မင်္ဂလာတောင်ညွန့်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"5092";s:5:"photo";s:36:"b4b9b9374c3d4c253bdcc93f38b6e4dd.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"962";}i:6;a:102:{s:7:"sale_id";s:3:"554";s:9:"title_eng";s:26:"Golden City Condo For Rent";s:8:"title_mm";s:26:"Golden City Condo For Rent";s:9:"region_id";N;s:16:"sale_township_id";s:2:"13";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:0:"";s:4:"area";s:4:"1650";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"2000";s:10:"price_type";s:3:"USD";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:1:"2";s:14:"masterbathroom";N;s:11:"dining_room";s:1:"1";s:11:"living_room";s:1:"1";s:9:"bead_room";s:1:"3";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:657:"To let in at golden city condo with fully furnish 3 bedrooms 2 full baths,
+Spacious living room, nice dinning room plus maid room &amp; storage room
+Kitchen room include stoke ,exhaust fan, upper cabinet is plenty space,
+also water purifier set for drinking.All the rooms are decent space &amp; huge glass windows for garden view .They designed for quiet &amp; luxury make us fell comfortable. Contact me &amp; get a check
+
+အကျယ်အဝန်း
+1650 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:15:"description_eng";s:657:"To let in at golden city condo with fully furnish 3 bedrooms 2 full baths,
+Spacious living room, nice dinning room plus maid room &amp; storage room
+Kitchen room include stoke ,exhaust fan, upper cabinet is plenty space,
+also water purifier set for drinking.All the rooms are decent space &amp; huge glass windows for garden view .They designed for quiet &amp; luxury make us fell comfortable. Contact me &amp; get a check
+
+အကျယ်အဝန်း
+1650 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000060";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"14 January, 2022 14:39 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:11:"09758868754";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"13";s:10:"regions_id";s:1:"1";s:9:"townships";s:6:"Yankin";s:12:"townships_mm";s:21:"ရန်ကင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2552";s:5:"photo";s:36:"c6e7f26936dc53f3374cc0930d21a671.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"554";}i:7;a:102:{s:7:"sale_id";s:3:"968";s:9:"title_eng";s:79:"မရမ်းကုန်းမြို့နယ် Bungalow အငှား";s:8:"title_mm";s:79:"မရမ်းကုန်းမြို့နယ် Bungalow အငှား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"23";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:7:"40 x 60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"18";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"3";s:11:"dining_room";s:1:"1";s:11:"living_room";s:1:"1";s:9:"bead_room";s:0:"";s:10:"other_room";s:1:"1";s:11:"shrine_room";s:1:"1";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:648:"မရမ်းကုန်းမြို့နယ်၊ (၄) ရပ်ကွက်၊ အောင်မင်္ဂလာ ၂ လမ်း ထောင့်၊ (ရဲဘော်ဟောင်း ကားမှတ်တိုင် - Junction 8  နား)
+MaYanKong Township (Near Junction 8 ) , 4/2 Aung Mingalar Lane 2, Conner. 
+For Resident & Office & Business 
+RC 2 Storey
+3 Master bedrooms with individual balcony 
+1 Maid Room 
+1 common bathroom (WC)
+Living Room 
+Shrine Room
+Dinning Room
+Kitchen 
+Plot Area:  40’ x 60’ = 2400 sqft 
+Leasing Price - ၁၈ သိန်း Negotiable - ညှိုနှိုင်း";s:15:"description_eng";s:648:"မရမ်းကုန်းမြို့နယ်၊ (၄) ရပ်ကွက်၊ အောင်မင်္ဂလာ ၂ လမ်း ထောင့်၊ (ရဲဘော်ဟောင်း ကားမှတ်တိုင် - Junction 8  နား)
+MaYanKong Township (Near Junction 8 ) , 4/2 Aung Mingalar Lane 2, Conner. 
+For Resident & Office & Business 
+RC 2 Storey
+3 Master bedrooms with individual balcony 
+1 Maid Room 
+1 common bathroom (WC)
+Living Room 
+Shrine Room
+Dinning Room
+Kitchen 
+Plot Area:  40’ x 60’ = 2400 sqft 
+Leasing Price - ၁၈ သိန်း Negotiable - ညှိုနှိုင်း";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000141";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:26:"10 February, 2022 11:59 am";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:12:"09-951446016";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"23";s:10:"regions_id";s:1:"1";s:9:"townships";s:9:"Mayangone";s:12:"townships_mm";s:30:"မရမ်းကုန်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"5131";s:5:"photo";s:36:"0c1f91e89d338dc725863c82849c383b.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"968";}i:8;a:102:{s:7:"sale_id";s:3:"581";s:9:"title_eng";s:160:"မ/ဒဂုံ ၃၄ ရပ်ကွက် ရှိ Hall Type ၆ခန်းတွဲ ၃ထပ်တိုက်ငှါးရန်ရှိသည်။";s:8:"title_mm";s:160:"မ/ဒဂုံ ၃၄ ရပ်ကွက် ရှိ Hall Type ၆ခန်းတွဲ ၃ထပ်တိုက်ငှါးရန်ရှိသည်။";s:9:"region_id";N;s:16:"sale_township_id";s:2:"16";s:18:"sale_property_type";s:1:"6";s:5:"floor";s:0:"";s:4:"area";s:4:"2400";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"25";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:861:"Hall type ၆ ခန်းတွဲ ၃ ထပ်တိုက် တစ်တိုက်လုံးငှါးမည်။ရုံးခန်းအတွက်သင့်လျော်သည်။၄၀*၆၀ ပေ အကွက်တွင်ဆောက်ထားပြီး တစ်ထပ်လျှင် ၃၅*၅၂ ပေရှိသည်။ အခန်းအကျယ် တစ်ခန်းလျှင် ၁၈ ပေနီးပါး အခန်းအမြင့် ၁၀ ပေရှိ ။ ၃ နှစ်စာ စာချုပ်ချုပ်ရပါမည်။
+
+အကျယ်အဝန်း
+2400 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ တစ်စိတ်တစ်ပိုင်း ပြင်ဆင်ပြီး";s:15:"description_eng";s:861:"Hall type ၆ ခန်းတွဲ ၃ ထပ်တိုက် တစ်တိုက်လုံးငှါးမည်။ရုံးခန်းအတွက်သင့်လျော်သည်။၄၀*၆၀ ပေ အကွက်တွင်ဆောက်ထားပြီး တစ်ထပ်လျှင် ၃၅*၅၂ ပေရှိသည်။ အခန်းအကျယ် တစ်ခန်းလျှင် ၁၈ ပေနီးပါး အခန်းအမြင့် ၁၀ ပေရှိ ။ ၃ နှစ်စာ စာချုပ်ချုပ်ရပါမည်။
+
+အကျယ်အဝန်း
+2400 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ တစ်စိတ်တစ်ပိုင်း ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000073";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"14 January, 2022 16:41 pm";s:12:"viewer_count";s:1:"1";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:9:"095038604";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"16";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"North Dagon";s:12:"townships_mm";s:73:"ဒဂုံမြို့သစ် မြောက်ပိုင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"6";s:13:"property_type";s:7:"Offices";s:16:"property_type_mm";s:6:"Office";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2690";s:5:"photo";s:37:"16954aee8ab880d101195de4e85ce47e.jpeg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"581";}i:9;a:102:{s:7:"sale_id";s:4:"1096";s:9:"title_eng";s:86:"စံပြ၃လမ်း ၅လွှာ တိုက်ခန်းအငှား";s:8:"title_mm";s:86:"စံပြ၃လမ်း ၅လွှာ တိုက်ခန်းအငှား";s:9:"region_id";s:1:"1";s:16:"sale_township_id";s:2:"27";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"5";s:4:"area";s:7:"12.5x50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:6:"150000";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1418:"ရှယ် အခန်းသန့်လေး ဌားမည်
+🌈 သင်္ဃန်းကျွန်းမြို့နယ် စံပြရပ်ကွက် စံပြ၃လမ်း ၅လွှာ
+၁၂ခွဲx၅၀ပေ တစ်လလျှင်၁၅၀၀၀၀
+၆လချုပ်/၃လချုပ်ရမည်။စပေါ်တစ်သိန်းတင်ရပါမယ်။
+👉 ပါကေးအပြည့်ခင်းပြီး  ရှေ့သံပန်းဆန်းရှိတ်တပ်ပြီး  အသင့်နေအခန်းသန့်လေးပါ။
+👌စံပြစျေးနီး သံသုမာလမ်းမနီး ကျောင်းနီး
+ ကားမှတ်တိုင်နီးပါတယ်နော်။
+😁 အခန်းလွတ်၊ချက်ချင်းတက်အခန်းသန့်လေးဆိုတော့ စရံဦးထားမှစိတ်ချရမယ်နော်။
+ဆက်သွယ်ရန်📲 09886421280
+🙏လူကြီးမင်းတို့ရဲ့ အိမ်ခြံမြေကွန်ဒိုတိုက်ခန်းများ ရောင်းလိုဝယ်လိုဌားရမ်းလိုပါကယုံကြည်စွာ
+ဆက်သွယ်အပ်နှံနိင်ပါသည်။";s:15:"description_eng";s:1418:"ရှယ် အခန်းသန့်လေး ဌားမည်
+🌈 သင်္ဃန်းကျွန်းမြို့နယ် စံပြရပ်ကွက် စံပြ၃လမ်း ၅လွှာ
+၁၂ခွဲx၅၀ပေ တစ်လလျှင်၁၅၀၀၀၀
+၆လချုပ်/၃လချုပ်ရမည်။စပေါ်တစ်သိန်းတင်ရပါမယ်။
+👉 ပါကေးအပြည့်ခင်းပြီး  ရှေ့သံပန်းဆန်းရှိတ်တပ်ပြီး  အသင့်နေအခန်းသန့်လေးပါ။
+👌စံပြစျေးနီး သံသုမာလမ်းမနီး ကျောင်းနီး
+ ကားမှတ်တိုင်နီးပါတယ်နော်။
+😁 အခန်းလွတ်၊ချက်ချင်းတက်အခန်းသန့်လေးဆိုတော့ စရံဦးထားမှစိတ်ချရမယ်နော်။
+ဆက်သွယ်ရန်📲 09886421280
+🙏လူကြီးမင်းတို့ရဲ့ အိမ်ခြံမြေကွန်ဒိုတိုက်ခန်းများ ရောင်းလိုဝယ်လိုဌားရမ်းလိုပါကယုံကြည်စွာ
+ဆက်သွယ်အပ်နှံနိင်ပါသည်။";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000145";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:2:"25";s:11:"carete_date";s:10:"2022-02-16";s:16:"post_upload_date";s:26:"16 February, 2022 13:57 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:11:"09886421280";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"27";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"Thingangyun";s:12:"townships_mm";s:42:"သင်္ဃန်းကျွန်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";s:2:"25";s:10:"company_id";s:9:"U-0000020";s:12:"company_name";s:19:"Rainbow Real Estate";s:4:"name";s:0:"";s:5:"email";s:11:"09886421280";s:12:"confirm_mail";N;s:5:"phone";s:11:"09886421280";s:8:"password";s:32:"d54d1702ad0f8326224b817c796763c9";s:12:"company_type";s:14:"PropertyAgency";s:7:"address";s:3:"YGN";s:11:"description";s:0:"";s:4:"logo";s:36:"a872c32d0223c1a0984ce7292555f66c.jpg";s:9:"user_role";s:0:"";s:16:"user_permissions";s:5:"agent";s:10:"package_id";s:1:"1";s:16:"suspended_status";s:1:"1";s:12:"propertie_id";s:4:"5900";s:5:"photo";s:36:"c0f3c3222826194ec840398314d3d808.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1096";}i:10;a:102:{s:7:"sale_id";s:4:"1326";s:9:"title_eng";s:76:"တောင်ဥက္ကလာပ တိုက်ခန်းအဌား";s:8:"title_mm";s:76:"တောင်ဥက္ကလာပ တိုက်ခန်းအဌား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"26";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"4";s:4:"area";s:5:"19*55";s:9:"area_type";s:4:"Sqft";s:5:"price";s:6:"250000";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:496:"တောင်ဥကလာပ တိုက်ခန်းအငှား
+13ရပ်ကွက် မဂ်လာလမ်းမနီး 
+19×55 တတိယထပ် 4လွှာ
+ပါ​ကေးခင်း အခန်း2ခန်းပါ
+နံရံကပ်ဗီဒိုတစ်လုံး တယောက်အိပ်ကုတင်(2)လုံး
+Ac(1)လုံးပါ 
+စျေး 250000(ညှိနှိုင်း)
+အကျိုးဆောင် 09973461255";s:15:"description_eng";s:496:"တောင်ဥကလာပ တိုက်ခန်းအငှား
+13ရပ်ကွက် မဂ်လာလမ်းမနီး 
+19×55 တတိယထပ် 4လွှာ
+ပါ​ကေးခင်း အခန်း2ခန်းပါ
+နံရံကပ်ဗီဒိုတစ်လုံး တယောက်အိပ်ကုတင်(2)လုံး
+Ac(1)လုံးပါ 
+စျေး 250000(ညှိနှိုင်း)
+အကျိုးဆောင် 09973461255";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000181";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:22:"8 March, 2022 10:50 am";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09973461255";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:11:"township_id";s:2:"26";s:10:"regions_id";s:1:"1";s:9:"townships";s:14:"South Okkalapa";s:12:"townships_mm";s:36:"တောင်ဥက္ကလာပ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"7924";s:5:"photo";s:36:"de5bb9c86d5e367f6e7003402289c886.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1326";}i:11;a:102:{s:7:"sale_id";s:4:"1295";s:9:"title_eng";s:104:"ရွှေနှင်းဆီကန်လမ်းရှိ 2Rc တိုက်ငှားမည်";s:8:"title_mm";s:104:"ရွှေနှင်းဆီကန်လမ်းရှိ 2Rc တိုက်ငှားမည်";s:9:"region_id";N;s:16:"sale_township_id";s:2:"23";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"70x80";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"10";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"3";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";s:9:"Generator";s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:647:"မရမ်းကုန်းမြို့နယ်
+ရွှေနှင်းဆီကန်လမ်းရှိ 2Rc တိုက်ငှားမည်
+ခြံအကျယ်ပေ ၇၀×၈၀
+အိပ်ခန်း
+master = ၃ ခန်း
+Air con = ၅ လုံး
+မီးစက်ပါ
+ကားပါကင် =(၅)စီးဆန့်
+အငှား တစ်လ =၁၀ သိန်း(ညှိ့နှိုင်းပါ)
+ဆက်သွယ်မေးမြန်းနိုင်ပါတယ်
+အကျိူးဆောင်
+၀၉ ၇၉၀၇၆၆၉၉၁
+၀၉ ၂၅၀၁၅၂၉၅၉";s:15:"description_eng";s:647:"မရမ်းကုန်းမြို့နယ်
+ရွှေနှင်းဆီကန်လမ်းရှိ 2Rc တိုက်ငှားမည်
+ခြံအကျယ်ပေ ၇၀×၈၀
+အိပ်ခန်း
+master = ၃ ခန်း
+Air con = ၅ လုံး
+မီးစက်ပါ
+ကားပါကင် =(၅)စီးဆန့်
+အငှား တစ်လ =၁၀ သိန်း(ညှိ့နှိုင်းပါ)
+ဆက်သွယ်မေးမြန်းနိုင်ပါတယ်
+အကျိူးဆောင်
+၀၉ ၇၉၀၇၆၆၉၉၁
+၀၉ ၂၅၀၁၅၂၉၅၉";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000175";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:22:"5 March, 2022 13:43 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:23:"09790766991,09250152959";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:11:"township_id";s:2:"23";s:10:"regions_id";s:1:"1";s:9:"townships";s:9:"Mayangone";s:12:"townships_mm";s:30:"မရမ်းကုန်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"7645";s:5:"photo";s:36:"b148059b2ff043f3c22a6ba6a5345d88.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1295";}i:12;a:102:{s:7:"sale_id";s:3:"632";s:9:"title_eng";s:119:"မှော်ဘီ ဂျပန်ဘုရားအနီး လုံးချင်းအိမ်အငှား";s:8:"title_mm";s:119:"မှော်ဘီ ဂျပန်ဘုရားအနီး လုံးချင်းအိမ်အငှား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"32";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:9:"200  x 65";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"25";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:1:"5";s:8:"bathroom";s:1:"3";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:201:"New House: 2,000 SQFT
+Garden: 8,000 SQFT
+Total Area: 0.25 Acre
+Large Living Room
+2 Single Bedrooms
+1 Dining Room
+1 Large Kitchen
+2 Toilets
+1 Shower Room
+Furnished Peaceful & Quiet Neighborhood";s:15:"description_eng";s:201:"New House: 2,000 SQFT
+Garden: 8,000 SQFT
+Total Area: 0.25 Acre
+Large Living Room
+2 Single Bedrooms
+1 Dining Room
+1 Large Kitchen
+2 Toilets
+1 Shower Room
+Furnished Peaceful & Quiet Neighborhood";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000133";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"17 January, 2022 12:04 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:12:"09-793533716";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"32";s:10:"regions_id";s:1:"1";s:9:"townships";s:6:"Hmawbi";s:12:"townships_mm";s:21:"မှော်ဘီ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2994";s:5:"photo";s:36:"18d985b68cce7d7bcd77b41e07459aa2.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"632";}i:13;a:102:{s:7:"sale_id";s:4:"1274";s:9:"title_eng";s:116:"မင်္ဂလာတောင်ညွန့်မြို့နယ် မြေညီထပ် အငှား";s:8:"title_mm";s:116:"မင်္ဂလာတောင်ညွန့်မြို့နယ် မြေညီထပ် အငှား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"11";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:0:"";s:4:"area";s:8:"12.50x58";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"11";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1525:"စီးပွားရေးလုပ်ရန်  နေရာ အလွန် ကောင်း သော လမ်းမကြီး ပေါ်ရှိ အငှား ပါ။
+မဂ်လာတောင်ညွန့် ရှိ  မြယာကုန်း လမ်းမကြီး နှင့် ဗိုလ်မင်းရောင် လမ်မ ကြီး ထောင့် တွင်ရှိသော  ၁၂.၅၀ *၅၈ ပေ အကျယ် ရှိ မြေညီ အငှားလေး ရှိပါတယ်။  နောက်ဖေး နဲ့ ဘေး မှာ မြေပိုပါ ရှိ‌သောကြောင့်။  Tea shop  ၊ Show Room ၊ စားသောက်ဆိုင် ဖွင့်  လို့ရပါတယ်ရှင့်။ (မှတ် ချက် : အရက် /ဘီယာ ဆိုင် မရပါ )
+Hall Type ကြွေပြားခင်းထားပါတယ်။ ကားပါကင် ရှိပါသည်။
+ဒီလို လမ်းထောင့် ဆုံ ရာ  နေရာကောင်းလေးကို လက်ဦး မှု့ ရအောင် အမြန် Hello လုပ်ဖို့ လိုပါမယ် နော်  ။ 
+အငှား ( 6 လ ချုပ် / နှစ်ချုပ် ) တစ်လ  - ၁၁သိန်း ပါ။
+အိမ်ကြည့်မယ်ဆို ပါက ကြို ချိန်းရပါမယ်။";s:15:"description_eng";s:1525:"စီးပွားရေးလုပ်ရန်  နေရာ အလွန် ကောင်း သော လမ်းမကြီး ပေါ်ရှိ အငှား ပါ။
+မဂ်လာတောင်ညွန့် ရှိ  မြယာကုန်း လမ်းမကြီး နှင့် ဗိုလ်မင်းရောင် လမ်မ ကြီး ထောင့် တွင်ရှိသော  ၁၂.၅၀ *၅၈ ပေ အကျယ် ရှိ မြေညီ အငှားလေး ရှိပါတယ်။  နောက်ဖေး နဲ့ ဘေး မှာ မြေပိုပါ ရှိ‌သောကြောင့်။  Tea shop  ၊ Show Room ၊ စားသောက်ဆိုင် ဖွင့်  လို့ရပါတယ်ရှင့်။ (မှတ် ချက် : အရက် /ဘီယာ ဆိုင် မရပါ )
+Hall Type ကြွေပြားခင်းထားပါတယ်။ ကားပါကင် ရှိပါသည်။
+ဒီလို လမ်းထောင့် ဆုံ ရာ  နေရာကောင်းလေးကို လက်ဦး မှု့ ရအောင် အမြန် Hello လုပ်ဖို့ လိုပါမယ် နော်  ။ 
+အငှား ( 6 လ ချုပ် / နှစ်ချုပ် ) တစ်လ  - ၁၁သိန်း ပါ။
+အိမ်ကြည့်မယ်ဆို ပါက ကြို ချိန်းရပါမယ်။";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000165";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:22:"4 March, 2022 14:00 pm";s:12:"viewer_count";s:1:"1";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:12:"09-771419525";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:11:"township_id";s:2:"11";s:10:"regions_id";s:1:"1";s:9:"townships";s:18:"Mingalartaungnyunt";s:12:"townships_mm";s:51:"မင်္ဂလာတောင်ညွန့်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"7414";s:5:"photo";s:36:"be90447b3985a4dff9ccad745f12b23b.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1274";}i:14;a:102:{s:7:"sale_id";s:3:"615";s:9:"title_eng";s:36:"နဝရတ်ကွန်ဒို";s:8:"title_mm";s:36:"နဝရတ်ကွန်ဒို";s:9:"region_id";N;s:16:"sale_township_id";s:2:"19";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:1:"1";s:4:"area";s:4:"1170";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"10";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:1:"1";s:14:"masterbathroom";N;s:11:"dining_room";s:1:"1";s:11:"living_room";s:1:"1";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:1:"1";s:10:"year_built";s:0:"";s:13:"swimming_pool";s:13:"Swimming pool";s:7:"securit";s:14:"24 hrs Securit";s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";s:4:"Wifi";s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";s:4:"Lift";s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1158:"နဝရတ်ကွန်ဒို
+ပထမထပ်
+အမှတ်(၁) ၊ နဝရတ်လမ်း၊ အောင်မြေသာစည်(၁)ရပ်ကွက်၊ ကမာရွတ်မြို့နယ်။ (ဆင်ရေတွင်းမှတ်တိုင်၊ နဝရတ်လမ်းနှင့်အောင်မြေသာစည်လမ်းထောင့်)
+လှည်းတန်းစံရိပ်ငြိမ်ဂမုန်းပွင့်အနီး
+PISM ကျောင်းအနီး
+1170 Sq-Ft
+1 Master Bedroom
+1 Double Bedroom
+1 Maid Room
+2 Bathrooms with water heater
+Water purified system
+3 Aircons
+2 Lifts with card access control system
+Swimming Pool, Gym
+Fully Furnitures with a Skynet, Fridge, Gas Cooker, Internet, Washing Machine, All windows with mosquito nets
+For sale, 1900 laks
+For Rent, 1,000,000 mmk/month
+Price are negotiable.
+
+အကျယ်အဝန်း
+1170 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:15:"description_eng";s:1158:"နဝရတ်ကွန်ဒို
+ပထမထပ်
+အမှတ်(၁) ၊ နဝရတ်လမ်း၊ အောင်မြေသာစည်(၁)ရပ်ကွက်၊ ကမာရွတ်မြို့နယ်။ (ဆင်ရေတွင်းမှတ်တိုင်၊ နဝရတ်လမ်းနှင့်အောင်မြေသာစည်လမ်းထောင့်)
+လှည်းတန်းစံရိပ်ငြိမ်ဂမုန်းပွင့်အနီး
+PISM ကျောင်းအနီး
+1170 Sq-Ft
+1 Master Bedroom
+1 Double Bedroom
+1 Maid Room
+2 Bathrooms with water heater
+Water purified system
+3 Aircons
+2 Lifts with card access control system
+Swimming Pool, Gym
+Fully Furnitures with a Skynet, Fridge, Gas Cooker, Internet, Washing Machine, All windows with mosquito nets
+For sale, 1900 laks
+For Rent, 1,000,000 mmk/month
+Price are negotiable.
+
+အကျယ်အဝန်း
+1170 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000099";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"15 January, 2022 16:58 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:9:"095024327";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"19";s:10:"regions_id";s:1:"1";s:9:"townships";s:8:"Kamaryut";s:12:"townships_mm";s:21:"ကမာရွတ်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2881";s:5:"photo";s:36:"9b6e08a9abcd278bfc8132fb44637487.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"615";}i:15;a:102:{s:7:"sale_id";s:3:"618";s:9:"title_eng";s:44:"Cyrstal Residence High Floor Pagoda View 3BR";s:8:"title_mm";s:44:"Cyrstal Residence High Floor Pagoda View 3BR";s:9:"region_id";N;s:16:"sale_township_id";s:2:"19";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:2:"18";s:4:"area";s:4:"1413";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"1600";s:10:"price_type";s:3:"USD";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"3";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:393:"Crystal Residence
+
+Luxury Condo, 3BR room unit
+
+Fully Furnished
+
+High Floor
+
+Shwe Dagon Pagoda View
+
+Looking for immediate tenant!
+Agents are welcome.
+
+အကျယ်အဝန်း
+1413 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:15:"description_eng";s:393:"Crystal Residence
+
+Luxury Condo, 3BR room unit
+
+Fully Furnished
+
+High Floor
+
+Shwe Dagon Pagoda View
+
+Looking for immediate tenant!
+Agents are welcome.
+
+အကျယ်အဝန်း
+1413 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000101";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"15 January, 2022 17:11 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:11:"09426217618";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"19";s:10:"regions_id";s:1:"1";s:9:"townships";s:8:"Kamaryut";s:12:"townships_mm";s:21:"ကမာရွတ်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2893";s:5:"photo";s:36:"288d5bfdc3ac41e9124a019301dcb804.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"618";}i:16;a:102:{s:7:"sale_id";s:3:"594";s:9:"title_eng";s:77:"မီနီကွန်ဒို အငှား လှည်းတန်း";s:8:"title_mm";s:77:"မီနီကွန်ဒို အငှား လှည်းတန်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"19";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:1:"5";s:4:"area";s:5:"27*50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:1:"7";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";s:4:"Lift";s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:132:"ရွေးစရာတွေများလို့ ရွေးရခက် စိတ်ရှုပ်နေပြီလား ";s:15:"description_eng";s:132:"ရွေးစရာတွေများလို့ ရွေးရခက် စိတ်ရှုပ်နေပြီလား ";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000085";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"15 January, 2022 13:15 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:11:"09795993564";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"19";s:10:"regions_id";s:1:"1";s:9:"townships";s:8:"Kamaryut";s:12:"townships_mm";s:21:"ကမာရွတ်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2763";s:5:"photo";s:36:"3c70537ca5f4589da81fd0ae3f42d93c.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"594";}i:17;a:102:{s:7:"sale_id";s:3:"601";s:9:"title_eng";s:465:"တိုက်ခန်း ငှားရန်ရှိသည် ဦးထွန်းလင်းခြံ လမ်းမပါ် အင်းစိန်လမ်းမ အနီး ကိန္ဒရီ စတိုးဆိုင် အပေါ်ထပ် နေရာကောင်း နေရာသန့် သင်တန်းဖွင့်ချင်သူများ အတွက် လုံးဝ လုံးဝ နေရာကောင်";s:8:"title_mm";s:465:"တိုက်ခန်း ငှားရန်ရှိသည် ဦးထွန်းလင်းခြံ လမ်းမပါ် အင်းစိန်လမ်းမ အနီး ကိန္ဒရီ စတိုးဆိုင် အပေါ်ထပ် နေရာကောင်း နေရာသန့် သင်တန်းဖွင့်ချင်သူများ အတွက် လုံးဝ လုံးဝ နေရာကောင်";s:9:"region_id";N;s:16:"sale_township_id";s:2:"19";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"3";s:4:"area";s:5:"17*70";s:9:"area_type";s:4:"Sqft";s:5:"price";s:6:"850000";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:621:"ဦးထွန်းလင်းခြံ လမ်းမပါ် အင်းစိန်လမ်းမ အနီး ကိန္ဒရီ စတိုးဆိုင် အပေါ်ထပ် နေရာကောင်း နေရာသန့် သင်တန်းဖွင့်ချင်သူများ အတွက် လုံးဝ လုံးဝ နေရာကောင်း
+
+အကျယ်အဝန်း
+17 ေပ x 70 ေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:15:"description_eng";s:621:"ဦးထွန်းလင်းခြံ လမ်းမပါ် အင်းစိန်လမ်းမ အနီး ကိန္ဒရီ စတိုးဆိုင် အပေါ်ထပ် နေရာကောင်း နေရာသန့် သင်တန်းဖွင့်ချင်သူများ အတွက် လုံးဝ လုံးဝ နေရာကောင်း
+
+အကျယ်အဝန်း
+17 ေပ x 70 ေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000090";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"15 January, 2022 14:10 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:11:"09454125179";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"19";s:10:"regions_id";s:1:"1";s:9:"townships";s:8:"Kamaryut";s:12:"townships_mm";s:21:"ကမာရွတ်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2789";s:5:"photo";s:36:"a8a7bbb774e6f38707253a81e5c328ab.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"601";}i:18;a:102:{s:7:"sale_id";s:4:"1040";s:9:"title_eng";s:133:"လှည်းတန်းစင်တာ နှင့် လှည်းတန်းစျေးအနီး ကွန်ဒို ";s:8:"title_mm";s:133:"လှည်းတန်းစင်တာ နှင့် လှည်းတန်းစျေးအနီး ကွန်ဒို ";s:9:"region_id";N;s:16:"sale_township_id";s:2:"20";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:1:"4";s:4:"area";s:4:"1300";s:9:"area_type";s:4:"Sqft";s:5:"price";s:6:"700000";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";s:14:"24 hrs Securit";s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1673:"လှည်းတန်းစင်တာ နှင့် လှည်းတန်းစျေးအနီး ကွန်ဒို 
+အငှား - ၇ သိန်း 
+✅ ၄ လွှာ ✅ Master Room ၁ ခန်း ✅ Single Room ၂ ခန်း ✅ Aircon ၄ လုံး ✅ ရခေဲသတ်ေတာ ✅ အဝတ်လျှော်စက် ✅ ရေပူရေအေးစက် ✅ ဆိုဖာဆက်တီ ✅ အဝတ်ဘီဒို ✅ တီဗွီ ✅ အိပ်ယာ ကုတင် ✅ ထမင်းစားပွဲ ✅ ဓာတ်လှေခါး
+✅ မီးစက် ✅ ကားပါကင်✅ ၂၄ နာရီလုံခြုံရေး ✅ လှည်းတန်းစင်တာ သို့ လမ်းလျှောက်လျှင် ၅ မိနစ်
+☎️ 09-457778099 (အကျိုးဆောင်)
+(အခန်းပိုင်ရှင်များ အနေနှင့် လူကြီးမင်းတို့ ငှားလို/ရောင်းလိုသော အိမ်ခန်းများကို တိုက်ရိုက်ဆက်သွယ်အပ်နှံနိုင်ပါသည်)
+------------------------------
+Fully Furnished Condo For Rent 
+Nearby Hledan Center and market
+Fee - 7 Lakhs
+✅ 4th Floor ✅ 1 Master Room ✅ 2 Single Rooms ✅ 4 Aircons ✅ Refrigerator ✅ Washing Machine ✅ Water Heater ✅ Sofa Settee ✅ Beds & Mattresses ✅ Wardrobe ✅ TV ✅ Dining Table
+✅ Elevator ✅ Backup Generator ✅ Car Parking ✅ 24 Hours Security ✅ 5 mins walk to Hledan Center
+☎️ 09457778099 (Agent)";s:15:"description_eng";s:1673:"လှည်းတန်းစင်တာ နှင့် လှည်းတန်းစျေးအနီး ကွန်ဒို 
+အငှား - ၇ သိန်း 
+✅ ၄ လွှာ ✅ Master Room ၁ ခန်း ✅ Single Room ၂ ခန်း ✅ Aircon ၄ လုံး ✅ ရခေဲသတ်ေတာ ✅ အဝတ်လျှော်စက် ✅ ရေပူရေအေးစက် ✅ ဆိုဖာဆက်တီ ✅ အဝတ်ဘီဒို ✅ တီဗွီ ✅ အိပ်ယာ ကုတင် ✅ ထမင်းစားပွဲ ✅ ဓာတ်လှေခါး
+✅ မီးစက် ✅ ကားပါကင်✅ ၂၄ နာရီလုံခြုံရေး ✅ လှည်းတန်းစင်တာ သို့ လမ်းလျှောက်လျှင် ၅ မိနစ်
+☎️ 09-457778099 (အကျိုးဆောင်)
+(အခန်းပိုင်ရှင်များ အနေနှင့် လူကြီးမင်းတို့ ငှားလို/ရောင်းလိုသော အိမ်ခန်းများကို တိုက်ရိုက်ဆက်သွယ်အပ်နှံနိုင်ပါသည်)
+------------------------------
+Fully Furnished Condo For Rent 
+Nearby Hledan Center and market
+Fee - 7 Lakhs
+✅ 4th Floor ✅ 1 Master Room ✅ 2 Single Rooms ✅ 4 Aircons ✅ Refrigerator ✅ Washing Machine ✅ Water Heater ✅ Sofa Settee ✅ Beds & Mattresses ✅ Wardrobe ✅ TV ✅ Dining Table
+✅ Elevator ✅ Backup Generator ✅ Car Parking ✅ 24 Hours Security ✅ 5 mins walk to Hledan Center
+☎️ 09457778099 (Agent)";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000142";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:26:"14 February, 2022 10:44 am";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09457778099";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"20";s:10:"regions_id";s:1:"1";s:9:"townships";s:6:"Insein";s:12:"townships_mm";s:24:"အင်းစိန်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"5480";s:5:"photo";s:36:"09ad5c6380293c5d10d218ebc76a71c2.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1040";}i:19;a:102:{s:7:"sale_id";s:3:"959";s:9:"title_eng";s:46:"Kantharyar Residence Penthouse အငှား";s:8:"title_mm";s:46:"Kantharyar Residence Penthouse အငှား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"11";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:0:"";s:4:"area";s:4:"2800";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"3000";s:10:"price_type";s:3:"USD";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"2";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"1";s:10:"other_room";s:1:"1";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";s:13:"Swimming pool";s:7:"securit";s:14:"24 hrs Securit";s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";s:3:"Gym";s:4:"lift";s:4:"Lift";s:11:"play_ground";N;s:12:"water_heater";s:12:"Water Heater";s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:749:"Penthouse with Perfect Facilities
+@ Kantharyar Residence
+Penthouse 
+2 MBR & 2 Single
+2 Common Shower & WC
+1 Maid Room & Shower with WC Room
+Relaxing Room with Bar Table
+Kitchen
+Upper & Lower Living Room
+Dinning Room
+2800 sqft
+Fully Furnishes with Furnitures 
+Leasing Price - $ 3000 - Negotiable ($)
+Amenities: 
+Excellent View. 
+Internet & Skynet
+Gym and Recreation places
+Kid pool & Leisure pool
+24 Hours Security by 5 Stars Wydham Hotel
+2 basement car parking, 
+3 Lifts & 2 Emergency Staircases
+Standby Generator 
+Water Treatment & Sewage Treatment System
+Centralised refuse disposal system
+Next Door: 
+Shopping Mall, 
+Market Place
+Restaurants, 
+Cinema, 
+High Class Amenities And Facilities. 
+In The Heart Of The City.";s:15:"description_eng";s:769:"            Penthouse with Perfect Facilities
+@ Kantharyar Residence
+Penthouse 
+2 MBR & 2 Single
+2 Common Shower & WC
+1 Maid Room & Shower with WC Room
+Relaxing Room with Bar Table
+Kitchen
+Upper & Lower Living Room
+Dinning Room
+2800 sqft
+Fully Furnishes with Furnitures 
+Leasing Price - $ 3000 - Negotiable ($)
+Amenities: 
+Excellent View. 
+Internet & Skynet
+Gym and Recreation places
+Kid pool & Leisure pool
+24 Hours Security by 5 Stars Wydham Hotel
+2 basement car parking, 
+3 Lifts & 2 Emergency Staircases
+Standby Generator 
+Water Treatment & Sewage Treatment System
+Centralised refuse disposal system
+Next Door: 
+Shopping Mall, 
+Market Place
+Restaurants, 
+Cinema, 
+High Class Amenities And Facilities. 
+In The Heart Of The City.        ";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000138";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:26:"10 February, 2022 10:37 am";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:12:"09-951446016";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"11";s:10:"regions_id";s:1:"1";s:9:"townships";s:18:"Mingalartaungnyunt";s:12:"townships_mm";s:51:"မင်္ဂလာတောင်ညွန့်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"5060";s:5:"photo";s:36:"12df1118fc3b2be262c9d6c4c2b174e7.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"959";}}s:13:"result_object";a:20:{i:0;O:8:"stdClass":102:{s:7:"sale_id";s:3:"364";s:9:"title_eng";s:101:"စမ်းချောင်း မင်းလမ်း တိုက်ခန်းအငှား";s:8:"title_mm";s:101:"စမ်းချောင်း မင်းလမ်း တိုက်ခန်းအငှား";s:9:"region_id";N;s:16:"sale_township_id";s:1:"8";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"1";s:4:"area";s:5:"12x50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:1:"4";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:1:"2";s:8:"bathroom";s:0:"";s:14:"masterbathroom";N;s:11:"dining_room";s:1:"1";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";s:12:"Water Heater";s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1479:"-စမ်းချောင်း မင်းလမ်း-ပထမထပ် -ပရိဘောဂအစုံပါ ပြင်ဆင်ပြီး-၁၂ပေခွဲ ၅၀-closetပါတဲ့အိပ်ခန်းတခန်း  -cabinetအစုံ -မျက်နှာကျက်အလှဆင်ပြီး -mini liquor bar-အသစ်ပြုပြင်ထားတဲ့ ရေချိုးခန်း အိမ်သာ-Chigo 1.5 hp (အသစ်တလုံး)
+-Panasonic ရေပူရေအေး(အသစ်တလုံး)-32"Samsung TV (အသစ် တလုံး) -ရေခဲသေတ္တာ Pressure pump-ကြွေပြားခင်း၊ ကြွေပြားကပ် -Citymart,Spirit,KFC,Lotteria,KBZ,UAB, Dagon centre1,2, Sanchaung Garden Residence,အာရှတော်ဝင်ဆေးရုံတို့နဲ့ နီးကပ်စွာရှိ - တလ ၄သိန်း- ၃လချုပ် အဆင်ပြေ မှန်ခန်း/ထပ်ခိုးခန်း မဟုတ်ပါ(9ပေ အမြင့်ရှိတဲ့ ပထမထပ်သီးသန့်) 
+ဖုန်းနဲ့ အသေးစိပ်မေးမြန်းစုံစမ်းနိုင်ပြီး နီးစပ်တယ်ဆိုမှ ဆုံးဖြတ်ချက်ချနိုင်သူကိုယ်တိုင် အခန်းလာကြည့်ပါရန်... ";s:15:"description_eng";s:1479:"-စမ်းချောင်း မင်းလမ်း-ပထမထပ် -ပရိဘောဂအစုံပါ ပြင်ဆင်ပြီး-၁၂ပေခွဲ ၅၀-closetပါတဲ့အိပ်ခန်းတခန်း  -cabinetအစုံ -မျက်နှာကျက်အလှဆင်ပြီး -mini liquor bar-အသစ်ပြုပြင်ထားတဲ့ ရေချိုးခန်း အိမ်သာ-Chigo 1.5 hp (အသစ်တလုံး)
+-Panasonic ရေပူရေအေး(အသစ်တလုံး)-32"Samsung TV (အသစ် တလုံး) -ရေခဲသေတ္တာ Pressure pump-ကြွေပြားခင်း၊ ကြွေပြားကပ် -Citymart,Spirit,KFC,Lotteria,KBZ,UAB, Dagon centre1,2, Sanchaung Garden Residence,အာရှတော်ဝင်ဆေးရုံတို့နဲ့ နီးကပ်စွာရှိ - တလ ၄သိန်း- ၃လချုပ် အဆင်ပြေ မှန်ခန်း/ထပ်ခိုးခန်း မဟုတ်ပါ(9ပေ အမြင့်ရှိတဲ့ ပထမထပ်သီးသန့်) 
+ဖုန်းနဲ့ အသေးစိပ်မေးမြန်းစုံစမ်းနိုင်ပြီး နီးစပ်တယ်ဆိုမှ ဆုံးဖြတ်ချက်ချနိုင်သူကိုယ်တိုင် အခန်းလာကြည့်ပါရန်... ";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000029";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:24:"9 January, 2022 12:18 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:23:"09421039566,09769363154";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:1:"8";s:10:"regions_id";s:1:"1";s:9:"townships";s:9:"Sanchaung";s:12:"townships_mm";s:33:"စမ်းချောင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"1441";s:5:"photo";s:36:"133b63314e7e5d59b7cee868f10e82d5.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"364";}i:1;O:8:"stdClass":102:{s:7:"sale_id";s:3:"579";s:9:"title_eng";s:118:"ပေ၁၀၀ပတ်လည်ထောင့်ခြံ + RC ၂ထပ်တိုက် ငှားမည်။";s:8:"title_mm";s:118:"ပေ၁၀၀ပတ်လည်ထောင့်ခြံ + RC ၂ထပ်တိုက် ငှားမည်။";s:9:"region_id";N;s:16:"sale_township_id";s:2:"16";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:7:"100*100";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"30";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:826:"မြောက်ဒဂုံ၊ တော်ဝင်လုံးချင်းအိမ်ယာရှိ ထောင့်ခြံ ပေ၁၀၀ပတ်လည်ခြံ + RC 2ထပ်တိုက် ငှားမည်။ ရုပ်ရှင်ရုံ ၊ Capital၊ စျေး ၊ ကျောင်း၊ ဆေးရုံ တို့နှင့်နီး ဘေလီတံတားနှင့်လည်းနီး၍ လူနေ+စီးပွားရေးလုပ်ရန် အလွန်အဆင်ပြေသောနေရာဖြစ်ပါသည်။
+
+အကျယ်အဝန်း
+100 ေပ x 100 ေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:15:"description_eng";s:826:"မြောက်ဒဂုံ၊ တော်ဝင်လုံးချင်းအိမ်ယာရှိ ထောင့်ခြံ ပေ၁၀၀ပတ်လည်ခြံ + RC 2ထပ်တိုက် ငှားမည်။ ရုပ်ရှင်ရုံ ၊ Capital၊ စျေး ၊ ကျောင်း၊ ဆေးရုံ တို့နှင့်နီး ဘေလီတံတားနှင့်လည်းနီး၍ လူနေ+စီးပွားရေးလုပ်ရန် အလွန်အဆင်ပြေသောနေရာဖြစ်ပါသည်။
+
+အကျယ်အဝန်း
+100 ေပ x 100 ေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000072";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"14 January, 2022 16:30 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:19:"095032087-095107515";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"16";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"North Dagon";s:12:"townships_mm";s:73:"ဒဂုံမြို့သစ် မြောက်ပိုင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2678";s:5:"photo";s:36:"e315c9106a7acdbded0e25ba5aeb05e2.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"579";}i:2;O:8:"stdClass":102:{s:7:"sale_id";s:4:"1112";s:9:"title_eng";s:170:"ကြည်မြင်တိုင်မြို့နယ် ကမ်းနားလမ်းမပေါ်၅လွှာ တိုက်ခန်းအငှား";s:8:"title_mm";s:170:"ကြည်မြင်တိုင်မြို့နယ် ကမ်းနားလမ်းမပေါ်၅လွှာ တိုက်ခန်းအငှား";s:9:"region_id";s:1:"1";s:16:"sale_township_id";s:1:"7";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"5";s:4:"area";s:5:"13x50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:6:"180000";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:409:"3လချုပ်၊6လချုပ်
+ကြည်မြင်တိုင်မြို့နယ် ကမ်းနားလမ်းမပေါ်နတ်စင်လမ်းမှတ်တိုင်အနီး
+13ပေ၊50
+Hall Type
+5လွှာ
+ဘိုထိုင်
+👉1သိန်း8သောင်း
+👸🏻မေလိ Ml-Real-Estate
+☎️09-254366377
+☎️09-784722505";s:15:"description_eng";s:412:"3လချုပ်၊6လချုပ်
+ကြည်မြင်တိုင်မြို့နယ်
+ကမ်းနားလမ်းမပေါ်
+နတ်စင်လမ်းမှတ်တိုင်အနီး
+13ပေ၊50
+Hall Type
+5လွှာ
+ဘိုထိုင်
+👉1သိန်း8သောင်း
+👸🏻မေလိ Ml-Real-Estate
+☎️09-254366377
+☎️09-784722505";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000146";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:2:"27";s:11:"carete_date";s:10:"2022-02-17";s:16:"post_upload_date";s:26:"17 February, 2022 13:49 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:25:"09-254366377,09-784722505";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:1:"7";s:10:"regions_id";s:1:"1";s:9:"townships";s:13:"Kyeemyindaing";s:12:"townships_mm";s:42:"ကြည့်မြင်တိုင်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";s:2:"27";s:10:"company_id";s:9:"U-0000022";s:12:"company_name";s:27:"မေလိ ML Real Estate";s:4:"name";s:0:"";s:5:"email";s:11:"09254366377";s:12:"confirm_mail";N;s:5:"phone";s:11:"09254366377";s:8:"password";s:32:"d54d1702ad0f8326224b817c796763c9";s:12:"company_type";s:14:"PropertyAgency";s:7:"address";s:3:"Ygn";s:11:"description";s:0:"";s:4:"logo";s:36:"dc0f38fcb8948574bf46af0094bcab45.jpg";s:9:"user_role";s:0:"";s:16:"user_permissions";s:5:"agent";s:10:"package_id";s:1:"1";s:16:"suspended_status";s:1:"1";s:12:"propertie_id";s:4:"6066";s:5:"photo";s:36:"8bf2ec8e75bf7588bb15ac829faae42d.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1112";}i:3;O:8:"stdClass":102:{s:7:"sale_id";s:4:"1289";s:9:"title_eng";s:76:"သဃ်န်းကျွန်း ဂိုထောင်အငှား";s:8:"title_mm";s:76:"သဃ်န်းကျွန်း ဂိုထောင်အငှား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"27";s:18:"sale_property_type";s:1:"4";s:5:"floor";s:0:"";s:4:"area";s:5:"35*50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:1:"7";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:221:"ဂိုထောင်အငှား
+သဃ်န်းကျွန်း ကမာကြည် အတွင်းလမ်း
+35 ပေ 50 
+7 သိန်း ညှိနှိုင်း
+09254448086
+09794826877";s:15:"description_eng";s:221:"ဂိုထောင်အငှား
+သဃ်န်းကျွန်း ကမာကြည် အတွင်းလမ်း
+35 ပေ 50 
+7 သိန်း ညှိနှိုင်း
+09254448086
+09794826877";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000174";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:22:"5 March, 2022 12:01 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:23:"09254448086,09794826877";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:11:"township_id";s:2:"27";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"Thingangyun";s:12:"townships_mm";s:42:"သင်္ဃန်းကျွန်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"4";s:13:"property_type";s:4:"Land";s:16:"property_type_mm";s:9:"မြေ";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"7598";s:5:"photo";s:36:"554b72cfa9f637a901a7e8bd4b83b292.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1289";}i:4;O:8:"stdClass":102:{s:7:"sale_id";s:3:"591";s:9:"title_eng";s:40:"Crystal Residences Condo For Rent 1500 $";s:8:"title_mm";s:40:"Crystal Residences Condo For Rent 1500 $";s:9:"region_id";N;s:16:"sale_township_id";s:2:"19";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:2:"11";s:4:"area";s:3:"937";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"1500";s:10:"price_type";s:3:"USD";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:1:"1";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";s:13:"Swimming pool";s:7:"securit";s:14:"24 hrs Securit";s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";s:4:"Wifi";s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";s:3:"Gym";s:4:"lift";s:4:"Lift";s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:382:"1 Master bedroom
+1 single bedroom
+1 bathroom
+car parking
+air conditioners
+Fully furnished
+Wifi
+Swimming pool, GYM room, Sauna
+24 hours security
+
+အကျယ်အဝန်း
+937 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:15:"description_eng";s:382:"1 Master bedroom
+1 single bedroom
+1 bathroom
+car parking
+air conditioners
+Fully furnished
+Wifi
+Swimming pool, GYM room, Sauna
+24 hours security
+
+အကျယ်အဝန်း
+937 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000083";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"15 January, 2022 12:10 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09752741986";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"19";s:10:"regions_id";s:1:"1";s:9:"townships";s:8:"Kamaryut";s:12:"townships_mm";s:21:"ကမာရွတ်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2745";s:5:"photo";s:36:"6fad5b7312c5f8f7d2510059ad7061cb.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"591";}i:5;O:8:"stdClass":102:{s:7:"sale_id";s:3:"962";s:9:"title_eng";s:51:"Kantharyar Residence 23လွှာ အငှား";s:8:"title_mm";s:51:"Kantharyar Residence 23လွှာ အငှား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"11";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:2:"23";s:4:"area";s:4:"1485";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"1800";s:10:"price_type";s:3:"USD";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"1";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";s:13:"Swimming pool";s:7:"securit";s:14:"24 hrs Securit";s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";s:9:"Generator";s:11:"near_church";N;s:6:"garden";N;s:3:"gym";s:3:"Gym";s:4:"lift";s:4:"Lift";s:11:"play_ground";N;s:12:"water_heater";s:12:"Water Heater";s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:659:"Unit No: 23-04 1MBR & 1 Single Maid Room Kitchen
+Living and Dinning Room
+High floor - Level 23
+1485 sqft
+Leasing Price - $1800 Negotiable 
+Furnishings will provide for Renting. 
+For selling as per photo condition. 
+Amenities: 
+Excellent View. 
+Internet & Skynet
+Gym and Recreation places
+Kid pool & Leisure pool
+24 Hours Security by 5 Stars Wydham Hotel
+2 basement car parking, 
+3 Lifts & 2 Emergency Staircases
+Standby Generator 
+Water Treatment & Sewage Treatment System
+Centralised refuse disposal system
+Next Door: 
+Shopping Mall, 
+Market Place
+Restaurants, 
+Cinema, 
+High Class Amenities And Facilities. 
+In The Heart Of The City.";s:15:"description_eng";s:659:"Unit No: 23-04 1MBR & 1 Single Maid Room Kitchen
+Living and Dinning Room
+High floor - Level 23
+1485 sqft
+Leasing Price - $1800 Negotiable 
+Furnishings will provide for Renting. 
+For selling as per photo condition. 
+Amenities: 
+Excellent View. 
+Internet & Skynet
+Gym and Recreation places
+Kid pool & Leisure pool
+24 Hours Security by 5 Stars Wydham Hotel
+2 basement car parking, 
+3 Lifts & 2 Emergency Staircases
+Standby Generator 
+Water Treatment & Sewage Treatment System
+Centralised refuse disposal system
+Next Door: 
+Shopping Mall, 
+Market Place
+Restaurants, 
+Cinema, 
+High Class Amenities And Facilities. 
+In The Heart Of The City.";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000140";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:26:"10 February, 2022 11:11 am";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:12:"09-951446016";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"11";s:10:"regions_id";s:1:"1";s:9:"townships";s:18:"Mingalartaungnyunt";s:12:"townships_mm";s:51:"မင်္ဂလာတောင်ညွန့်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"5092";s:5:"photo";s:36:"b4b9b9374c3d4c253bdcc93f38b6e4dd.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"962";}i:6;O:8:"stdClass":102:{s:7:"sale_id";s:3:"554";s:9:"title_eng";s:26:"Golden City Condo For Rent";s:8:"title_mm";s:26:"Golden City Condo For Rent";s:9:"region_id";N;s:16:"sale_township_id";s:2:"13";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:0:"";s:4:"area";s:4:"1650";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"2000";s:10:"price_type";s:3:"USD";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:1:"2";s:14:"masterbathroom";N;s:11:"dining_room";s:1:"1";s:11:"living_room";s:1:"1";s:9:"bead_room";s:1:"3";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:657:"To let in at golden city condo with fully furnish 3 bedrooms 2 full baths,
+Spacious living room, nice dinning room plus maid room &amp; storage room
+Kitchen room include stoke ,exhaust fan, upper cabinet is plenty space,
+also water purifier set for drinking.All the rooms are decent space &amp; huge glass windows for garden view .They designed for quiet &amp; luxury make us fell comfortable. Contact me &amp; get a check
+
+အကျယ်အဝန်း
+1650 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:15:"description_eng";s:657:"To let in at golden city condo with fully furnish 3 bedrooms 2 full baths,
+Spacious living room, nice dinning room plus maid room &amp; storage room
+Kitchen room include stoke ,exhaust fan, upper cabinet is plenty space,
+also water purifier set for drinking.All the rooms are decent space &amp; huge glass windows for garden view .They designed for quiet &amp; luxury make us fell comfortable. Contact me &amp; get a check
+
+အကျယ်အဝန်း
+1650 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000060";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"14 January, 2022 14:39 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:11:"09758868754";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"13";s:10:"regions_id";s:1:"1";s:9:"townships";s:6:"Yankin";s:12:"townships_mm";s:21:"ရန်ကင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2552";s:5:"photo";s:36:"c6e7f26936dc53f3374cc0930d21a671.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"554";}i:7;O:8:"stdClass":102:{s:7:"sale_id";s:3:"968";s:9:"title_eng";s:79:"မရမ်းကုန်းမြို့နယ် Bungalow အငှား";s:8:"title_mm";s:79:"မရမ်းကုန်းမြို့နယ် Bungalow အငှား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"23";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:7:"40 x 60";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"18";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"3";s:11:"dining_room";s:1:"1";s:11:"living_room";s:1:"1";s:9:"bead_room";s:0:"";s:10:"other_room";s:1:"1";s:11:"shrine_room";s:1:"1";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:648:"မရမ်းကုန်းမြို့နယ်၊ (၄) ရပ်ကွက်၊ အောင်မင်္ဂလာ ၂ လမ်း ထောင့်၊ (ရဲဘော်ဟောင်း ကားမှတ်တိုင် - Junction 8  နား)
+MaYanKong Township (Near Junction 8 ) , 4/2 Aung Mingalar Lane 2, Conner. 
+For Resident & Office & Business 
+RC 2 Storey
+3 Master bedrooms with individual balcony 
+1 Maid Room 
+1 common bathroom (WC)
+Living Room 
+Shrine Room
+Dinning Room
+Kitchen 
+Plot Area:  40’ x 60’ = 2400 sqft 
+Leasing Price - ၁၈ သိန်း Negotiable - ညှိုနှိုင်း";s:15:"description_eng";s:648:"မရမ်းကုန်းမြို့နယ်၊ (၄) ရပ်ကွက်၊ အောင်မင်္ဂလာ ၂ လမ်း ထောင့်၊ (ရဲဘော်ဟောင်း ကားမှတ်တိုင် - Junction 8  နား)
+MaYanKong Township (Near Junction 8 ) , 4/2 Aung Mingalar Lane 2, Conner. 
+For Resident & Office & Business 
+RC 2 Storey
+3 Master bedrooms with individual balcony 
+1 Maid Room 
+1 common bathroom (WC)
+Living Room 
+Shrine Room
+Dinning Room
+Kitchen 
+Plot Area:  40’ x 60’ = 2400 sqft 
+Leasing Price - ၁၈ သိန်း Negotiable - ညှိုနှိုင်း";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000141";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:26:"10 February, 2022 11:59 am";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:12:"09-951446016";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"23";s:10:"regions_id";s:1:"1";s:9:"townships";s:9:"Mayangone";s:12:"townships_mm";s:30:"မရမ်းကုန်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"5131";s:5:"photo";s:36:"0c1f91e89d338dc725863c82849c383b.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"968";}i:8;O:8:"stdClass":102:{s:7:"sale_id";s:3:"581";s:9:"title_eng";s:160:"မ/ဒဂုံ ၃၄ ရပ်ကွက် ရှိ Hall Type ၆ခန်းတွဲ ၃ထပ်တိုက်ငှါးရန်ရှိသည်။";s:8:"title_mm";s:160:"မ/ဒဂုံ ၃၄ ရပ်ကွက် ရှိ Hall Type ၆ခန်းတွဲ ၃ထပ်တိုက်ငှါးရန်ရှိသည်။";s:9:"region_id";N;s:16:"sale_township_id";s:2:"16";s:18:"sale_property_type";s:1:"6";s:5:"floor";s:0:"";s:4:"area";s:4:"2400";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"25";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:861:"Hall type ၆ ခန်းတွဲ ၃ ထပ်တိုက် တစ်တိုက်လုံးငှါးမည်။ရုံးခန်းအတွက်သင့်လျော်သည်။၄၀*၆၀ ပေ အကွက်တွင်ဆောက်ထားပြီး တစ်ထပ်လျှင် ၃၅*၅၂ ပေရှိသည်။ အခန်းအကျယ် တစ်ခန်းလျှင် ၁၈ ပေနီးပါး အခန်းအမြင့် ၁၀ ပေရှိ ။ ၃ နှစ်စာ စာချုပ်ချုပ်ရပါမည်။
+
+အကျယ်အဝန်း
+2400 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ တစ်စိတ်တစ်ပိုင်း ပြင်ဆင်ပြီး";s:15:"description_eng";s:861:"Hall type ၆ ခန်းတွဲ ၃ ထပ်တိုက် တစ်တိုက်လုံးငှါးမည်။ရုံးခန်းအတွက်သင့်လျော်သည်။၄၀*၆၀ ပေ အကွက်တွင်ဆောက်ထားပြီး တစ်ထပ်လျှင် ၃၅*၅၂ ပေရှိသည်။ အခန်းအကျယ် တစ်ခန်းလျှင် ၁၈ ပေနီးပါး အခန်းအမြင့် ၁၀ ပေရှိ ။ ၃ နှစ်စာ စာချုပ်ချုပ်ရပါမည်။
+
+အကျယ်အဝန်း
+2400 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ တစ်စိတ်တစ်ပိုင်း ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000073";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"14 January, 2022 16:41 pm";s:12:"viewer_count";s:1:"1";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:9:"095038604";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"16";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"North Dagon";s:12:"townships_mm";s:73:"ဒဂုံမြို့သစ် မြောက်ပိုင်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"6";s:13:"property_type";s:7:"Offices";s:16:"property_type_mm";s:6:"Office";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2690";s:5:"photo";s:37:"16954aee8ab880d101195de4e85ce47e.jpeg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"581";}i:9;O:8:"stdClass":102:{s:7:"sale_id";s:4:"1096";s:9:"title_eng";s:86:"စံပြ၃လမ်း ၅လွှာ တိုက်ခန်းအငှား";s:8:"title_mm";s:86:"စံပြ၃လမ်း ၅လွှာ တိုက်ခန်းအငှား";s:9:"region_id";s:1:"1";s:16:"sale_township_id";s:2:"27";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"5";s:4:"area";s:7:"12.5x50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:6:"150000";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1418:"ရှယ် အခန်းသန့်လေး ဌားမည်
+🌈 သင်္ဃန်းကျွန်းမြို့နယ် စံပြရပ်ကွက် စံပြ၃လမ်း ၅လွှာ
+၁၂ခွဲx၅၀ပေ တစ်လလျှင်၁၅၀၀၀၀
+၆လချုပ်/၃လချုပ်ရမည်။စပေါ်တစ်သိန်းတင်ရပါမယ်။
+👉 ပါကေးအပြည့်ခင်းပြီး  ရှေ့သံပန်းဆန်းရှိတ်တပ်ပြီး  အသင့်နေအခန်းသန့်လေးပါ။
+👌စံပြစျေးနီး သံသုမာလမ်းမနီး ကျောင်းနီး
+ ကားမှတ်တိုင်နီးပါတယ်နော်။
+😁 အခန်းလွတ်၊ချက်ချင်းတက်အခန်းသန့်လေးဆိုတော့ စရံဦးထားမှစိတ်ချရမယ်နော်။
+ဆက်သွယ်ရန်📲 09886421280
+🙏လူကြီးမင်းတို့ရဲ့ အိမ်ခြံမြေကွန်ဒိုတိုက်ခန်းများ ရောင်းလိုဝယ်လိုဌားရမ်းလိုပါကယုံကြည်စွာ
+ဆက်သွယ်အပ်နှံနိင်ပါသည်။";s:15:"description_eng";s:1418:"ရှယ် အခန်းသန့်လေး ဌားမည်
+🌈 သင်္ဃန်းကျွန်းမြို့နယ် စံပြရပ်ကွက် စံပြ၃လမ်း ၅လွှာ
+၁၂ခွဲx၅၀ပေ တစ်လလျှင်၁၅၀၀၀၀
+၆လချုပ်/၃လချုပ်ရမည်။စပေါ်တစ်သိန်းတင်ရပါမယ်။
+👉 ပါကေးအပြည့်ခင်းပြီး  ရှေ့သံပန်းဆန်းရှိတ်တပ်ပြီး  အသင့်နေအခန်းသန့်လေးပါ။
+👌စံပြစျေးနီး သံသုမာလမ်းမနီး ကျောင်းနီး
+ ကားမှတ်တိုင်နီးပါတယ်နော်။
+😁 အခန်းလွတ်၊ချက်ချင်းတက်အခန်းသန့်လေးဆိုတော့ စရံဦးထားမှစိတ်ချရမယ်နော်။
+ဆက်သွယ်ရန်📲 09886421280
+🙏လူကြီးမင်းတို့ရဲ့ အိမ်ခြံမြေကွန်ဒိုတိုက်ခန်းများ ရောင်းလိုဝယ်လိုဌားရမ်းလိုပါကယုံကြည်စွာ
+ဆက်သွယ်အပ်နှံနိင်ပါသည်။";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000145";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:2:"25";s:11:"carete_date";s:10:"2022-02-16";s:16:"post_upload_date";s:26:"16 February, 2022 13:57 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:11:"09886421280";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"27";s:10:"regions_id";s:1:"1";s:9:"townships";s:11:"Thingangyun";s:12:"townships_mm";s:42:"သင်္ဃန်းကျွန်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";s:2:"25";s:10:"company_id";s:9:"U-0000020";s:12:"company_name";s:19:"Rainbow Real Estate";s:4:"name";s:0:"";s:5:"email";s:11:"09886421280";s:12:"confirm_mail";N;s:5:"phone";s:11:"09886421280";s:8:"password";s:32:"d54d1702ad0f8326224b817c796763c9";s:12:"company_type";s:14:"PropertyAgency";s:7:"address";s:3:"YGN";s:11:"description";s:0:"";s:4:"logo";s:36:"a872c32d0223c1a0984ce7292555f66c.jpg";s:9:"user_role";s:0:"";s:16:"user_permissions";s:5:"agent";s:10:"package_id";s:1:"1";s:16:"suspended_status";s:1:"1";s:12:"propertie_id";s:4:"5900";s:5:"photo";s:36:"c0f3c3222826194ec840398314d3d808.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1096";}i:10;O:8:"stdClass":102:{s:7:"sale_id";s:4:"1326";s:9:"title_eng";s:76:"တောင်ဥက္ကလာပ တိုက်ခန်းအဌား";s:8:"title_mm";s:76:"တောင်ဥက္ကလာပ တိုက်ခန်းအဌား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"26";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"4";s:4:"area";s:5:"19*55";s:9:"area_type";s:4:"Sqft";s:5:"price";s:6:"250000";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:496:"တောင်ဥကလာပ တိုက်ခန်းအငှား
+13ရပ်ကွက် မဂ်လာလမ်းမနီး 
+19×55 တတိယထပ် 4လွှာ
+ပါ​ကေးခင်း အခန်း2ခန်းပါ
+နံရံကပ်ဗီဒိုတစ်လုံး တယောက်အိပ်ကုတင်(2)လုံး
+Ac(1)လုံးပါ 
+စျေး 250000(ညှိနှိုင်း)
+အကျိုးဆောင် 09973461255";s:15:"description_eng";s:496:"တောင်ဥကလာပ တိုက်ခန်းအငှား
+13ရပ်ကွက် မဂ်လာလမ်းမနီး 
+19×55 တတိယထပ် 4လွှာ
+ပါ​ကေးခင်း အခန်း2ခန်းပါ
+နံရံကပ်ဗီဒိုတစ်လုံး တယောက်အိပ်ကုတင်(2)လုံး
+Ac(1)လုံးပါ 
+စျေး 250000(ညှိနှိုင်း)
+အကျိုးဆောင် 09973461255";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000181";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:22:"8 March, 2022 10:50 am";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09973461255";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:11:"township_id";s:2:"26";s:10:"regions_id";s:1:"1";s:9:"townships";s:14:"South Okkalapa";s:12:"townships_mm";s:36:"တောင်ဥက္ကလာပ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"7924";s:5:"photo";s:36:"de5bb9c86d5e367f6e7003402289c886.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1326";}i:11;O:8:"stdClass":102:{s:7:"sale_id";s:4:"1295";s:9:"title_eng";s:104:"ရွှေနှင်းဆီကန်လမ်းရှိ 2Rc တိုက်ငှားမည်";s:8:"title_mm";s:104:"ရွှေနှင်းဆီကန်လမ်းရှိ 2Rc တိုက်ငှားမည်";s:9:"region_id";N;s:16:"sale_township_id";s:2:"23";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:5:"70x80";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"10";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"3";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";s:9:"Generator";s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:647:"မရမ်းကုန်းမြို့နယ်
+ရွှေနှင်းဆီကန်လမ်းရှိ 2Rc တိုက်ငှားမည်
+ခြံအကျယ်ပေ ၇၀×၈၀
+အိပ်ခန်း
+master = ၃ ခန်း
+Air con = ၅ လုံး
+မီးစက်ပါ
+ကားပါကင် =(၅)စီးဆန့်
+အငှား တစ်လ =၁၀ သိန်း(ညှိ့နှိုင်းပါ)
+ဆက်သွယ်မေးမြန်းနိုင်ပါတယ်
+အကျိူးဆောင်
+၀၉ ၇၉၀၇၆၆၉၉၁
+၀၉ ၂၅၀၁၅၂၉၅၉";s:15:"description_eng";s:647:"မရမ်းကုန်းမြို့နယ်
+ရွှေနှင်းဆီကန်လမ်းရှိ 2Rc တိုက်ငှားမည်
+ခြံအကျယ်ပေ ၇၀×၈၀
+အိပ်ခန်း
+master = ၃ ခန်း
+Air con = ၅ လုံး
+မီးစက်ပါ
+ကားပါကင် =(၅)စီးဆန့်
+အငှား တစ်လ =၁၀ သိန်း(ညှိ့နှိုင်းပါ)
+ဆက်သွယ်မေးမြန်းနိုင်ပါတယ်
+အကျိူးဆောင်
+၀၉ ၇၉၀၇၆၆၉၉၁
+၀၉ ၂၅၀၁၅၂၉၅၉";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000175";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:22:"5 March, 2022 13:43 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:23:"09790766991,09250152959";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:11:"township_id";s:2:"23";s:10:"regions_id";s:1:"1";s:9:"townships";s:9:"Mayangone";s:12:"townships_mm";s:30:"မရမ်းကုန်း";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"7645";s:5:"photo";s:36:"b148059b2ff043f3c22a6ba6a5345d88.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1295";}i:12;O:8:"stdClass":102:{s:7:"sale_id";s:3:"632";s:9:"title_eng";s:119:"မှော်ဘီ ဂျပန်ဘုရားအနီး လုံးချင်းအိမ်အငှား";s:8:"title_mm";s:119:"မှော်ဘီ ဂျပန်ဘုရားအနီး လုံးချင်းအိမ်အငှား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"32";s:18:"sale_property_type";s:1:"3";s:5:"floor";s:0:"";s:4:"area";s:9:"200  x 65";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"25";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:1:"5";s:8:"bathroom";s:1:"3";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:201:"New House: 2,000 SQFT
+Garden: 8,000 SQFT
+Total Area: 0.25 Acre
+Large Living Room
+2 Single Bedrooms
+1 Dining Room
+1 Large Kitchen
+2 Toilets
+1 Shower Room
+Furnished Peaceful & Quiet Neighborhood";s:15:"description_eng";s:201:"New House: 2,000 SQFT
+Garden: 8,000 SQFT
+Total Area: 0.25 Acre
+Large Living Room
+2 Single Bedrooms
+1 Dining Room
+1 Large Kitchen
+2 Toilets
+1 Shower Room
+Furnished Peaceful & Quiet Neighborhood";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000133";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"17 January, 2022 12:04 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:12:"09-793533716";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"32";s:10:"regions_id";s:1:"1";s:9:"townships";s:6:"Hmawbi";s:12:"townships_mm";s:21:"မှော်ဘီ";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"3";s:13:"property_type";s:5:"House";s:16:"property_type_mm";s:39:"လုံးချင်းအိမ်";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2994";s:5:"photo";s:36:"18d985b68cce7d7bcd77b41e07459aa2.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"632";}i:13;O:8:"stdClass":102:{s:7:"sale_id";s:4:"1274";s:9:"title_eng";s:116:"မင်္ဂလာတောင်ညွန့်မြို့နယ် မြေညီထပ် အငှား";s:8:"title_mm";s:116:"မင်္ဂလာတောင်ညွန့်မြို့နယ် မြေညီထပ် အငှား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"11";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:0:"";s:4:"area";s:8:"12.50x58";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"11";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:0:"";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1525:"စီးပွားရေးလုပ်ရန်  နေရာ အလွန် ကောင်း သော လမ်းမကြီး ပေါ်ရှိ အငှား ပါ။
+မဂ်လာတောင်ညွန့် ရှိ  မြယာကုန်း လမ်းမကြီး နှင့် ဗိုလ်မင်းရောင် လမ်မ ကြီး ထောင့် တွင်ရှိသော  ၁၂.၅၀ *၅၈ ပေ အကျယ် ရှိ မြေညီ အငှားလေး ရှိပါတယ်။  နောက်ဖေး နဲ့ ဘေး မှာ မြေပိုပါ ရှိ‌သောကြောင့်။  Tea shop  ၊ Show Room ၊ စားသောက်ဆိုင် ဖွင့်  လို့ရပါတယ်ရှင့်။ (မှတ် ချက် : အရက် /ဘီယာ ဆိုင် မရပါ )
+Hall Type ကြွေပြားခင်းထားပါတယ်။ ကားပါကင် ရှိပါသည်။
+ဒီလို လမ်းထောင့် ဆုံ ရာ  နေရာကောင်းလေးကို လက်ဦး မှု့ ရအောင် အမြန် Hello လုပ်ဖို့ လိုပါမယ် နော်  ။ 
+အငှား ( 6 လ ချုပ် / နှစ်ချုပ် ) တစ်လ  - ၁၁သိန်း ပါ။
+အိမ်ကြည့်မယ်ဆို ပါက ကြို ချိန်းရပါမယ်။";s:15:"description_eng";s:1525:"စီးပွားရေးလုပ်ရန်  နေရာ အလွန် ကောင်း သော လမ်းမကြီး ပေါ်ရှိ အငှား ပါ။
+မဂ်လာတောင်ညွန့် ရှိ  မြယာကုန်း လမ်းမကြီး နှင့် ဗိုလ်မင်းရောင် လမ်မ ကြီး ထောင့် တွင်ရှိသော  ၁၂.၅၀ *၅၈ ပေ အကျယ် ရှိ မြေညီ အငှားလေး ရှိပါတယ်။  နောက်ဖေး နဲ့ ဘေး မှာ မြေပိုပါ ရှိ‌သောကြောင့်။  Tea shop  ၊ Show Room ၊ စားသောက်ဆိုင် ဖွင့်  လို့ရပါတယ်ရှင့်။ (မှတ် ချက် : အရက် /ဘီယာ ဆိုင် မရပါ )
+Hall Type ကြွေပြားခင်းထားပါတယ်။ ကားပါကင် ရှိပါသည်။
+ဒီလို လမ်းထောင့် ဆုံ ရာ  နေရာကောင်းလေးကို လက်ဦး မှု့ ရအောင် အမြန် Hello လုပ်ဖို့ လိုပါမယ် နော်  ။ 
+အငှား ( 6 လ ချုပ် / နှစ်ချုပ် ) တစ်လ  - ၁၁သိန်း ပါ။
+အိမ်ကြည့်မယ်ဆို ပါက ကြို ချိန်းရပါမယ်။";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000165";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:22:"4 March, 2022 14:00 pm";s:12:"viewer_count";s:1:"1";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:12:"09-771419525";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";s:2:"No";s:11:"township_id";s:2:"11";s:10:"regions_id";s:1:"1";s:9:"townships";s:18:"Mingalartaungnyunt";s:12:"townships_mm";s:51:"မင်္ဂလာတောင်ညွန့်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"7414";s:5:"photo";s:36:"be90447b3985a4dff9ccad745f12b23b.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1274";}i:14;O:8:"stdClass":102:{s:7:"sale_id";s:3:"615";s:9:"title_eng";s:36:"နဝရတ်ကွန်ဒို";s:8:"title_mm";s:36:"နဝရတ်ကွန်ဒို";s:9:"region_id";N;s:16:"sale_township_id";s:2:"19";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:1:"1";s:4:"area";s:4:"1170";s:9:"area_type";s:4:"Sqft";s:5:"price";s:2:"10";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:1:"1";s:14:"masterbathroom";N;s:11:"dining_room";s:1:"1";s:11:"living_room";s:1:"1";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:1:"1";s:10:"year_built";s:0:"";s:13:"swimming_pool";s:13:"Swimming pool";s:7:"securit";s:14:"24 hrs Securit";s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";s:4:"Wifi";s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";s:4:"Lift";s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1158:"နဝရတ်ကွန်ဒို
+ပထမထပ်
+အမှတ်(၁) ၊ နဝရတ်လမ်း၊ အောင်မြေသာစည်(၁)ရပ်ကွက်၊ ကမာရွတ်မြို့နယ်။ (ဆင်ရေတွင်းမှတ်တိုင်၊ နဝရတ်လမ်းနှင့်အောင်မြေသာစည်လမ်းထောင့်)
+လှည်းတန်းစံရိပ်ငြိမ်ဂမုန်းပွင့်အနီး
+PISM ကျောင်းအနီး
+1170 Sq-Ft
+1 Master Bedroom
+1 Double Bedroom
+1 Maid Room
+2 Bathrooms with water heater
+Water purified system
+3 Aircons
+2 Lifts with card access control system
+Swimming Pool, Gym
+Fully Furnitures with a Skynet, Fridge, Gas Cooker, Internet, Washing Machine, All windows with mosquito nets
+For sale, 1900 laks
+For Rent, 1,000,000 mmk/month
+Price are negotiable.
+
+အကျယ်အဝန်း
+1170 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:15:"description_eng";s:1158:"နဝရတ်ကွန်ဒို
+ပထမထပ်
+အမှတ်(၁) ၊ နဝရတ်လမ်း၊ အောင်မြေသာစည်(၁)ရပ်ကွက်၊ ကမာရွတ်မြို့နယ်။ (ဆင်ရေတွင်းမှတ်တိုင်၊ နဝရတ်လမ်းနှင့်အောင်မြေသာစည်လမ်းထောင့်)
+လှည်းတန်းစံရိပ်ငြိမ်ဂမုန်းပွင့်အနီး
+PISM ကျောင်းအနီး
+1170 Sq-Ft
+1 Master Bedroom
+1 Double Bedroom
+1 Maid Room
+2 Bathrooms with water heater
+Water purified system
+3 Aircons
+2 Lifts with card access control system
+Swimming Pool, Gym
+Fully Furnitures with a Skynet, Fridge, Gas Cooker, Internet, Washing Machine, All windows with mosquito nets
+For sale, 1900 laks
+For Rent, 1,000,000 mmk/month
+Price are negotiable.
+
+အကျယ်အဝန်း
+1170 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000099";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"15 January, 2022 16:58 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:9:"095024327";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"19";s:10:"regions_id";s:1:"1";s:9:"townships";s:8:"Kamaryut";s:12:"townships_mm";s:21:"ကမာရွတ်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2881";s:5:"photo";s:36:"9b6e08a9abcd278bfc8132fb44637487.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"615";}i:15;O:8:"stdClass":102:{s:7:"sale_id";s:3:"618";s:9:"title_eng";s:44:"Cyrstal Residence High Floor Pagoda View 3BR";s:8:"title_mm";s:44:"Cyrstal Residence High Floor Pagoda View 3BR";s:9:"region_id";N;s:16:"sale_township_id";s:2:"19";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:2:"18";s:4:"area";s:4:"1413";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"1600";s:10:"price_type";s:3:"USD";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"3";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:393:"Crystal Residence
+
+Luxury Condo, 3BR room unit
+
+Fully Furnished
+
+High Floor
+
+Shwe Dagon Pagoda View
+
+Looking for immediate tenant!
+Agents are welcome.
+
+အကျယ်အဝန်း
+1413 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:15:"description_eng";s:393:"Crystal Residence
+
+Luxury Condo, 3BR room unit
+
+Fully Furnished
+
+High Floor
+
+Shwe Dagon Pagoda View
+
+Looking for immediate tenant!
+Agents are welcome.
+
+အကျယ်အဝန်း
+1413 စတုရန္းေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000101";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"15 January, 2022 17:11 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:11:"09426217618";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"19";s:10:"regions_id";s:1:"1";s:9:"townships";s:8:"Kamaryut";s:12:"townships_mm";s:21:"ကမာရွတ်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2893";s:5:"photo";s:36:"288d5bfdc3ac41e9124a019301dcb804.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"618";}i:16;O:8:"stdClass":102:{s:7:"sale_id";s:3:"594";s:9:"title_eng";s:77:"မီနီကွန်ဒို အငှား လှည်းတန်း";s:8:"title_mm";s:77:"မီနီကွန်ဒို အငှား လှည်းတန်း";s:9:"region_id";N;s:16:"sale_township_id";s:2:"19";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:1:"5";s:4:"area";s:5:"27*50";s:9:"area_type";s:4:"Sqft";s:5:"price";s:1:"7";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";s:4:"Lift";s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:132:"ရွေးစရာတွေများလို့ ရွေးရခက် စိတ်ရှုပ်နေပြီလား ";s:15:"description_eng";s:132:"ရွေးစရာတွေများလို့ ရွေးရခက် စိတ်ရှုပ်နေပြီလား ";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000085";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"15 January, 2022 13:15 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:11:"09795993564";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"19";s:10:"regions_id";s:1:"1";s:9:"townships";s:8:"Kamaryut";s:12:"townships_mm";s:21:"ကမာရွတ်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2763";s:5:"photo";s:36:"3c70537ca5f4589da81fd0ae3f42d93c.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"594";}i:17;O:8:"stdClass":102:{s:7:"sale_id";s:3:"601";s:9:"title_eng";s:465:"တိုက်ခန်း ငှားရန်ရှိသည် ဦးထွန်းလင်းခြံ လမ်းမပါ် အင်းစိန်လမ်းမ အနီး ကိန္ဒရီ စတိုးဆိုင် အပေါ်ထပ် နေရာကောင်း နေရာသန့် သင်တန်းဖွင့်ချင်သူများ အတွက် လုံးဝ လုံးဝ နေရာကောင်";s:8:"title_mm";s:465:"တိုက်ခန်း ငှားရန်ရှိသည် ဦးထွန်းလင်းခြံ လမ်းမပါ် အင်းစိန်လမ်းမ အနီး ကိန္ဒရီ စတိုးဆိုင် အပေါ်ထပ် နေရာကောင်း နေရာသန့် သင်တန်းဖွင့်ချင်သူများ အတွက် လုံးဝ လုံးဝ နေရာကောင်";s:9:"region_id";N;s:16:"sale_township_id";s:2:"19";s:18:"sale_property_type";s:1:"1";s:5:"floor";s:1:"3";s:4:"area";s:5:"17*70";s:9:"area_type";s:4:"Sqft";s:5:"price";s:6:"850000";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:5:"Other";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";N;s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:0:"";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";N;s:16:"air_conditioning";N;s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";N;s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:621:"ဦးထွန်းလင်းခြံ လမ်းမပါ် အင်းစိန်လမ်းမ အနီး ကိန္ဒရီ စတိုးဆိုင် အပေါ်ထပ် နေရာကောင်း နေရာသန့် သင်တန်းဖွင့်ချင်သူများ အတွက် လုံးဝ လုံးဝ နေရာကောင်း
+
+အကျယ်အဝန်း
+17 ေပ x 70 ေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:15:"description_eng";s:621:"ဦးထွန်းလင်းခြံ လမ်းမပါ် အင်းစိန်လမ်းမ အနီး ကိန္ဒရီ စတိုးဆိုင် အပေါ်ထပ် နေရာကောင်း နေရာသန့် သင်တန်းဖွင့်ချင်သူများ အတွက် လုံးဝ လုံးဝ နေရာကောင်း
+
+အကျယ်အဝန်း
+17 ေပ x 70 ေပ
+
+အချက်အလက်များ
+ ပိုင်ရှင်ကိုယ်တိုင်
+ အလုံးစုံ ပြင်ဆင်ပြီး";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000090";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:25:"15 January, 2022 14:10 pm";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";N;s:14:"contact_number";s:11:"09454125179";s:17:"user_contact_name";N;s:12:"user_address";N;s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"19";s:10:"regions_id";s:1:"1";s:9:"townships";s:8:"Kamaryut";s:12:"townships_mm";s:21:"ကမာရွတ်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"1";s:13:"property_type";s:9:"Apartment";s:16:"property_type_mm";s:27:"တိုက်ခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"2789";s:5:"photo";s:36:"a8a7bbb774e6f38707253a81e5c328ab.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"601";}i:18;O:8:"stdClass":102:{s:7:"sale_id";s:4:"1040";s:9:"title_eng";s:133:"လှည်းတန်းစင်တာ နှင့် လှည်းတန်းစျေးအနီး ကွန်ဒို ";s:8:"title_mm";s:133:"လှည်းတန်းစင်တာ နှင့် လှည်းတန်းစျေးအနီး ကွန်ဒို ";s:9:"region_id";N;s:16:"sale_township_id";s:2:"20";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:1:"4";s:4:"area";s:4:"1300";s:9:"area_type";s:4:"Sqft";s:5:"price";s:6:"700000";s:10:"price_type";s:10:"MMK(Lakhs)";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"1";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"2";s:10:"other_room";s:0:"";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";N;s:7:"securit";s:14:"24 hrs Securit";s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";N;s:4:"lift";N;s:11:"play_ground";N;s:12:"water_heater";N;s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:1673:"လှည်းတန်းစင်တာ နှင့် လှည်းတန်းစျေးအနီး ကွန်ဒို 
+အငှား - ၇ သိန်း 
+✅ ၄ လွှာ ✅ Master Room ၁ ခန်း ✅ Single Room ၂ ခန်း ✅ Aircon ၄ လုံး ✅ ရခေဲသတ်ေတာ ✅ အဝတ်လျှော်စက် ✅ ရေပူရေအေးစက် ✅ ဆိုဖာဆက်တီ ✅ အဝတ်ဘီဒို ✅ တီဗွီ ✅ အိပ်ယာ ကုတင် ✅ ထမင်းစားပွဲ ✅ ဓာတ်လှေခါး
+✅ မီးစက် ✅ ကားပါကင်✅ ၂၄ နာရီလုံခြုံရေး ✅ လှည်းတန်းစင်တာ သို့ လမ်းလျှောက်လျှင် ၅ မိနစ်
+☎️ 09-457778099 (အကျိုးဆောင်)
+(အခန်းပိုင်ရှင်များ အနေနှင့် လူကြီးမင်းတို့ ငှားလို/ရောင်းလိုသော အိမ်ခန်းများကို တိုက်ရိုက်ဆက်သွယ်အပ်နှံနိုင်ပါသည်)
+------------------------------
+Fully Furnished Condo For Rent 
+Nearby Hledan Center and market
+Fee - 7 Lakhs
+✅ 4th Floor ✅ 1 Master Room ✅ 2 Single Rooms ✅ 4 Aircons ✅ Refrigerator ✅ Washing Machine ✅ Water Heater ✅ Sofa Settee ✅ Beds & Mattresses ✅ Wardrobe ✅ TV ✅ Dining Table
+✅ Elevator ✅ Backup Generator ✅ Car Parking ✅ 24 Hours Security ✅ 5 mins walk to Hledan Center
+☎️ 09457778099 (Agent)";s:15:"description_eng";s:1673:"လှည်းတန်းစင်တာ နှင့် လှည်းတန်းစျေးအနီး ကွန်ဒို 
+အငှား - ၇ သိန်း 
+✅ ၄ လွှာ ✅ Master Room ၁ ခန်း ✅ Single Room ၂ ခန်း ✅ Aircon ၄ လုံး ✅ ရခေဲသတ်ေတာ ✅ အဝတ်လျှော်စက် ✅ ရေပူရေအေးစက် ✅ ဆိုဖာဆက်တီ ✅ အဝတ်ဘီဒို ✅ တီဗွီ ✅ အိပ်ယာ ကုတင် ✅ ထမင်းစားပွဲ ✅ ဓာတ်လှေခါး
+✅ မီးစက် ✅ ကားပါကင်✅ ၂၄ နာရီလုံခြုံရေး ✅ လှည်းတန်းစင်တာ သို့ လမ်းလျှောက်လျှင် ၅ မိနစ်
+☎️ 09-457778099 (အကျိုးဆောင်)
+(အခန်းပိုင်ရှင်များ အနေနှင့် လူကြီးမင်းတို့ ငှားလို/ရောင်းလိုသော အိမ်ခန်းများကို တိုက်ရိုက်ဆက်သွယ်အပ်နှံနိုင်ပါသည်)
+------------------------------
+Fully Furnished Condo For Rent 
+Nearby Hledan Center and market
+Fee - 7 Lakhs
+✅ 4th Floor ✅ 1 Master Room ✅ 2 Single Rooms ✅ 4 Aircons ✅ Refrigerator ✅ Washing Machine ✅ Water Heater ✅ Sofa Settee ✅ Beds & Mattresses ✅ Wardrobe ✅ TV ✅ Dining Table
+✅ Elevator ✅ Backup Generator ✅ Car Parking ✅ 24 Hours Security ✅ 5 mins walk to Hledan Center
+☎️ 09457778099 (Agent)";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000142";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:26:"14 February, 2022 10:44 am";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:11:"09457778099";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";s:0:"";s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"20";s:10:"regions_id";s:1:"1";s:9:"townships";s:6:"Insein";s:12:"townships_mm";s:24:"အင်းစိန်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"5480";s:5:"photo";s:36:"09ad5c6380293c5d10d218ebc76a71c2.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:4:"1040";}i:19;O:8:"stdClass":102:{s:7:"sale_id";s:3:"959";s:9:"title_eng";s:46:"Kantharyar Residence Penthouse အငှား";s:8:"title_mm";s:46:"Kantharyar Residence Penthouse အငှား";s:9:"region_id";N;s:16:"sale_township_id";s:2:"11";s:18:"sale_property_type";s:1:"2";s:5:"floor";s:0:"";s:4:"area";s:4:"2800";s:9:"area_type";s:4:"Sqft";s:5:"price";s:4:"3000";s:10:"price_type";s:3:"USD";s:11:"installment";s:2:"No";s:15:"property_status";s:15:"Fully Furnished";s:5:"rooms";s:0:"";s:8:"bathroom";s:0:"";s:14:"masterbathroom";s:1:"2";s:11:"dining_room";s:0:"";s:11:"living_room";s:0:"";s:9:"bead_room";s:1:"1";s:10:"other_room";s:1:"1";s:11:"shrine_room";s:0:"";s:10:"year_built";s:0:"";s:13:"swimming_pool";s:13:"Swimming pool";s:7:"securit";s:14:"24 hrs Securit";s:16:"air_conditioning";s:16:"Air conditioning";s:4:"wifi";N;s:7:"balcony";N;s:4:"cctv";N;s:11:"car_parking";s:11:"Car Parking";s:10:"dishwasher";N;s:9:"generator";N;s:11:"near_church";N;s:6:"garden";N;s:3:"gym";s:3:"Gym";s:4:"lift";s:4:"Lift";s:11:"play_ground";N;s:12:"water_heater";s:12:"Water Heater";s:13:"mountain_view";N;s:11:"pagoda_view";N;s:8:"sea_view";N;s:9:"lake_view";N;s:9:"city_view";N;s:11:"garden_view";N;s:10:"river_view";N;s:8:"showroom";N;s:10:"restaurant";N;s:6:"office";N;s:9:"warehouse";N;s:14:"description_mm";s:749:"Penthouse with Perfect Facilities
+@ Kantharyar Residence
+Penthouse 
+2 MBR & 2 Single
+2 Common Shower & WC
+1 Maid Room & Shower with WC Room
+Relaxing Room with Bar Table
+Kitchen
+Upper & Lower Living Room
+Dinning Room
+2800 sqft
+Fully Furnishes with Furnitures 
+Leasing Price - $ 3000 - Negotiable ($)
+Amenities: 
+Excellent View. 
+Internet & Skynet
+Gym and Recreation places
+Kid pool & Leisure pool
+24 Hours Security by 5 Stars Wydham Hotel
+2 basement car parking, 
+3 Lifts & 2 Emergency Staircases
+Standby Generator 
+Water Treatment & Sewage Treatment System
+Centralised refuse disposal system
+Next Door: 
+Shopping Mall, 
+Market Place
+Restaurants, 
+Cinema, 
+High Class Amenities And Facilities. 
+In The Heart Of The City.";s:15:"description_eng";s:769:"            Penthouse with Perfect Facilities
+@ Kantharyar Residence
+Penthouse 
+2 MBR & 2 Single
+2 Common Shower & WC
+1 Maid Room & Shower with WC Room
+Relaxing Room with Bar Table
+Kitchen
+Upper & Lower Living Room
+Dinning Room
+2800 sqft
+Fully Furnishes with Furnitures 
+Leasing Price - $ 3000 - Negotiable ($)
+Amenities: 
+Excellent View. 
+Internet & Skynet
+Gym and Recreation places
+Kid pool & Leisure pool
+24 Hours Security by 5 Stars Wydham Hotel
+2 basement car parking, 
+3 Lifts & 2 Emergency Staircases
+Standby Generator 
+Water Treatment & Sewage Treatment System
+Centralised refuse disposal system
+Next Door: 
+Shopping Mall, 
+Market Place
+Restaurants, 
+Cinema, 
+High Class Amenities And Facilities. 
+In The Heart Of The City.        ";s:11:"plans_photo";s:0:"";s:5:"video";s:0:"";s:9:"ad_status";s:1:"1";s:14:"propertie_type";s:8:"for_rent";s:9:"ad_number";s:8:"R-000138";s:9:"education";N;s:6:"health";N;s:14:"transportation";N;s:12:"user_info_id";s:1:"0";s:11:"carete_date";N;s:16:"post_upload_date";s:26:"10 February, 2022 10:37 am";s:12:"viewer_count";s:1:"0";s:14:"soldout_status";s:1:"0";s:8:"map_link";s:0:"";s:15:"share_agent_fee";s:2:"No";s:12:"top_featured";s:2:"No";s:14:"contact_number";s:12:"09-951446016";s:17:"user_contact_name";s:0:"";s:12:"user_address";s:0:"";s:16:"agent_owner_logo";N;s:11:"upload_type";s:9:"For_Agent";s:12:"slide_status";N;s:11:"township_id";s:2:"11";s:10:"regions_id";s:1:"1";s:9:"townships";s:18:"Mingalartaungnyunt";s:12:"townships_mm";s:51:"မင်္ဂလာတောင်ညွန့်";s:6:"status";s:1:"1";s:6:"region";s:13:"Yangon Region";s:9:"region_mm";s:21:"ရန်ကုန်";s:16:"property_type_id";s:1:"2";s:13:"property_type";s:5:"Condo";s:16:"property_type_mm";s:36:"ကွန်ဒိုအခန်း";s:7:"user_id";N;s:10:"company_id";N;s:12:"company_name";N;s:4:"name";N;s:5:"email";N;s:12:"confirm_mail";N;s:5:"phone";N;s:8:"password";N;s:12:"company_type";N;s:7:"address";N;s:11:"description";N;s:4:"logo";N;s:9:"user_role";N;s:16:"user_permissions";N;s:10:"package_id";N;s:16:"suspended_status";N;s:12:"propertie_id";s:4:"5060";s:5:"photo";s:36:"12df1118fc3b2be262c9d6c4c2b174e7.jpg";s:9:"image_url";s:42:"https://www.tatnaywonproperty.com/uploads/";s:13:"properties_id";s:3:"959";}}s:20:"custom_result_object";a:0:{}s:11:"current_row";i:0;s:8:"num_rows";i:20;s:8:"row_data";N;}

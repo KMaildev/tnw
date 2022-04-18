@@ -1,0 +1,129 @@
+<?php $this->load->view('templates/admin_header'); ?>
+<?php $this->load->view('templates/admin_top'); ?>
+<?php $this->load->view('templates/admin_menu'); ?>
+<link href='<?php echo base_url(); ?>resources/dropzone.css' type='text/css' rel='stylesheet'>
+<section class="content">
+    <div class="block-header">
+        <div class="row">
+            <div class="col-lg-5 col-md-5 col-sm-12">
+                <h2>Property Add
+                <small>Tat Nay Won</small>
+                </h2>
+            </div>            
+            <div class="col-lg-7 col-md-7 col-sm-12 text-md-right">
+                <ul class="breadcrumb float-md-right">
+                    <li class="breadcrumb-item"><a href="<?php echo site_url('main/for_sale'); ?>"><i class="zmdi zmdi-home"></i> Property Add</a></li>
+                    <li class="breadcrumb-item active">Create</li>
+                </ul>
+            </div>
+        </div>
+    </div>
+    <div class="container-fluid">
+        <div class="row clearfix">
+            <div class="col-lg-12">
+                <div class="card">
+                    <div class="header">
+                        <h2><strong>Property Add</strong> </h2>
+                    </div>
+                    <div class="body">
+                        <?php if($this->session->flashdata('success')){ ?>
+                            <div class="alert alert-success">
+                                <strong>
+                                    <span class="glyphicon glyphicon-ok"></span>   
+                                    <?php echo $this->session->flashdata('success'); ?>
+                                </strong>
+                            </div>
+                        <?php }elseif($this->session->flashdata('danger')){ ?>
+                            <div class="alert alert-danger">
+                                <strong>
+                                    <span class="glyphicon glyphicon-ok"></span>   
+                                    <?php echo $this->session->flashdata('danger'); ?>
+                                </strong>
+                            </div>
+                        <?php } ?>
+
+                        <!-- <form  action="<?php echo site_url('main/for_sale/fileupload'); ?>" class="dropzone" id='fileupload'>
+                            <input type="hidden" name="insert_id" value="<?php echo($insert_id); ?>">
+
+                            <button type="submit" id="submit-all"> upload </button>
+                        </form> -->
+
+                        <form action='<?php echo site_url('main/for_sale/fileupload'); ?>' class="dropzone" id="videoDropzone" name="videoDropzone" method="post" enctype="multipart/form-data">
+                            <input type="hidden" name="insert_id" value="<?php echo($insert_id); ?>">
+                            <p class="dz-message">Drop video here to upload</p>    
+                            <button type="submit" name="videoDropzoneSubmit" id="videoDropzoneSubmit">Save</button>
+                        </form>
+
+
+                    </div>
+                </div>
+            </div>
+        </div>
+    </div>
+</section>
+
+
+<?php $this->load->view('templates/admin_footer'); ?>
+<script src='<?php echo base_url() ?>resources/dropzone.js' type='text/javascript'></script>
+
+<!-- <script type="text/javascript">
+    Dropzone.options.myDropzone= {
+        url: '<?php echo site_url('main/for_sale/fileupload'); ?>',
+        autoProcessQueue: false,
+        uploadMultiple: true,
+        parallelUploads: 5,
+        maxFiles: 5,
+        maxFilesize: 1,
+        acceptedFiles: 'image/*',
+        addRemoveLinks: true,
+        init: function() {
+            dzClosure = this; // Makes sure that 'this' is understood inside the functions below.
+
+            // for Dropzone to process the queue (instead of default form behavior):
+            document.getElementById("submit-all").addEventListener("click", function(e) {
+                // Make sure that the form isn't actually being sent.
+                e.preventDefault();
+                e.stopPropagation();
+                dzClosure.processQueue();
+            });
+
+            //send all the form data along with the files:
+            this.on("sendingmultiple", function(data, xhr, formData) {
+                formData.append("firstname", jQuery("#firstname").val());
+                formData.append("lastname", jQuery("#lastname").val());
+            });
+        }
+    }
+</script>
+
+<script>
+    Dropzone.options.fileupload = {
+        acceptedFiles: '.jpeg, .jpg, .png, .gif',
+        maxFilesize: 1,
+        addRemoveLinks: true,
+        autoProcessQueue: true,
+        uploadMultiple: false,
+        
+    };
+</script> -->
+
+<script type="text/javascript">
+Dropzone.options.videoDropzone = {
+    paramName: "file", // The name that will be used to transfer the file
+    maxFilesize: 1000, // MB
+    maxFiles: 4,
+    acceptedFiles: ".jpg",
+    addRemoveLinks: true,
+    // Prevents Dropzone from uploading dropped files immediately
+    autoProcessQueue: false,
+    init: function() {
+        var submitButton = document.querySelector("#videoDropzoneSubmit")
+        myDropzone = this; // closure
+        
+        submitButton.addEventListener("click", function() {
+            myDropzone.processQueue(); // Tell Dropzone to process all queued files.
+        });     
+    }
+};
+</script>
+
